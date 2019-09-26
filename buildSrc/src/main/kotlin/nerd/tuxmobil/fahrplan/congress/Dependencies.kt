@@ -16,7 +16,7 @@ object GradlePlugins {
     private object Versions {
         const val androidGradle = "3.5.0"
         const val gradleVersions = "0.25.0"
-        const val proguardGradle = "6.0.3"
+        const val proguardGradle = "6.1.1"
         const val sonarQubeGradle = "2.7.1"
     }
 
