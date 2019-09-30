@@ -18,7 +18,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
-import android.text.format.Time;
 import android.view.ContextMenu;
 import android.view.ContextMenu.ContextMenuInfo;
 import android.view.Gravity;
@@ -51,6 +50,8 @@ import nerd.tuxmobil.fahrplan.congress.MyApp;
 import nerd.tuxmobil.fahrplan.congress.R;
 import nerd.tuxmobil.fahrplan.congress.alarms.AlarmTimePickerFragment;
 import nerd.tuxmobil.fahrplan.congress.calendar.CalendarSharing;
+import nerd.tuxmobil.fahrplan.congress.commons.Clock;
+import nerd.tuxmobil.fahrplan.congress.commons.SystemClock;
 import nerd.tuxmobil.fahrplan.congress.contract.BundleKeys;
 import nerd.tuxmobil.fahrplan.congress.extensions.Contexts;
 import nerd.tuxmobil.fahrplan.congress.models.Alarm;
@@ -393,8 +394,7 @@ public class FahrplanFragment extends Fragment implements OnClickListener {
                 MyApp.meta.getDayChangeHour(), MyApp.meta.getDayChangeMinute())) {
             return;
         }
-        Time now = new Time();
-        now.setToNow();
+        Clock nowClock = new SystemClock();
         HorizontalSnapScrollView horiz = null;
 
         switch (getResources().getConfiguration().orientation) {
@@ -414,13 +414,13 @@ public class FahrplanFragment extends Fragment implements OnClickListener {
         int printTime = time;
         int scrollAmount = 0;
 
-        if (!(now.hour * 60 + now.minute < conference.getFirstEventStartsAt() &&
-                MyApp.dateInfos.sameDay(now, MyApp.lectureListDay))) {
+        if (!(nowClock.getHour() * 60 + nowClock.getMinute() < conference.getFirstEventStartsAt() &&
+                MyApp.dateInfos.sameDay(nowClock, MyApp.lectureListDay))) {
 
             TimeSegment timeSegment;
             while (time < conference.getLastEventEndsAt()) {
                 timeSegment = new TimeSegment(printTime);
-                if (timeSegment.isMatched(now, FIFTEEN_MINUTES)) {
+                if (timeSegment.isMatched(nowClock, FIFTEEN_MINUTES)) {
                     break;
                 } else {
                     scrollAmount += height * 3;
@@ -510,15 +510,14 @@ public class FahrplanFragment extends Fragment implements OnClickListener {
         int printTime = time;
         LinearLayout timeTextColumn = getView().findViewById(R.id.times_layout);
         timeTextColumn.removeAllViews();
-        Time now = new Time();
-        now.setToNow();
+        Clock nowClock = new SystemClock();
         View timeTextView;
         int timeTextViewHeight = 3 * getNormalizedBoxHeight(getResources(), scale, LOG_TAG);
         TimeSegment timeSegment;
         while (time < conference.getLastEventEndsAt()) {
             timeSegment = new TimeSegment(printTime);
             int timeTextLayout;
-            if (isToday(now) && timeSegment.isMatched(now, FIFTEEN_MINUTES)) {
+            if (isToday(nowClock) && timeSegment.isMatched(nowClock, FIFTEEN_MINUTES)) {
                 timeTextLayout = R.layout.time_layout_now;
             } else {
                 timeTextLayout = R.layout.time_layout;
@@ -535,8 +534,8 @@ public class FahrplanFragment extends Fragment implements OnClickListener {
         }
     }
 
-    private boolean isToday(Time time) {
-        return time.monthDay - BuildConfig.SCHEDULE_FIRST_DAY_START_DAY == mDay - 1;
+    private boolean isToday(@NonNull Clock clock) {
+        return clock.getMonthDay() - BuildConfig.SCHEDULE_FIRST_DAY_START_DAY == mDay - 1;
     }
 
     private int getEventPadding() {

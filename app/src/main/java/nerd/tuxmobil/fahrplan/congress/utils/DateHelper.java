@@ -1,5 +1,6 @@
 package nerd.tuxmobil.fahrplan.congress.utils;
 
+import android.support.annotation.NonNull;
 import android.text.format.Time;
 
 import java.text.DateFormat;
@@ -9,27 +10,28 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.TimeZone;
 
+import nerd.tuxmobil.fahrplan.congress.commons.Clock;
+import nerd.tuxmobil.fahrplan.congress.commons.SystemClock;
+
 public class DateHelper {
 
     /**
      * Returns a formatted string for the current date. Pattern YYYY-MM-DD.
      */
     public static String getCurrentDate() {
-        Time now = new Time();
-        now.setToNow();
-        return getFormattedDate(now);
+        return getFormattedDate(new SystemClock());
     }
 
     /**
-     * Returns a formatted string for the given time. Pattern YYYY-MM-DD.
+     * Returns a formatted string for the given clock. Pattern YYYY-MM-DD.
      */
-    public static String getFormattedDate(Time time) {
+    public static String getFormattedDate(@NonNull Clock clock) {
         StringBuilder date = new StringBuilder();
-        date.append(String.format("%d", time.year));
+        date.append(String.format("%d", clock.getYear()));
         date.append("-");
-        date.append(String.format("%02d", time.month + 1));
+        date.append(String.format("%02d", clock.getMonth() + 1));
         date.append("-");
-        date.append(String.format("%02d", time.monthDay));
+        date.append(String.format("%02d", clock.getMonthDay()));
         return date.toString();
     }
 
