@@ -71,8 +71,7 @@ persons = ['','']
 
 
 # Metadata:
-conference = '''
-  <conference>
+conference = '''  <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
     <start>2019-10-04</start>
@@ -152,7 +151,7 @@ def printXML(reader):
         datumStrStop = dateStop.strftime('%Y-%m-%d')
         timeStrStop = dateStop.strftime('%H:%M:%S')
                 
-        dayStart = datumStrStart + 'T' + time + timezone
+        dayStart = datumStrStart + 'T' + time + ":00" + timezone
         end = datumStrStop + 'T' + timeStrStop + timezone
 
         eventStart = time
