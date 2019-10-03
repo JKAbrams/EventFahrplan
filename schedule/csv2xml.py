@@ -156,6 +156,16 @@ def printXML(reader):
         description = r[4]
         room = r[5]
 
+        # Calculate dates:
+        thisDate = StartDate + timedelta(days=dayIndex-1)
+        datumStrStart = thisDate.strftime('%Y-%m-%d')
+        dateStop = thisDate + datetime.timedelta(0,3600)
+        datumStrStop = dateStop.strftime('%Y-%m-%d')
+        timeStrStop = dateStop.strftime('%H:%M:%S')
+        
+        start = datumStrStart + 'T' + time + timezone
+        end = datumStrStop + 'T' + timeStrStop + timezone
+
 
         if not day == lastDay:
             dayChange = True
@@ -202,42 +212,10 @@ def printXML(reader):
         
         if dayOpen:
             dayIndex = dayIndex + 1
-            
-            thisDate = StartDate + timedelta(days=dayIndex-1)
-            #print(thisDate.strftime('%Y-%m-%d'))
-            
-            datumStrStart = thisDate.strftime('%Y-%m-%d')
-            dateStop = thisDate + datetime.timedelta(0,3600)
-            datumStrStop = dateStop.strftime('%Y-%m-%d')
-            timeStrStop = dateStop.strftime('%H:%M:%S')
-            
-            start = datumStrStart + 'T' + time + timezone
-            end = datumStrStop + 'T' + timeStrStop + timezone
             print(dayOpening.format(dayIndex, datumStrStart, start, end))
             
         if roomOpen:
             print(roomOpening.format(room))
-
-
-        printEvent(eventOpening, thisDate, title, description, persons, room)
-        #for each person:
-        #    print(person.format(personId, personName))
-        print(eventEnding)
-
-        lastDay = day
-        lastRoom = room
-    
-    print(roomEnding)
-    print(dayEnding)
-    print(xmlEnding)
-
-
-def printEvent(eventOpening, thisDate, title, abstract, persons, room):
-
-        datumStrStart = thisDate.strftime('%Y-%m-%d')
-        dateStop = thisDate + datetime.timedelta(0,3600)
-        datumStrStop = dateStop.strftime('%Y-%m-%d')
-        timeStrStop = dateStop.strftime('%H:%M:%S')
         
         idd = "1"
         guid = "1"
@@ -248,8 +226,18 @@ def printEvent(eventOpening, thisDate, title, abstract, persons, room):
         typ = ""
         subtitle = ""
         language = "en"
-        print(eventOpening.format(idd, guid, url, datumStrStart, start, duration, room, slug, title, subtitle, track, typ, language, abstract, persons))
+        print(eventOpening.format(idd, guid, url, datumStrStart, start, duration, room, slug, title, subtitle, track, typ, language, description, persons))
 
+        #for each person:
+        #    print(person.format(personId, personName))
+        print(eventEnding)
+
+        lastDay = day
+        lastRoom = room
+    
+    print(roomEnding)
+    print(dayEnding)
+    print(xmlEnding)
 
 def csvReader(argv):
     
