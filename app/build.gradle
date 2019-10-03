@@ -63,7 +63,7 @@ android {
             dimension defaultDimension
             applicationId "info.metadude.android.congress.schedule"
             //signingConfig signingConfigs.ccc35c3
-            buildConfigField "String", "SCHEDULE_URL", '"https://raw.githubusercontent.com/voc/35C3_schedule/master/everything.schedule.xml"'
+            buildConfigField "String", "SCHEDULE_URL", '"https://raw.githubusercontent.com/JKAbrams/EventFahrplan/master/schedule/hcpp19.xml"'
             buildConfigField "String", "EVENT_URL", '""' // https://events.ccc.de/congress/2018/Fahrplan/events/%1$s.html
             buildConfigField "String", "SERVER_BACKEND_TYPE", '"frab"'
             buildConfigField "int", "SCHEDULE_FIRST_DAY_START_YEAR", "2019"
