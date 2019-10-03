@@ -239,8 +239,8 @@ def printEvent(eventOpening, thisDate, title, abstract, persons, room):
         datumStrStop = dateStop.strftime('%Y-%m-%d')
         timeStrStop = dateStop.strftime('%H:%M:%S')
         
-        idd = ""
-        guid = ""
+        idd = "1"
+        guid = "1"
         url = ""
         duration = "01:00"
         slug = ""

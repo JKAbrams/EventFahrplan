@@ -1,8 +1,8 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 01:20</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 01:25</version>
   <day index="1" date="2019-10-04" start="2019-10-04T15:00+02:00" end="2019-10-04T01:00:00+02:00">
     <room name="Hackerspace">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -29,7 +29,7 @@
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -54,7 +54,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -79,7 +79,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -104,7 +104,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -129,7 +129,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -156,7 +156,7 @@
       </event>
     </room>
     <room name="Slévárna">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -181,7 +181,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -206,7 +206,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -231,7 +231,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -256,7 +256,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -283,7 +283,7 @@
       </event>
     </room>
     <room name="Small Hub">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -308,7 +308,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -335,7 +335,7 @@
       </event>
     </room>
     <room name="Studio 1">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -360,7 +360,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -385,7 +385,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -410,7 +410,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -435,7 +435,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -460,7 +460,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -485,7 +485,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -512,7 +512,7 @@
       </event>
     </room>
     <room name="Bar">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -539,7 +539,7 @@
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -581,7 +581,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -606,7 +606,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -633,7 +633,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -658,7 +658,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -709,7 +709,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -734,7 +734,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -761,7 +761,7 @@ That point in time can be continuously pushed forward by the sender. This is use
       </event>
     </room>
     <room name="Media Hub">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -809,7 +809,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
       </event>
     </room>
     <room name="Slévárna">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -834,7 +834,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -865,7 +865,7 @@ This talk looks at the development of financial surveillance. It looks at curren
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -892,7 +892,7 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -921,7 +921,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -946,7 +946,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -977,7 +977,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       </event>
     </room>
     <room name="Small Hub">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1009,7 +1009,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1049,7 +1049,7 @@ Pavel "i_a" Polach is a hardware engineer, encryption enthusiast and Monero fan.
       </event>
     </room>
     <room name="Studio 1">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1074,7 +1074,7 @@ Pavel "i_a" Polach is a hardware engineer, encryption enthusiast and Monero fan.
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1105,7 +1105,7 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1142,7 +1142,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1171,7 +1171,7 @@ A strong social demand has been generated to improve connectivity and expand the
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1200,7 +1200,7 @@ In this talk we shall explore the necessary properties of government-independent
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1229,7 +1229,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1256,7 +1256,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       </event>
     </room>
     <room name="Bar">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1283,7 +1283,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1325,7 +1325,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1350,7 +1350,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1375,7 +1375,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1413,7 +1413,7 @@ What is Tor? Is it merely a place for criminals to hide out on the so called "Da
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1440,7 +1440,7 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1478,7 +1478,7 @@ From theoretical concepts to real world products and how we can get this done.
       </event>
     </room>
     <room name="Slévárna">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1507,7 +1507,7 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1534,7 +1534,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1559,7 +1559,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1588,7 +1588,7 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
       </event>
     </room>
     <room name="Small Hub">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1622,7 +1622,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1655,7 +1655,7 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
       </event>
     </room>
     <room name="Studio 1">
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1695,7 +1695,7 @@ Moderated by: Pavol Lupták</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1720,7 +1720,7 @@ Moderated by: Pavol Lupták</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1747,7 +1747,7 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
@@ -1774,7 +1774,7 @@ You will find the answer from the stories of my life.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="" guid="">
+      <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04</date>
