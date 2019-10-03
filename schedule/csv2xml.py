@@ -47,6 +47,8 @@ eventEnding = '''
 person = '''          <person id="{}">{}</person>'''
 
 
+
+
 days = 3
 startDate = "2019-10-02"
 
@@ -69,7 +71,7 @@ persons = ['','']
 
 
 # Metadata:
-conferance = '''
+conference = '''
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -103,23 +105,13 @@ def printXML(reader):
     #  --- = Case 3
     #  XX- = Case 4
 
-
-
     print(xmlOpening.format(datetime.datetime.now().strftime('%Y-%m-%d %H:%M')))
+    print(conference)
 
     dayIndex = 0
-
     startDate = "2019-10-04"
     timezone = "+02:00"
-
-
-    #datetime.strptime("2018-05-25T12:16:14+00:00", "%Y-%m-%d %H:%M:%S")
-
-
     StartDate = datetime.datetime.strptime(startDate, "%Y-%m-%d")
-
-
-
 
     firstLine = True
     firstInSchedule = True
@@ -129,17 +121,14 @@ def printXML(reader):
     dayChange = True
     roomChange = True
     
-    
     # Contains the state for the first line
     roomEnd = False
     dayEnd = False
     dayOpen = True
     roomOpen = True
     
-    
     lastDay = 0
     lastRoom = ''
-
     
     for r in reader:
         
@@ -162,9 +151,12 @@ def printXML(reader):
         dateStop = thisDate + datetime.timedelta(0,3600)
         datumStrStop = dateStop.strftime('%Y-%m-%d')
         timeStrStop = dateStop.strftime('%H:%M:%S')
-        
-        start = datumStrStart + 'T' + time + timezone
+                
+        dayStart = datumStrStart + 'T' + time + timezone
         end = datumStrStop + 'T' + timeStrStop + timezone
+
+        eventStart = time
+        eventDate = dayStart
 
 
         if not day == lastDay:
@@ -212,7 +204,7 @@ def printXML(reader):
         
         if dayOpen:
             dayIndex = dayIndex + 1
-            print(dayOpening.format(dayIndex, datumStrStart, start, end))
+            print(dayOpening.format(dayIndex, datumStrStart, dayStart, end))
             
         if roomOpen:
             print(roomOpening.format(room))
@@ -226,7 +218,7 @@ def printXML(reader):
         typ = ""
         subtitle = ""
         language = "en"
-        print(eventOpening.format(idd, guid, url, datumStrStart, start, duration, room, slug, title, subtitle, track, typ, language, description, persons))
+        print(eventOpening.format(idd, guid, url, eventDate, eventStart, duration, room, slug, title, subtitle, track, typ, language, description, persons))
 
         #for each person:
         #    print(person.format(personId, personName))
