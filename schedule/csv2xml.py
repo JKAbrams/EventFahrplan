@@ -105,7 +105,7 @@ def printXML(reader):
 
 
 
-    print(xmlOpening.format(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
+    print(xmlOpening.format(datetime.datetime.now().strftime('%Y-%m-%d %H:%M')))
 
     dayIndex = 0
 

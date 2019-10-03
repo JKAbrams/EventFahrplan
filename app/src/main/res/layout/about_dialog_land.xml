@@ -48,7 +48,7 @@
                 android:textColor="#FFF"
                 android:textStyle="italic"
                 android:typeface="serif"
-                tools:text="Works for me">
+                tools:text="Opt out">
         </TextView>
 
         <TextView
