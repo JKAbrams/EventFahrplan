@@ -36,7 +36,7 @@
                 android:textColor="#FFF"
                 android:textSize="16sp"
                 android:textStyle="bold"
-                tools:text="33. Chaos Communication Congress"/>
+                tools:text="Hackers Congress Paralelni Polis 2019"/>
 
         <TextView
                 android:id="@+id/eventSubtitle"
@@ -61,7 +61,7 @@
                 android:paddingBottom="10dp"
                 android:singleLine="false"
                 style="@style/TextViewLinks"
-                tools:text="https://events.ccc.de/congress/2016"/>
+                tools:text="https://opt-out.hcpp.cz"/>
 
         <TextView
                 android:id="@+id/eventVersion"
