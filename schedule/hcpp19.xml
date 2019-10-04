@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:42</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:53</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -11,12 +11,12 @@
   </conference>
   <day index="1" date="2019-10-04" start="2019-10-04T09:00:00+02:00" end="2019-10-05T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="1" guid="1">
+      <event id="1" guid="f33843f0-7112-4b06-8ac4-12ba6c96109a">
         <url></url>
         <logo/>
         <date>2019-10-04T09:00+02:00</date>
         <start>09:00</start>
-        <duration>01:00</duration>
+        <duration>00:10</duration>
         <room>Studio 1</room>
         <slug></slug>
         <title>-</title>
@@ -31,12 +31,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="1"></person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="2" guid="edb3bce8-b067-47c5-b470-e2e35715d693">
         <url></url>
         <logo/>
         <date>2019-10-04T13:00+02:00</date>
@@ -56,12 +56,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="2"></person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="3" guid="25218b87-5450-46be-bae7-17c372ed81e6">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -81,12 +81,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Jiří Horáček</person>
+          <person id="3">Jiří Horáček</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="4" guid="40fcbc5b-0d28-4918-8284-298b75ad8170">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -106,12 +106,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Dr Maxim Orlovsky</person>
+          <person id="4">Dr Maxim Orlovsky</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="5" guid="684fb63a-e6f0-4d7f-ad06-d4587748575d">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -131,16 +131,16 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Juraj Bednár</person>
-          <person id="0">Mirek Nečas</person>
-          <person id="0">Veronika Jelínková</person>
-          <person id="0">Juraj Karpiš</person>
-          <person id="0">Radek Pilich</person>
+          <person id="5">Juraj Bednár</person>
+          <person id="6">Mirek Nečas</person>
+          <person id="7">Veronika Jelínková</person>
+          <person id="8">Juraj Karpiš</person>
+          <person id="9">Radek Pilich</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="6" guid="b56b36ed-bf94-444d-99f5-634a871a32c4">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -160,12 +160,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Paul Rosenberg</person>
+          <person id="10">Paul Rosenberg</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="7" guid="36b58f22-e444-4db7-8787-3077420c6de5">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -185,12 +185,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Robin Hanson</person>
+          <person id="11">Robin Hanson</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="8" guid="309bbb44-6503-403b-a697-62be2330cd07">
         <url></url>
         <logo/>
         <date>2019-10-04T20:00+02:00</date>
@@ -210,14 +210,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="12"></person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="1" guid="1">
+      <event id="9" guid="7dd1eaf6-0658-4d24-87c8-ba056634e35d">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -237,12 +237,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Olga Ukolova</person>
+          <person id="13">Olga Ukolova</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="10" guid="a352d22c-3744-4ced-a59b-eeafc07edbbe">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -262,12 +262,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">exiledsurfer</person>
+          <person id="14">exiledsurfer</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="11" guid="03c55da1-0f77-48d4-8971-606a8ce3b397">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -287,12 +287,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Marketa Dolejsova</person>
+          <person id="15">Marketa Dolejsova</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="12" guid="f0ef8304-3abf-4fe9-bcc3-2141366a7c38">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -312,12 +312,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Martin Habovštiak</person>
+          <person id="16">Martin Habovštiak</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="13" guid="0184f240-0430-44bb-a8a5-7a69e6ab5c95">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -337,16 +337,16 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Radim Kozub</person>
-          <person id="0">Michal Zatřepálek</person>
-          <person id="0">Jakub Hamata</person>
+          <person id="17">Radim Kozub</person>
+          <person id="18">Michal Zatřepálek</person>
+          <person id="19">Jakub Hamata</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Slévárna">
-      <event id="1" guid="1">
+      <event id="14" guid="e3c02425-a3a2-49f8-9227-8fdd4cdbd884">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -366,13 +366,13 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Max Hampshire</person>
-          <person id="0">Paul Seidler</person>
+          <person id="20">Max Hampshire</person>
+          <person id="21">Paul Seidler</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="15" guid="c286f5ea-ac0e-4c8d-849a-796cb8716c29">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -392,12 +392,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Petr Lupač</person>
+          <person id="22">Petr Lupač</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="16" guid="38f25470-ea34-43c9-9ff3-30aaa2233065">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -417,12 +417,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Tone Vays</person>
+          <person id="23">Tone Vays</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="17" guid="4de5fe87-f2ad-457a-a0ab-4357e9fa2987">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -451,12 +451,12 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Matthias Tarasiewicz</person>
+          <person id="24">Matthias Tarasiewicz</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="18" guid="8c0540c9-84d7-4648-af6f-904e39dfa120">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -476,14 +476,14 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Robin Hanson</person>
+          <person id="25">Robin Hanson</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Small Hub">
-      <event id="1" guid="1">
+      <event id="19" guid="835ca290-189b-459f-a65b-747e1c8892a7">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -503,12 +503,12 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Oldrich Voyta</person>
+          <person id="26">Oldrich Voyta</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="20" guid="efed153c-b5c6-4dae-89b4-e6eac70186d0">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -528,14 +528,14 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Charles Hill</person>
+          <person id="27">Charles Hill</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="1" guid="1">
+      <event id="21" guid="4490e626-af65-44c1-b639-d7b4f721cf4e">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -555,19 +555,19 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Michael Schloh von Bennewitz</person>
+          <person id="28">Michael Schloh von Bennewitz</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Bar">
-      <event id="1" guid="1">
+      <event id="22" guid="ef16c7a1-1f47-469a-93d5-af4cac6ec898">
         <url></url>
         <logo/>
         <date>2019-10-04T21:00+02:00</date>
         <start>21:00</start>
-        <duration>01:00</duration>
+        <duration>02:00</duration>
         <room>Bar</room>
         <slug></slug>
         <title>Live Music Performance and Party</title>
@@ -582,7 +582,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="29"></person>
         </persons>
         <links/>
         <attachments/>
@@ -591,7 +591,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
   </day>
   <day index="2" date="2019-10-05" start="2019-10-05T09:00:00+02:00" end="2019-10-06T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="1" guid="1">
+      <event id="23" guid="d2cf2fa1-67ac-4f0a-84d5-f66d56fa66f3">
         <url></url>
         <logo/>
         <date>2019-10-04T13:00+02:00</date>
@@ -611,12 +611,12 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Luis Cuende</person>
+          <person id="30">Luis Cuende</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="24" guid="7b57ae4d-d0da-4b42-bec5-04bab3ecf001">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -642,12 +642,12 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Ken Schoolland</person>
+          <person id="31">Ken Schoolland</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="25" guid="11fe3672-3ef1-4b33-b6d2-a8d373a7ec90">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -679,12 +679,12 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Karel Hulec</person>
+          <person id="32">Karel Hulec</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="26" guid="2f87e340-3c58-422d-a895-2341ae20c93e">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -708,12 +708,12 @@ A strong social demand has been generated to improve connectivity and expand the
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Reinaldo Escobar Casas</person>
+          <person id="33">Reinaldo Escobar Casas</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="27" guid="0773177e-c348-4ce4-827e-b31049fc1307">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -737,12 +737,12 @@ In this talk we shall explore the necessary properties of government-independent
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Smuggler</person>
+          <person id="34">Smuggler</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="28" guid="11678f9a-0b29-4896-8ca4-521cab1a9560">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -766,12 +766,12 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Nick Middleton</person>
+          <person id="35">Nick Middleton</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="29" guid="90f24953-e947-4648-8d21-a231c7c1e83f">
         <url></url>
         <logo/>
         <date>2019-10-05T20:00+02:00</date>
@@ -791,14 +791,14 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="36"></person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="1" guid="1">
+      <event id="30" guid="5d90c2e1-d66d-4f00-9a96-bfd80f2824d8">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -818,12 +818,12 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Michal Postránecký</person>
+          <person id="37">Michal Postránecký</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="31" guid="5b87150a-2db0-4221-92ae-7bba2e48f15b">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -845,12 +845,12 @@ People are under massive censorship on the current Internet. They cannot escape 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Yisi Liu</person>
+          <person id="38">Yisi Liu</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="32" guid="30935c74-11dc-48a1-9301-eff48bb3a3df">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -870,12 +870,12 @@ People are under massive censorship on the current Internet. They cannot escape 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Spyros Dovas</person>
+          <person id="39">Spyros Dovas</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="33" guid="39d13bc1-f671-4b4c-b303-29ed3a5903e8">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -916,13 +916,13 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Ketominer</person>
-          <person id="0">Bitcannery</person>
+          <person id="40">Ketominer</person>
+          <person id="41">Bitcannery</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="34" guid="8a0c9694-106e-4525-8569-9caa1c4dfbe8">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -942,12 +942,12 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Kilian Rausch</person>
+          <person id="42">Kilian Rausch</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="35" guid="91caa66d-e337-41d7-b3d9-90e673407ee8">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -967,14 +967,14 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Joerg Platzer</person>
+          <person id="43">Joerg Platzer</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Slévárna">
-      <event id="1" guid="1">
+      <event id="36" guid="f1deac2c-8160-4861-8e55-6740a1c42694">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -994,12 +994,12 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Travin Keith</person>
+          <person id="44">Travin Keith</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="37" guid="36713587-1d7e-428b-8807-0ca4710c13fc">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -1025,12 +1025,12 @@ This talk looks at the development of financial surveillance. It looks at curren
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Juraj Bednár</person>
+          <person id="45">Juraj Bednár</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="38" guid="546688f1-0ca4-4eb8-8b25-4b87301104ff">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -1052,12 +1052,12 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Park Jung Oh</person>
+          <person id="46">Park Jung Oh</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="39" guid="7a5ad9cd-d179-49fe-ac35-45523157a2ea">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1081,12 +1081,12 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Amin Rafiee</person>
+          <person id="47">Amin Rafiee</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="40" guid="77db9c99-97bf-4560-bb2c-d277ec314c27">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -1106,12 +1106,12 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Josef Tětek</person>
+          <person id="48">Josef Tětek</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="41" guid="77cdecf5-f8c9-4dda-b3a2-a41e7f8dc038">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -1135,14 +1135,14 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Nick Middleton</person>
+          <person id="49">Nick Middleton</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Small Hub">
-      <event id="1" guid="1">
+      <event id="42" guid="b6484705-aa46-4011-aeb5-2dcbd9f00c1b">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -1169,12 +1169,12 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Carlos Garcia Ortiz</person>
+          <person id="50">Carlos Garcia Ortiz</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="43" guid="b94af6f2-667c-418d-9a3a-5d9614c70708">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1207,19 +1207,19 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Pavel</person>
+          <person id="51">Pavel</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Media Hub">
-      <event id="1" guid="1">
+      <event id="44" guid="8ab64f09-a234-4955-90ba-c1a06bd92c7e">
         <url></url>
         <logo/>
         <date>2019-10-05T09:00+02:00</date>
         <start>09:00</start>
-        <duration>01:00</duration>
+        <duration>03:00</duration>
         <room>Media Hub</room>
         <slug></slug>
         <title>Workshop - Black Crystal</title>
@@ -1255,14 +1255,14 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">RIAT and Riddle+Code</person>
+          <person id="52">RIAT and Riddle+Code</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="1" guid="1">
+      <event id="45" guid="8e3979ed-de70-4247-8baa-42e137b786a1">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -1297,19 +1297,19 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Michael Schloh von Bennewitz</person>
+          <person id="53">Michael Schloh von Bennewitz</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Bar">
-      <event id="1" guid="1">
+      <event id="46" guid="7f5bcdee-5a9b-40c6-a6ee-b7c7fec17afd">
         <url></url>
         <logo/>
         <date>2019-10-05T21:00+02:00</date>
         <start>21:00</start>
-        <duration>01:00</duration>
+        <duration>02:00</duration>
         <room>Bar</room>
         <slug></slug>
         <title>Live Music Performance and Party</title>
@@ -1324,7 +1324,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="54"></person>
         </persons>
         <links/>
         <attachments/>
@@ -1333,7 +1333,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
   </day>
   <day index="3" date="2019-10-06" start="2019-10-06T09:00:00+02:00" end="2019-10-07T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="1" guid="1">
+      <event id="47" guid="bf827291-e441-4c4c-b2c1-9cbf8f5c70d7">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -1368,20 +1368,20 @@ Moderated by: Pavol Lupták</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Nelson Melina</person>
-          <person id="0">Marc Guals</person>
-          <person id="0">Joerg Platzer</person>
-          <person id="0">Gideon Gallasch</person>
-          <person id="0">Smuggler</person>
-          <person id="0">Martin Leskovjan</person>
-          <person id="0">Juraj Bednár</person>
-          <person id="0">Tomas Kanócz</person>
-          <person id="0">Pavol Lupták</person>
+          <person id="55">Nelson Melina</person>
+          <person id="56">Marc Guals</person>
+          <person id="57">Joerg Platzer</person>
+          <person id="58">Gideon Gallasch</person>
+          <person id="59">Smuggler</person>
+          <person id="60">Martin Leskovjan</person>
+          <person id="61">Juraj Bednár</person>
+          <person id="62">Tomas Kanócz</person>
+          <person id="63">Pavol Lupták</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="48" guid="9ad30b4a-0593-43b0-970d-2579947f1266">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1401,12 +1401,12 @@ Moderated by: Pavol Lupták</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Sondre Bjellås</person>
+          <person id="64">Sondre Bjellås</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="49" guid="c0d3df91-83c3-4ff9-a138-9da0205535bb">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1428,12 +1428,12 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Peter Todd Peter Todd</person>
+          <person id="65">Peter Todd Peter Todd</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="50" guid="44431550-5bc9-43ea-a99f-0783a91a319b">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1455,12 +1455,12 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Li Zhao Schoolland</person>
+          <person id="66">Li Zhao Schoolland</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="51" guid="1a25cca1-bab8-45f9-9573-45f6f101d135">
         <url></url>
         <logo/>
         <date>2019-10-06T19:00+02:00</date>
@@ -1480,14 +1480,14 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="67"></person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="1" guid="1">
+      <event id="52" guid="0439f156-52e5-4fd8-a49d-969707862e0b">
         <url></url>
         <logo/>
         <date>2019-10-06T13:00+02:00</date>
@@ -1507,12 +1507,12 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Michalis Kargakis</person>
+          <person id="68">Michalis Kargakis</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="53" guid="05011ad4-ee88-4a7e-a4fd-1674d2f19d61">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1532,12 +1532,12 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Frank Rieger</person>
+          <person id="69">Frank Rieger</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="54" guid="88b8c646-4eee-42f2-81fb-41ed650caed1">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1570,13 +1570,13 @@ What is Tor? Is it merely a place for criminals to hide out on the so called &qu
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Alena Vránova</person>
-          <person id="0">Jason Evans</person>
+          <person id="70">Alena Vránova</person>
+          <person id="71">Jason Evans</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="55" guid="1beaacdf-9cd9-4574-b8be-94e14e0d735a">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1598,12 +1598,12 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Tomáš Marada</person>
+          <person id="72">Tomáš Marada</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="56" guid="fe9ef7d3-0c18-4bee-9df5-1a48464d0e3b">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1634,14 +1634,14 @@ From theoretical concepts to real world products and how we can get this done.
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Patrik Tjokorda</person>
+          <person id="73">Patrik Tjokorda</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Slévárna">
-      <event id="1" guid="1">
+      <event id="57" guid="a3783d7e-d0f0-447f-9a41-4a7334248daf">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1665,12 +1665,12 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Harry Halpin</person>
+          <person id="74">Harry Halpin</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="58" guid="48dbfc80-b3ca-41b6-beba-74c2b4ba0e4a">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1692,12 +1692,12 @@ It is time to acknowledge the important role of technology to provide the utmost
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Inbar Preiss</person>
+          <person id="75">Inbar Preiss</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="59" guid="10cd0f40-035f-43d0-b922-b9458fed0ac5">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1717,12 +1717,12 @@ It is time to acknowledge the important role of technology to provide the utmost
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Mark Nadal</person>
+          <person id="76">Mark Nadal</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="60" guid="72c51d47-5549-4a80-9b08-d06307b0933d">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1744,14 +1744,14 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">František Vrábel</person>
+          <person id="77">František Vrábel</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Small Hub">
-      <event id="1" guid="1">
+      <event id="61" guid="037b61be-6020-4ada-a445-3e12c3770a2d">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1780,12 +1780,12 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Robin Cussol</person>
+          <person id="78">Robin Cussol</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
+      <event id="62" guid="e3d7e24a-b21c-4537-b5a0-0885e02bdefa">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1811,14 +1811,14 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Tomáš Ouhel</person>
+          <person id="79">Tomáš Ouhel</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="1" guid="1">
+      <event id="63" guid="cffc419b-41d1-47da-9060-56d26577805f">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1853,7 +1853,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0">Michael Schloh von Bennewitz</person>
+          <person id="80">Michael Schloh von Bennewitz</person>
         </persons>
         <links/>
         <attachments/>

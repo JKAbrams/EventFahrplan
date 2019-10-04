@@ -4,6 +4,7 @@ import sys
 import csv
 import os.path
 import datetime
+import uuid
 from datetime import timedelta
 
 def escape( str ):
@@ -57,24 +58,6 @@ person = '''          <person id="{}">{}</person>'''
 
 days = 3
 startDate = "2019-10-02"
-
-idd = ''
-guid = ''
-url = ''
-datum = ''
-start = ''
-end = ''
-duration = ''
-room = ''
-slug = ''
-title = ''
-subtitle = ''
-typ = ''
-language = ''
-abstract = ''
-persons = ['','']
-
-
 
 # Metadata:
 conference = '''  <conference>
@@ -139,6 +122,9 @@ def printXML(reader):
     lastRoom = ''
 
     dayNo = 1
+
+    idd = 0
+    pid = 0
 
     for r in reader:
         
@@ -227,10 +213,9 @@ def printXML(reader):
         if roomOpen:
             print(roomOpening.format(room))
         
-        idd = "1"
-        guid = "1"
+        idd = idd + 1
+        guid = str(uuid.uuid4())
         url = ""
-        duration = "01:00"
         slug = ""
         typ = ""
         subtitle = ""
@@ -238,7 +223,8 @@ def printXML(reader):
         print(eventOpening.format(idd, guid, url, eventDate, eventStart, duration, room, slug, title, subtitle, track, typ, language, abstract, persons))
 
         for name in persons.split(', '):
-            print(person.format('0', name))
+            pid = pid + 1
+            print(person.format(pid, name))
         print(eventEnding)
 
         lastDay = day
