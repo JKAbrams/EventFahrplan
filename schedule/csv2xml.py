@@ -32,9 +32,9 @@ eventOpening = '''      <event id="{}" guid="{}">
         <track>{}</track>
         <type>{}</type>
         <language>{}</language>
-        <abstract>{}</abstract>
-        <description/>
-         <recording>
+        <abstract/>
+        <description>{}</description/>
+        <recording>
           <license/>
           <optout>false</optout>
         </recording>

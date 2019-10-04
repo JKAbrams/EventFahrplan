@@ -2,6 +2,7 @@ package info.metadude.android.eventfahrplan.network.serialization;
 
 import android.os.AsyncTask;
 import android.support.annotation.NonNull;
+import android.util.Log;
 import android.util.Xml;
 
 import org.xmlpull.v1.XmlPullParser;
@@ -212,6 +213,7 @@ class ParserTask extends AsyncTask<String, Void, Boolean> {
                                             lecture.setLanguage(XmlPullParsers.getSanitizedText(parser));
                                         } else if (name.equals("abstract")) {
                                             parser.next();
+                                            Log.w("Abstract: ", XmlPullParsers.getSanitizedText(parser));
                                             lecture.setAbstractt(XmlPullParsers.getSanitizedText(parser));
                                         } else if (name.equals("description")) {
                                             parser.next();
