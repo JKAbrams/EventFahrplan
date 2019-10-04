@@ -152,9 +152,9 @@ def printXML(reader):
         room = r[5]
 
         # Calculate dates:
-        thisDate = StartDate + timedelta(days=dayIndex-1)
+        thisDate = StartDate + timedelta(days=dayIndex)
         datumStrStart = thisDate.strftime('%Y-%m-%d')
-        dateStop = thisDate + datetime.timedelta(0,3600)
+        dateStop = thisDate + datetime.timedelta(0, 3600)
         datumStrStop = dateStop.strftime('%Y-%m-%d')
         timeStrStop = dateStop.strftime('%H:%M:%S')
                 

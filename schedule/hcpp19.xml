@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 02:30</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 02:35</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -9,12 +9,12 @@
     <timeslot_duration>00:10</timeslot_duration>
     <base_url>https://opt-out.hcpp.cz/schedule</base_url>
   </conference>
-  <day index="1" date="2019-10-03" start="2019-10-03T15:00:00+02:00" end="2019-10-03T01:00:00+02:00">
+  <day index="1" date="2019-10-04" start="2019-10-04T15:00:00+02:00" end="2019-10-04T01:00:00+02:00">
     <room name="Hackerspace">
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-03T15:00:00+02:00</date>
+        <date>2019-10-04T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Hackerspace</room>
@@ -41,7 +41,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -66,7 +66,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -91,7 +91,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -116,7 +116,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -141,7 +141,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T19:00:00+02:00</date>
+        <date>2019-10-05T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -168,7 +168,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -193,7 +193,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -218,7 +218,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -243,7 +243,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -268,7 +268,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T19:00:00+02:00</date>
+        <date>2019-10-05T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -295,7 +295,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Small Hub</room>
@@ -320,7 +320,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Small Hub</room>
@@ -347,7 +347,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T13:00:00+02:00</date>
+        <date>2019-10-05T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -372,7 +372,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -397,7 +397,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -422,7 +422,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -447,7 +447,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -472,7 +472,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T19:00:00+02:00</date>
+        <date>2019-10-05T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -497,7 +497,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T20:00:00+02:00</date>
+        <date>2019-10-05T20:00:00+02:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -524,7 +524,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T21:00:00+02:00</date>
+        <date>2019-10-05T21:00:00+02:00</date>
         <start>21:00</start>
         <duration>01:00</duration>
         <room>Bar</room>
@@ -551,7 +551,7 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Hackerspace</room>
@@ -593,7 +593,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T13:00:00+02:00</date>
+        <date>2019-10-05T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -618,7 +618,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -645,7 +645,7 @@ People are under massive censorship on the current Internet. They cannot escape 
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -670,7 +670,7 @@ People are under massive censorship on the current Internet. They cannot escape 
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -721,7 +721,7 @@ That point in time can be continuously pushed forward by the sender. This is use
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -746,7 +746,7 @@ That point in time can be continuously pushed forward by the sender. This is use
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T19:00:00+02:00</date>
+        <date>2019-10-05T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -773,7 +773,7 @@ That point in time can be continuously pushed forward by the sender. This is use
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T09:00:00+02:00</date>
+        <date>2019-10-05T09:00:00+02:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
         <room>Media Hub</room>
@@ -821,7 +821,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T13:00:00+02:00</date>
+        <date>2019-10-05T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -846,7 +846,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -877,7 +877,7 @@ This talk looks at the development of financial surveillance. It looks at curren
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -904,7 +904,7 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -933,7 +933,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -958,7 +958,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T19:00:00+02:00</date>
+        <date>2019-10-05T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -989,7 +989,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Small Hub</room>
@@ -1021,7 +1021,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Small Hub</room>
@@ -1061,7 +1061,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T13:00:00+02:00</date>
+        <date>2019-10-05T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1086,7 +1086,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1117,7 +1117,7 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1154,7 +1154,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1183,7 +1183,7 @@ A strong social demand has been generated to improve connectivity and expand the
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1212,7 +1212,7 @@ In this talk we shall explore the necessary properties of government-independent
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T19:00:00+02:00</date>
+        <date>2019-10-05T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1241,7 +1241,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T20:00:00+02:00</date>
+        <date>2019-10-05T20:00:00+02:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1268,7 +1268,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T21:00:00+02:00</date>
+        <date>2019-10-05T21:00:00+02:00</date>
         <start>21:00</start>
         <duration>01:00</duration>
         <room>Bar</room>
@@ -1295,7 +1295,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Hackerspace</room>
@@ -1337,7 +1337,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T13:00:00+02:00</date>
+        <date>2019-10-05T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -1362,7 +1362,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -1387,7 +1387,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -1425,7 +1425,7 @@ What is Tor? Is it merely a place for criminals to hide out on the so called &qu
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -1452,7 +1452,7 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Institute of Cryptoanarchy</room>
@@ -1490,7 +1490,7 @@ From theoretical concepts to real world products and how we can get this done.
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T14:00:00+02:00</date>
+        <date>2019-10-05T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -1519,7 +1519,7 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -1546,7 +1546,7 @@ It is time to acknowledge the important role of technology to provide the utmost
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -1571,7 +1571,7 @@ It is time to acknowledge the important role of technology to provide the utmost
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Slévárna</room>
@@ -1600,7 +1600,7 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T16:00:00+02:00</date>
+        <date>2019-10-05T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Small Hub</room>
@@ -1634,7 +1634,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Small Hub</room>
@@ -1667,7 +1667,7 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T13:00:00+02:00</date>
+        <date>2019-10-05T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1707,7 +1707,7 @@ Moderated by: Pavol Lupták</abstract>
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00:00+02:00</date>
+        <date>2019-10-05T15:00:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1732,7 +1732,7 @@ Moderated by: Pavol Lupták</abstract>
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T17:00:00+02:00</date>
+        <date>2019-10-05T17:00:00+02:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1759,7 +1759,7 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T18:00:00+02:00</date>
+        <date>2019-10-05T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1786,7 +1786,7 @@ You will find the answer from the stories of my life.</abstract>
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T19:00:00+02:00</date>
+        <date>2019-10-05T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
