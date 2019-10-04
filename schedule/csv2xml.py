@@ -232,8 +232,8 @@ def printXML(reader):
         language = "en"
         print(eventOpening.format(idd, guid, url, eventDate, eventStart, duration, room, slug, title, subtitle, track, typ, language, abstract, persons))
 
-        #for each person:
-        #    print(person.format(personId, personName))
+        for name in persons.split(', '):
+            print(person.format('0', name))
         print(eventEnding)
 
         lastDay = day

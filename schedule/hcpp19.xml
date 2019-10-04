@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 03:17</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 03:24</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -31,6 +31,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -56,6 +57,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Jiří Horáček</person>
 
         </persons>
         <links/>
@@ -81,6 +83,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Dr Maxim Orlovsky</person>
 
         </persons>
         <links/>
@@ -106,6 +109,11 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Juraj Bednár</person>
+          <person id="0">Mirek Nečas</person>
+          <person id="0">Veronika Jelínková</person>
+          <person id="0">Juraj Karpiš</person>
+          <person id="0">Radek Pilich</person>
 
         </persons>
         <links/>
@@ -131,6 +139,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Paul Rosenberg</person>
 
         </persons>
         <links/>
@@ -156,6 +165,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Robin Hanson</person>
 
         </persons>
         <links/>
@@ -181,6 +191,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -208,6 +219,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Olga Ukolova</person>
 
         </persons>
         <links/>
@@ -233,6 +245,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">exiledsurfer</person>
 
         </persons>
         <links/>
@@ -258,6 +271,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Marketa Dolejsova</person>
 
         </persons>
         <links/>
@@ -283,6 +297,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Martin Habovštiak</person>
 
         </persons>
         <links/>
@@ -308,6 +323,9 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Radim Kozub</person>
+          <person id="0">Michal Zatřepálek</person>
+          <person id="0">Jakub Hamata</person>
 
         </persons>
         <links/>
@@ -335,6 +353,8 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Max Hampshire</person>
+          <person id="0">Paul Seidler</person>
 
         </persons>
         <links/>
@@ -360,6 +380,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Petr Lupač</person>
 
         </persons>
         <links/>
@@ -385,6 +406,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Tone Vays</person>
 
         </persons>
         <links/>
@@ -410,6 +432,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Matthias Tarasiewicz</person>
 
         </persons>
         <links/>
@@ -435,6 +458,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Robin Hanson</person>
 
         </persons>
         <links/>
@@ -462,6 +486,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Oldrich Voyta</person>
 
         </persons>
         <links/>
@@ -487,6 +512,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Charles Hill</person>
 
         </persons>
         <links/>
@@ -514,6 +540,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Michael Schloh von Bennewitz</person>
 
         </persons>
         <links/>
@@ -541,6 +568,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -570,6 +598,7 @@
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Luis Cuende</person>
 
         </persons>
         <links/>
@@ -601,6 +630,7 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Ken Schoolland</person>
 
         </persons>
         <links/>
@@ -638,6 +668,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -667,6 +698,7 @@ A strong social demand has been generated to improve connectivity and expand the
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Reinaldo Escobar Casas</person>
 
         </persons>
         <links/>
@@ -696,6 +728,7 @@ In this talk we shall explore the necessary properties of government-independent
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Smuggler</person>
 
         </persons>
         <links/>
@@ -725,6 +758,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Nick Middleton</person>
 
         </persons>
         <links/>
@@ -750,6 +784,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -777,6 +812,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Michal Postránecký</person>
 
         </persons>
         <links/>
@@ -804,6 +840,7 @@ People are under massive censorship on the current Internet. They cannot escape 
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Yisi Liu</person>
 
         </persons>
         <links/>
@@ -829,6 +866,7 @@ People are under massive censorship on the current Internet. They cannot escape 
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Spyros Dovas</person>
 
         </persons>
         <links/>
@@ -875,6 +913,8 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Ketominer</person>
+          <person id="0">Bitcannery</person>
 
         </persons>
         <links/>
@@ -900,6 +940,7 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Kilian Rausch</person>
 
         </persons>
         <links/>
@@ -925,6 +966,7 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Joerg Platzer</person>
 
         </persons>
         <links/>
@@ -952,6 +994,7 @@ That point in time can be continuously pushed forward by the sender. This is use
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Travin Keith</person>
 
         </persons>
         <links/>
@@ -983,6 +1026,7 @@ This talk looks at the development of financial surveillance. It looks at curren
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Juraj Bednár</person>
 
         </persons>
         <links/>
@@ -1010,6 +1054,7 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Park Jung Oh</person>
 
         </persons>
         <links/>
@@ -1039,6 +1084,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Amin Rafiee</person>
 
         </persons>
         <links/>
@@ -1064,6 +1110,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Josef Tětek</person>
 
         </persons>
         <links/>
@@ -1093,6 +1140,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Nick Middleton</person>
 
         </persons>
         <links/>
@@ -1127,6 +1175,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1165,6 +1214,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1213,6 +1263,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1255,6 +1306,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1282,6 +1334,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1326,6 +1379,7 @@ Moderated by: Pavol Lupták</abstract>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1351,6 +1405,7 @@ Moderated by: Pavol Lupták</abstract>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Sondre Bjellås</person>
 
         </persons>
         <links/>
@@ -1378,6 +1433,7 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Peter Todd Peter Todd</person>
 
         </persons>
         <links/>
@@ -1405,6 +1461,7 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Li Zhao Schoolland</person>
 
         </persons>
         <links/>
@@ -1430,6 +1487,7 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1457,6 +1515,7 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Michalis Kargakis</person>
 
         </persons>
         <links/>
@@ -1482,6 +1541,7 @@ You will find the answer from the stories of my life.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Frank Rieger</person>
 
         </persons>
         <links/>
@@ -1520,6 +1580,8 @@ What is Tor? Is it merely a place for criminals to hide out on the so called &qu
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Alena Vránova</person>
+          <person id="0">Jason Evans</person>
 
         </persons>
         <links/>
@@ -1547,6 +1609,7 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Tomáš Marada</person>
 
         </persons>
         <links/>
@@ -1583,6 +1646,7 @@ From theoretical concepts to real world products and how we can get this done.
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Patrik Tjokorda</person>
 
         </persons>
         <links/>
@@ -1614,6 +1678,7 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Harry Halpin</person>
 
         </persons>
         <links/>
@@ -1641,6 +1706,7 @@ It is time to acknowledge the important role of technology to provide the utmost
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Inbar Preiss</person>
 
         </persons>
         <links/>
@@ -1666,6 +1732,7 @@ It is time to acknowledge the important role of technology to provide the utmost
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Mark Nadal</person>
 
         </persons>
         <links/>
@@ -1693,6 +1760,7 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">František Vrábel</person>
 
         </persons>
         <links/>
@@ -1729,6 +1797,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
@@ -1760,6 +1829,7 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0">Tomáš Ouhel</person>
 
         </persons>
         <links/>
@@ -1802,6 +1872,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="0"></person>
 
         </persons>
         <links/>
