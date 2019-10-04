@@ -1,8 +1,14 @@
-This is a fork of EventFahrplan for HCPP 2019.
+# This is a fork of EventFahrplan for HCPP 2019.
 
 It does not use the backend software, instead it uses schedule-data from a simple .csv.
 In the schedule folder is a script that produces a valid .xml file that the EventFahrplan can use.
 Changed names and branding, otherwise nothing different from the original.
+
+# Schedule data genreation script usage:
+python csv2xml.py schedule.csv > hcpp19.xml
+
+# Diff here:
+https://github.com/EventFahrplan/EventFahrplan/compare/master...JKAbrams:master
 
 [![Build Status](https://travis-ci.org/EventFahrplan/EventFahrplan.svg?branch=master)](https://travis-ci.org/EventFahrplan/EventFahrplan) [![Apache License](http://img.shields.io/badge/license-Apache%20License%202.0-lightgrey.svg)](http://choosealicense.com/licenses/apache-2.0/)
 
