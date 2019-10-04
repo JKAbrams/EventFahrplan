@@ -168,9 +168,6 @@ def printXML(reader):
         datumStrStop = dateStop.strftime('%Y-%m-%d')
         timeStrStop = dateStop.strftime('%H:%M:%S')
 
-        dayStart = datumStrStart + 'T' + startTimes[dayNo-1] + timezone
-        dayEnd = datumStrStop + 'T' + timeStrStop + timezone
-
         eventStart = time
         eventDate = datumStrStart + 'T' + time + timezone
 
@@ -216,6 +213,15 @@ def printXML(reader):
         
         if dayOpen:
             dayIndex = dayIndex + 1
+
+            thisDate = StartDate + timedelta(days=dayIndex-1)
+            datumStrStart = thisDate.strftime('%Y-%m-%d')
+            dateStop = thisDate + datetime.timedelta(days=1, hours=1)
+            datumStrStop = dateStop.strftime('%Y-%m-%d')
+            timeStrStop = dateStop.strftime('%H:%M:%S')
+
+            dayStart = datumStrStart + 'T' + startTimes[dayIndex - 1] + timezone
+            dayEnd = datumStrStop + 'T' + timeStrStop + timezone
             print(dayOpening.format(dayIndex, datumStrStart, dayStart, dayEnd))
             
         if roomOpen:
