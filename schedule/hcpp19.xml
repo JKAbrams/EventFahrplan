@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 06:38</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 06:45</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -11,12 +11,12 @@
   </conference>
   <day index="1" date="2019-10-04" start="2019-10-04T09:00:00+02:00" end="2019-10-05T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="1" guid="b8f3ecfb-47d2-41f7-a5d3-a1133b627b3f">
+      <event id="1" guid="2bb47306-57ee-4364-bad4-86d5a0c8acac">
         <url></url>
         <logo/>
         <date>2019-10-04T09:00+02:00</date>
         <start>09:00</start>
-        <duration>00:10</duration>
+        <duration>00:01</duration>
         <room>Studio 1</room>
         <slug></slug>
         <title>-</title>
@@ -36,7 +36,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="2" guid="e624185c-b225-4881-b86d-e1bf0dccdec6">
+      <event id="2" guid="ab6f2dfc-0b91-4e8e-b803-b958d37f543b">
         <url></url>
         <logo/>
         <date>2019-10-04T13:00+02:00</date>
@@ -61,7 +61,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="3" guid="7aac3fd0-eef8-47e0-b86f-a32f7bb2110c">
+      <event id="3" guid="48764fd8-e339-4c95-9a8f-e5033e3a9de4">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -86,7 +86,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="4" guid="7ab91bf6-d88f-4201-8415-d384bf305d02">
+      <event id="4" guid="ab548745-1889-4c0a-915c-719a6fdcf853">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -111,7 +111,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="5" guid="b49f3470-58e2-4df3-b638-35121836c508">
+      <event id="5" guid="bd358798-85a1-4639-bccb-fa183927c8b2">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -140,7 +140,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="6" guid="78fa284b-51f5-4024-a39d-ff4d0b51725c">
+      <event id="6" guid="2eb34de2-e526-43ec-a602-9112274f384f">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -165,7 +165,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="7" guid="ebc53335-a5f0-4dc0-9aca-6f53b4595b59">
+      <event id="7" guid="79902b79-5ec5-4fcc-a2e8-a582dd345bfb">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -190,7 +190,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="8" guid="2de554bd-6b30-40af-b962-00269f9af65e">
+      <event id="8" guid="8a509662-45d0-4aef-88d0-1e8beb4844e1">
         <url></url>
         <logo/>
         <date>2019-10-04T20:00+02:00</date>
@@ -217,7 +217,7 @@
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="9" guid="85ec39e8-638a-4c8e-8915-7ca91552ff97">
+      <event id="9" guid="e1c4ddf0-3e7a-400e-90b3-0facd46fa14a">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -242,7 +242,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="10" guid="a9a29356-7db7-4905-b711-374d026f8c73">
+      <event id="10" guid="626eec92-0d1c-4dee-8e69-062f7cbeee8a">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -267,7 +267,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="11" guid="585500cb-d536-4280-a4ca-93848d4b70f3">
+      <event id="11" guid="1330239f-d082-4aa7-9f0d-769dde21ee82">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -292,7 +292,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="12" guid="3b64a45f-f730-40ee-b935-73681573b420">
+      <event id="12" guid="9ad56c35-2ff2-4e5e-954c-fec3b6e3a65e">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -317,7 +317,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="13" guid="d0a43b1d-6692-4b77-86e4-05916fb47fce">
+      <event id="13" guid="9205063e-0289-40b9-b8ce-caf066f2f7c9">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -346,7 +346,7 @@
       </event>
     </room>
     <room name="Slévárna">
-      <event id="14" guid="ab1b66d2-5a16-4c93-9fb5-5ddde2f847f6">
+      <event id="14" guid="afe46a12-6b26-40c6-bef6-f372998af1fe">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -372,7 +372,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="15" guid="4e7c88cc-2cfa-4ff1-883e-0724b17685ba">
+      <event id="15" guid="7a5f364e-52bc-4362-8f7e-3e8138fa8fc0">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -397,7 +397,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="16" guid="38b251a9-ca34-4c86-950c-6bfa7be635ce">
+      <event id="16" guid="89c52014-42c4-4c77-958a-efb1ec4c9c48">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -422,7 +422,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="17" guid="ed7945c0-0139-4f1f-a271-6ca6eeaa80ae">
+      <event id="17" guid="cfc1b2f7-250a-41dd-8f75-eb0aacf8b687">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -447,7 +447,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="18" guid="3d7d16fa-f87e-423e-bf9f-5c0bed3c5552">
+      <event id="18" guid="9b5d7272-ea2c-4af3-ba5b-f3b09efa112f">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -474,7 +474,7 @@
       </event>
     </room>
     <room name="Small Hub">
-      <event id="19" guid="72e033b9-e5e3-4cc1-8069-b3a02cda6eb5">
+      <event id="19" guid="4300883c-bc41-4be4-9b90-fbb8489afe77">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -499,7 +499,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="20" guid="965ce321-616c-4e69-ac64-e7f92e193394">
+      <event id="20" guid="524394ae-4342-425a-8402-06ee3f39b121">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -526,7 +526,7 @@
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="21" guid="b50fcbab-9eab-425c-9a93-9960c4675261">
+      <event id="21" guid="df06fef6-2b7d-41a0-a92f-755bd97f37fd">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -553,7 +553,7 @@
       </event>
     </room>
     <room name="Bar">
-      <event id="22" guid="18b262da-c685-4563-b1a3-ea41aa194ec9">
+      <event id="22" guid="634e4670-c680-4650-859b-4b9d43772945">
         <url></url>
         <logo/>
         <date>2019-10-04T21:00+02:00</date>
@@ -582,10 +582,35 @@
   </day>
   <day index="2" date="2019-10-05" start="2019-10-05T09:00:00+02:00" end="2019-10-06T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="23" guid="941666e3-0d90-4f59-8066-038cd40d8b83">
+      <event id="23" guid="c7453750-0e28-4fdd-8d1a-3a3faa1622c3">
         <url></url>
         <logo/>
-        <date>2019-10-04T13:00+02:00</date>
+        <date>2019-10-04T09:00+02:00</date>
+        <start>09:00</start>
+        <duration>00:01</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>-</title>
+        <subtitle></subtitle>
+        <track>Other</track>
+        <type></type>
+        <language>en</language>
+        <abstract></abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="30"></person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="24" guid="d183e3df-1ad8-4d95-98b8-de5ff79bf3b2">
+        <url></url>
+        <logo/>
+        <date>2019-10-05T13:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -602,12 +627,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="30">Luis Cuende</person>
+          <person id="31">Luis Cuende</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="24" guid="d1d9e8f0-d295-4fbb-a2e1-0152971e5ed6">
+      <event id="25" guid="2f81c26d-d058-451f-b6dc-e2b791fe240b">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -627,12 +652,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="31">Ken Schoolland</person>
+          <person id="32">Ken Schoolland</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="25" guid="35f847c9-66fa-4bd1-9bb2-0425266e4bd2">
+      <event id="26" guid="b75ad340-5b66-4b30-8e1a-632e72a73ece">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -652,12 +677,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="32">Karel Hulec</person>
+          <person id="33">Karel Hulec</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="26" guid="62a40637-4e92-4913-8a38-37a813491986">
+      <event id="27" guid="2a1ecd62-0cd3-4274-b845-e588b551ac0d">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -677,12 +702,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="33">Reinaldo Escobar Casas</person>
+          <person id="34">Reinaldo Escobar Casas</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="27" guid="f4c457e0-7b2c-4c77-ae87-c88fe579ffc0">
+      <event id="28" guid="598664ef-8512-4834-8db3-1d826267744c">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -702,12 +727,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="34">Smuggler</person>
+          <person id="35">Smuggler</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="28" guid="ddff4fcf-94de-4bd5-8095-91c103f3726b">
+      <event id="29" guid="b4fc96e2-8f24-4cdc-9385-4bd65676a361">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -727,12 +752,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="35">Nick Middleton</person>
+          <person id="36">Nick Middleton</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="29" guid="8c177607-9608-4046-be0f-fac5824c8b12">
+      <event id="30" guid="75e709b8-024c-4576-bee3-b524cde818f3">
         <url></url>
         <logo/>
         <date>2019-10-05T20:00+02:00</date>
@@ -752,14 +777,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="36"></person>
+          <person id="37"></person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="30" guid="0ea1709d-8c10-430b-80f5-dbea8c46b08b">
+      <event id="31" guid="bb712e8a-b4ab-479d-b93c-50dc32de8828">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -779,12 +804,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="37">Michal Postránecký</person>
+          <person id="38">Michal Postránecký</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="31" guid="9ae2f04e-96a5-4772-bb52-3d7787d2ebb9">
+      <event id="32" guid="626e7077-f899-4fbd-a37a-f664f4709680">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -804,12 +829,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="38">Yisi Liu</person>
+          <person id="39">Yisi Liu</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="32" guid="3c57f7d2-6b71-45ae-9764-10b8c4b27c92">
+      <event id="33" guid="727b18ea-0917-4de4-a454-916c0f8b0c8c">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -829,12 +854,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="39">Spyros Dovas</person>
+          <person id="40">Spyros Dovas</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="33" guid="388082ed-59ae-4f6d-aeeb-211c874fd99c">
+      <event id="34" guid="b8779988-5bf7-4190-8717-8e26a4ceb8d6">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -854,13 +879,13 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="40">Ketominer</person>
-          <person id="41">Bitcannery</person>
+          <person id="41">Ketominer</person>
+          <person id="42">Bitcannery</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="34" guid="c18d1495-7229-4ad9-b4a9-69dfcc6a234f">
+      <event id="35" guid="6f420f5a-93f8-4d5c-b279-178cf3a39a4b">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -880,12 +905,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="42">Kilian Rausch</person>
+          <person id="43">Kilian Rausch</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="35" guid="0155630a-6726-41aa-b55f-f88db4e87f40">
+      <event id="36" guid="ed5dff38-4042-431d-bfae-c9e07c0f6006">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -905,14 +930,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="43">Joerg Platzer</person>
+          <person id="44">Joerg Platzer</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Slévárna">
-      <event id="36" guid="0c3701b5-19c5-4fca-b4cd-e3e6081657b2">
+      <event id="37" guid="465908ec-f6e3-4ef3-b4ac-6ab6a329e212">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -932,12 +957,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="44">Travin Keith</person>
+          <person id="45">Travin Keith</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="37" guid="62f79692-870a-4f3e-9df5-0cace18ecade">
+      <event id="38" guid="a1941610-5f7c-4357-94f7-d206c104b5a0">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -957,12 +982,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="45">Juraj Bednár</person>
+          <person id="46">Juraj Bednár</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="38" guid="a05af275-8bf7-44f5-90a0-6ae38c1b165e">
+      <event id="39" guid="ad64f351-f0e5-437d-8215-6cba404944d9">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -982,12 +1007,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="46">Park Jung Oh</person>
+          <person id="47">Park Jung Oh</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="39" guid="66076766-249b-4e4a-9fd7-5c10805c4608">
+      <event id="40" guid="4ca4202b-ffba-4947-a0d0-80c8312df490">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1007,12 +1032,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="47">Amin Rafiee</person>
+          <person id="48">Amin Rafiee</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="40" guid="d2fd3a05-d127-4e09-bcc0-d04ddc237890">
+      <event id="41" guid="2360e56e-2452-4ac2-88e4-0e946d5ed3cd">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -1032,12 +1057,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="48">Josef Tětek</person>
+          <person id="49">Josef Tětek</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="41" guid="6e363f75-9fcf-4cd3-b405-272042db3056">
+      <event id="42" guid="74c3de37-cd97-42ce-a7a6-b994b0bf63ec">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -1057,14 +1082,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="49">Nick Middleton</person>
+          <person id="50">Nick Middleton</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Small Hub">
-      <event id="42" guid="2b023acd-7007-4449-b5fb-670f66b64dcf">
+      <event id="43" guid="e8376645-dc1e-4497-a34c-516b21996b5b">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -1084,12 +1109,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="50">Carlos Garcia Ortiz</person>
+          <person id="51">Carlos Garcia Ortiz</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="43" guid="70a4bc40-314a-4956-8641-cd8dca74ebbd">
+      <event id="44" guid="bde5a9e8-6074-43c5-bc08-fe968aa85fc3">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1109,14 +1134,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="51">Pavel</person>
+          <person id="52">Pavel</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Media Hub">
-      <event id="44" guid="a86ef08d-7d5f-408e-989b-de2f057b8a96">
+      <event id="45" guid="f97f37fe-a50a-4fc6-b2de-eda04cdf7afa">
         <url></url>
         <logo/>
         <date>2019-10-05T09:00+02:00</date>
@@ -1136,14 +1161,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="52">RIAT and Riddle+Code</person>
+          <person id="53">RIAT and Riddle+Code</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="45" guid="62bea244-1e82-4a24-8071-7942a290ab99">
+      <event id="46" guid="ef0d26e8-9e5c-44bc-8a42-c1649de86b3f">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -1163,14 +1188,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="53">Michael Schloh von Bennewitz</person>
+          <person id="54">Michael Schloh von Bennewitz</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Bar">
-      <event id="46" guid="a93336bc-6b05-472c-b0d1-11c9948be057">
+      <event id="47" guid="69105288-b680-49e4-a558-8dfce932d6bd">
         <url></url>
         <logo/>
         <date>2019-10-05T21:00+02:00</date>
@@ -1190,7 +1215,7 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="54"></person>
+          <person id="55"></person>
         </persons>
         <links/>
         <attachments/>
@@ -1199,10 +1224,35 @@
   </day>
   <day index="3" date="2019-10-06" start="2019-10-06T09:00:00+02:00" end="2019-10-07T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="47" guid="3650c036-f166-41be-8239-a9250abef8ab">
+      <event id="48" guid="eb262dda-a2fa-452c-a932-60a52666873b">
         <url></url>
         <logo/>
-        <date>2019-10-05T13:00+02:00</date>
+        <date>2019-10-05T09:00+02:00</date>
+        <start>09:00</start>
+        <duration>00:01</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>-</title>
+        <subtitle></subtitle>
+        <track>Other</track>
+        <type></type>
+        <language>en</language>
+        <abstract></abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56"></person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49" guid="36bd0a07-d960-4656-83ea-85a253e25933">
+        <url></url>
+        <logo/>
+        <date>2019-10-06T13:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Studio 1</room>
@@ -1219,20 +1269,20 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="55">Nelson Melina</person>
-          <person id="56">Marc Guals</person>
-          <person id="57">Joerg Platzer</person>
-          <person id="58">Gideon Gallasch</person>
-          <person id="59">Smuggler</person>
-          <person id="60">Martin Leskovjan</person>
-          <person id="61">Juraj Bednár</person>
-          <person id="62">Tomas Kanócz</person>
-          <person id="63">Pavol Lupták</person>
+          <person id="57">Nelson Melina</person>
+          <person id="58">Marc Guals</person>
+          <person id="59">Joerg Platzer</person>
+          <person id="60">Gideon Gallasch</person>
+          <person id="61">Smuggler</person>
+          <person id="62">Martin Leskovjan</person>
+          <person id="63">Juraj Bednár</person>
+          <person id="64">Tomas Kanócz</person>
+          <person id="65">Pavol Lupták</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="48" guid="6da18017-9da9-4661-8e3e-29e0ee739356">
+      <event id="50" guid="3c8f3a5a-a490-4a96-8501-b7e3cbd1cd07">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1252,12 +1302,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="64">Sondre Bjellås</person>
+          <person id="66">Sondre Bjellås</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="49" guid="35894bf4-2f69-4818-ad16-4fda7f94a341">
+      <event id="51" guid="34e76485-edf7-4766-92a7-e47f6789a0d1">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1277,12 +1327,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="65">Peter Todd Peter Todd</person>
+          <person id="67">Peter Todd Peter Todd</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="50" guid="ff74cc21-2462-4583-bb75-caa532fe318f">
+      <event id="52" guid="3af2dc5b-ec4c-4102-83e4-80e83ed14955">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1302,12 +1352,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="66">Li Zhao Schoolland</person>
+          <person id="68">Li Zhao Schoolland</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="51" guid="cc502e10-ad84-4468-af5f-bbc2cd396550">
+      <event id="53" guid="ed763207-964f-4909-8c44-ac56498dfd54">
         <url></url>
         <logo/>
         <date>2019-10-06T19:00+02:00</date>
@@ -1327,14 +1377,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="67"></person>
+          <person id="69"></person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="52" guid="a1ea9d57-b97c-443c-bae9-278ced573d55">
+      <event id="54" guid="ef52505e-3e32-41d1-8c11-8fdc3d788a56">
         <url></url>
         <logo/>
         <date>2019-10-06T13:00+02:00</date>
@@ -1354,12 +1404,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="68">Michalis Kargakis</person>
+          <person id="70">Michalis Kargakis</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="53" guid="91d3d7cb-83ca-42e1-9b2c-f6bcb6cd3593">
+      <event id="55" guid="b37a1f58-f99b-4df5-93a0-baa04c7c3f11">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1379,12 +1429,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="69">Frank Rieger</person>
+          <person id="71">Frank Rieger</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="54" guid="1913c217-799b-45d6-bcd5-e3b103ab856f">
+      <event id="56" guid="7cfbb775-e066-4d09-853c-9603be812979">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1404,13 +1454,13 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="70">Alena Vránova</person>
-          <person id="71">Jason Evans</person>
+          <person id="72">Alena Vránova</person>
+          <person id="73">Jason Evans</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="55" guid="78015c1d-6d3d-42bd-aeb3-3c6606833c80">
+      <event id="57" guid="40897070-1a64-4457-a5ba-25e2fbd11003">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1430,12 +1480,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="72">Tomáš Marada</person>
+          <person id="74">Tomáš Marada</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="56" guid="f8ab86b6-7378-4f14-98de-446645dea2f8">
+      <event id="58" guid="d206e531-eb6e-4e2b-84f5-541750d930af">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1455,14 +1505,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="73">Patrik Tjokorda</person>
+          <person id="75">Patrik Tjokorda</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Slévárna">
-      <event id="57" guid="d9774cc4-5bbf-4e04-a977-4bc05d6a8279">
+      <event id="59" guid="0056d5e5-08df-45a2-9444-3e4866e308cd">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1482,12 +1532,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="74">Harry Halpin</person>
+          <person id="76">Harry Halpin</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="58" guid="b337b6b1-ae93-44c9-a2d2-93e45eef257a">
+      <event id="60" guid="de54b39b-3a0f-40b5-beec-4c0211c9f753">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1507,12 +1557,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="75">Inbar Preiss</person>
+          <person id="77">Inbar Preiss</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="59" guid="d6c44f9e-2a61-42ab-8e7e-75cd9afeed3b">
+      <event id="61" guid="4528c1d2-3f1d-4592-93ac-47171ee462a9">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1532,12 +1582,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="76">Mark Nadal</person>
+          <person id="78">Mark Nadal</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="60" guid="0f3e1705-359c-41d0-9e1f-540d8e8fe0a6">
+      <event id="62" guid="6d62c244-548b-4bdc-b292-efb510ae7567">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1557,14 +1607,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="77">František Vrábel</person>
+          <person id="79">František Vrábel</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Small Hub">
-      <event id="61" guid="e489ca98-5901-4009-b0bd-4024cab112d5">
+      <event id="63" guid="afca72b3-a1a5-4288-b7a5-ae4cead8c229">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1584,12 +1634,12 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="78">Robin Cussol</person>
+          <person id="80">Robin Cussol</person>
         </persons>
         <links/>
         <attachments/>
       </event>
-      <event id="62" guid="9c93f120-d41e-40db-a779-7b5819b38ab2">
+      <event id="64" guid="773df525-5abb-4475-9864-6d9ed53638ca">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1609,14 +1659,14 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="79">Tomáš Ouhel</person>
+          <person id="81">Tomáš Ouhel</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="63" guid="7fa78cb6-beec-484a-a511-078461ffcb8a">
+      <event id="65" guid="03008f29-c0a4-461a-933c-387c70b0724d">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1636,7 +1686,7 @@
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="80">Michael Schloh von Bennewitz</person>
+          <person id="82">Michael Schloh von Bennewitz</person>
         </persons>
         <links/>
         <attachments/>
