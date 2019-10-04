@@ -16,9 +16,8 @@ https://github.com/JKAbrams/EventFahrplan/raw/master/Fahrplan-1.40.0-hcpp19-rele
 
 [![Apache License](http://img.shields.io/badge/license-Apache%20License%202.0-lightgrey.svg)](http://choosealicense.com/licenses/apache-2.0/)
 
-[Opt out](https://github.com/JKAbrams/EventFahrplan/raw/master/app/src/hcpp19/res/drawable-xxxhdpi/dialog_logo.png)
 
-
+[![OPT OUT](https://github.com/JKAbrams/EventFahrplan/raw/master/app/src/hcpp19/res/drawable-xxxhdpi/dialog_logo.png)](http://)
 
 ## Licenses
 
