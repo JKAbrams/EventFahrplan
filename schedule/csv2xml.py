@@ -6,6 +6,13 @@ import os.path
 import datetime
 from datetime import timedelta
 
+def escape( str ):
+    str = str.replace("&", "&amp;")
+    str = str.replace("<", "&lt;")
+    str = str.replace(">", "&gt;")
+    str = str.replace("\"", "&quot;")
+    return str
+
 # Simple parser that reads a csv file in the following format:
 # Day,Time,Speaker,Title,Description,Room
 # and produces an XML file compatible with the fahrplan android application
@@ -140,8 +147,8 @@ def printXML(reader):
         day = int(r[0])
         time = r[1]
         persons = r[2]
-        title = r[3]
-        abstract = r[4][0:220]
+        title = escape(r[3])
+        abstract = escape(r[4])
         room = r[5]
 
         # Calculate dates:
