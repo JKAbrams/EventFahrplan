@@ -33,7 +33,7 @@ eventOpening = '''      <event id="{}" guid="{}">
         <type>{}</type>
         <language>{}</language>
         <abstract/>
-        <description>{}</description/>
+        <description>{}</description>
         <recording>
           <license/>
           <optout>false</optout>
