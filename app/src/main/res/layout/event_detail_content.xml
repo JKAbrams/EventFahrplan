@@ -38,15 +38,6 @@
         android:id="@+id/event_detail_content_links_view"
         style="@style/EventDetailSection"
         tools:text="@string/placeholder_event_links"/>
-
-    <TextView
-        android:id="@+id/event_detail_content_event_online_section_view"
-        style="@style/EventDetailSection.Header"
-        android:text="@string/event_online"/>
-
-    <TextView
-        android:id="@+id/event_detail_content_event_online_view"
-        style="@style/EventDetailSection"
-        tools:text="@string/placeholder_event_online"/>
+    
 
 </merge>

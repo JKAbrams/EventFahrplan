@@ -229,7 +229,7 @@ public class EventDetailFragment extends Fragment {
             }
 
             // Event online
-
+            /* Disabled
             final TextView eventOnlineSection = view.findViewById(R.id.event_detail_content_event_online_section_view);
             eventOnlineSection.setTypeface(bold);
             final TextView eventOnlineLink = view.findViewById(R.id.event_detail_content_event_online_view);
@@ -243,7 +243,7 @@ public class EventDetailFragment extends Fragment {
                 final String eventLink = "<a href=\"" + eventUrl + "\">" + eventUrl + "</a>";
                 setUpHtmlTextView(eventOnlineLink, regular, eventLink);
             }
-
+            */
             activity.invalidateOptionsMenu();
         }
         activity.setResult(Activity.RESULT_CANCELED);
