@@ -3,7 +3,6 @@ package nerd.tuxmobil.fahrplan.congress.favorites
 import android.content.Context
 import android.support.annotation.ColorInt
 import android.support.v4.content.ContextCompat
-import android.text.format.Time
 import android.view.View
 import android.widget.TextView
 
@@ -12,6 +11,7 @@ import nerd.tuxmobil.fahrplan.congress.base.LecturesAdapter
 import nerd.tuxmobil.fahrplan.congress.extensions.textOrHide
 import nerd.tuxmobil.fahrplan.congress.models.Lecture
 import nerd.tuxmobil.fahrplan.congress.utils.DateHelper
+import android.text.format.Time as Time1
 
 class LectureArrayAdapter internal constructor(
 
@@ -27,7 +27,7 @@ class LectureArrayAdapter internal constructor(
 
 ) {
 
-    private val now: Time = Time()
+    private val now: Time1 = Time1()
 
     @ColorInt
     private val pastEventTextColor = ContextCompat.getColor(context, R.color.favorites_past_event_text)
