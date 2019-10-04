@@ -103,12 +103,12 @@ public class FahrplanFragment extends Fragment implements OnClickListener {
     public static Context context = null;
 
     public static String[] rooms = {
-            "Saal 1",
-            "Saal 2",
-            "Saal G",
-            "Saal 6",
-            "Saal 17",
-            "Lounge"
+            "Studio 1",
+            "Institute of Cryptoanarchy",
+            "Slévárna",
+            "Small Hub",
+            "Hackerspace",
+            "Bar"
     };
 
     public static final String PREFS_NAME = "settings";

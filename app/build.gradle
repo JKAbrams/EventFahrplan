@@ -29,7 +29,7 @@ android {
         versionName "1.40.0"
         minSdkVersion 29
         targetSdkVersion 29
-        archivesBaseName = "Fahrplan-$versionName"
+        archivesBaseName = "Fahrplan-HCPP-$versionName"
 
         // Build information
         buildConfigField "String", "BUILD_TIME", "\"${buildTime()}\""
@@ -61,7 +61,7 @@ android {
     productFlavors {
         ccc35c3 {
             dimension defaultDimension
-            applicationId "info.metadude.android.congress.schedule"
+            applicationId "info.metadude.android.hcpp.schedule"
             //signingConfig signingConfigs.ccc35c3
             buildConfigField "String", "SCHEDULE_URL", '"https://raw.githubusercontent.com/JKAbrams/EventFahrplan/master/schedule/hcpp19.xml"'
             buildConfigField "String", "EVENT_URL", '""' // https://events.ccc.de/congress/2018/Fahrplan/events/%1$s.html

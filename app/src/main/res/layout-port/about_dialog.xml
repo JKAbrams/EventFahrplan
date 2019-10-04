@@ -17,14 +17,13 @@
             >
 
         <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="16dp"
-                android:contentDescription="@string/about_logo_content_description"
-                android:paddingBottom="15dp"
-                android:src="@drawable/dialog_logo">
-        </ImageView>
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:contentDescription="@string/about_logo_content_description"
+            android:paddingBottom="15dp"
+            android:src="@drawable/dialog_logo"></ImageView>
 
         <TextView
                 android:id="@+id/eventTitle"

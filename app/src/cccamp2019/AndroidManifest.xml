@@ -2,6 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="nerd.tuxmobil.fahrplan.congress">
 
-    <application android:roundIcon="@mipmap/ic_launcher_round" />
+    <application android:icon="@mipmap/ic_launcher" />
 
 </manifest>

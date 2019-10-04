@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:53</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 06:31</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -11,7 +11,7 @@
   </conference>
   <day index="1" date="2019-10-04" start="2019-10-04T09:00:00+02:00" end="2019-10-05T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="1" guid="f33843f0-7112-4b06-8ac4-12ba6c96109a">
+      <event id="1" guid="a7d0c662-c135-42dc-a942-e88b46f34302">
         <url></url>
         <logo/>
         <date>2019-10-04T09:00+02:00</date>
@@ -36,7 +36,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="2" guid="edb3bce8-b067-47c5-b470-e2e35715d693">
+      <event id="2" guid="307f7d82-7db7-41d4-b1a4-0a88e4bcf0c2">
         <url></url>
         <logo/>
         <date>2019-10-04T13:00+02:00</date>
@@ -61,7 +61,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="3" guid="25218b87-5450-46be-bae7-17c372ed81e6">
+      <event id="3" guid="55c93eab-7a59-4620-8950-8cf322beec31">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -86,7 +86,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="4" guid="40fcbc5b-0d28-4918-8284-298b75ad8170">
+      <event id="4" guid="814c8d05-9e61-4538-8848-02c4402f718f">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -111,7 +111,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="5" guid="684fb63a-e6f0-4d7f-ad06-d4587748575d">
+      <event id="5" guid="e8084d0f-a59f-484a-9996-0a81e08736dc">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -140,7 +140,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="6" guid="b56b36ed-bf94-444d-99f5-634a871a32c4">
+      <event id="6" guid="f221e493-ceb1-40de-b0c8-2541a15d11f5">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -165,7 +165,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="7" guid="36b58f22-e444-4db7-8787-3077420c6de5">
+      <event id="7" guid="b9581c2d-66ce-42c4-87e1-124c210d551d">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -190,7 +190,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="8" guid="309bbb44-6503-403b-a697-62be2330cd07">
+      <event id="8" guid="ce275a01-cdbe-4bf5-b764-73baf2ad1bd4">
         <url></url>
         <logo/>
         <date>2019-10-04T20:00+02:00</date>
@@ -217,7 +217,7 @@
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="9" guid="7dd1eaf6-0658-4d24-87c8-ba056634e35d">
+      <event id="9" guid="3aa58ff3-9d2e-48f8-b88a-64955f2d68b9">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -242,7 +242,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="10" guid="a352d22c-3744-4ced-a59b-eeafc07edbbe">
+      <event id="10" guid="43b85cbd-1d8b-45f8-af6c-4e4386a25837">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -267,7 +267,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="11" guid="03c55da1-0f77-48d4-8971-606a8ce3b397">
+      <event id="11" guid="11ac296a-1b0f-4fd5-87b9-d4bb09df1e0a">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -292,7 +292,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="12" guid="f0ef8304-3abf-4fe9-bcc3-2141366a7c38">
+      <event id="12" guid="51c716d6-8754-425e-9afa-797693409532">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -317,7 +317,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="13" guid="0184f240-0430-44bb-a8a5-7a69e6ab5c95">
+      <event id="13" guid="6a59a5cc-bf37-4b24-86a9-55e35e830413">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -346,7 +346,7 @@
       </event>
     </room>
     <room name="Slévárna">
-      <event id="14" guid="e3c02425-a3a2-49f8-9227-8fdd4cdbd884">
+      <event id="14" guid="6982d748-446e-4649-b4fe-b8e90d796b22">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -372,7 +372,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="15" guid="c286f5ea-ac0e-4c8d-849a-796cb8716c29">
+      <event id="15" guid="7b40845f-fada-4aa4-bf6a-37c4d7a82707">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -397,7 +397,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="16" guid="38f25470-ea34-43c9-9ff3-30aaa2233065">
+      <event id="16" guid="3cda9c74-7a3a-4286-9089-7acd9e1242bd">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -422,7 +422,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="17" guid="4de5fe87-f2ad-457a-a0ab-4357e9fa2987">
+      <event id="17" guid="132acf87-3ce5-4f4a-a927-638c223074ba">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -456,7 +456,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
         <links/>
         <attachments/>
       </event>
-      <event id="18" guid="8c0540c9-84d7-4648-af6f-904e39dfa120">
+      <event id="18" guid="66c8d873-b732-4810-a0a8-a471e770f552">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -483,7 +483,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
       </event>
     </room>
     <room name="Small Hub">
-      <event id="19" guid="835ca290-189b-459f-a65b-747e1c8892a7">
+      <event id="19" guid="fd1133d9-5509-44b7-80be-9eefece736f3">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -508,7 +508,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
         <links/>
         <attachments/>
       </event>
-      <event id="20" guid="efed153c-b5c6-4dae-89b4-e6eac70186d0">
+      <event id="20" guid="6a744583-caf7-4a6f-afbb-14d589898a50">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -535,7 +535,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="21" guid="4490e626-af65-44c1-b639-d7b4f721cf4e">
+      <event id="21" guid="0034c2cc-8370-4e05-a87a-ddc7dcdd3866">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -562,7 +562,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
       </event>
     </room>
     <room name="Bar">
-      <event id="22" guid="ef16c7a1-1f47-469a-93d5-af4cac6ec898">
+      <event id="22" guid="0d6b461e-c908-4785-963f-8a8f162d449e">
         <url></url>
         <logo/>
         <date>2019-10-04T21:00+02:00</date>
@@ -591,7 +591,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
   </day>
   <day index="2" date="2019-10-05" start="2019-10-05T09:00:00+02:00" end="2019-10-06T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="23" guid="d2cf2fa1-67ac-4f0a-84d5-f66d56fa66f3">
+      <event id="23" guid="8d3f6680-026d-48d5-b7f5-963ad55c81b3">
         <url></url>
         <logo/>
         <date>2019-10-04T13:00+02:00</date>
@@ -616,7 +616,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
         <links/>
         <attachments/>
       </event>
-      <event id="24" guid="7b57ae4d-d0da-4b42-bec5-04bab3ecf001">
+      <event id="24" guid="d480c713-649c-4f56-bfc9-e42346f86855">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -647,7 +647,7 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
         <links/>
         <attachments/>
       </event>
-      <event id="25" guid="11fe3672-3ef1-4b33-b6d2-a8d373a7ec90">
+      <event id="25" guid="c0770af1-009d-45c8-a7b3-0aa4fbebf678">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -684,7 +684,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
         <links/>
         <attachments/>
       </event>
-      <event id="26" guid="2f87e340-3c58-422d-a895-2341ae20c93e">
+      <event id="26" guid="6dd36d05-6fe2-4e09-8ab1-d4cd1d7670ce">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -713,7 +713,7 @@ A strong social demand has been generated to improve connectivity and expand the
         <links/>
         <attachments/>
       </event>
-      <event id="27" guid="0773177e-c348-4ce4-827e-b31049fc1307">
+      <event id="27" guid="f0380f5f-b4f5-4c09-8b1d-9f43fb47dd74">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -742,7 +742,7 @@ In this talk we shall explore the necessary properties of government-independent
         <links/>
         <attachments/>
       </event>
-      <event id="28" guid="11678f9a-0b29-4896-8ca4-521cab1a9560">
+      <event id="28" guid="5a28aed5-9d4f-4865-81a2-b6ed59a9c463">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -771,7 +771,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <links/>
         <attachments/>
       </event>
-      <event id="29" guid="90f24953-e947-4648-8d21-a231c7c1e83f">
+      <event id="29" guid="9d2075fb-3c4f-491c-962c-9308a6a578c5">
         <url></url>
         <logo/>
         <date>2019-10-05T20:00+02:00</date>
@@ -798,7 +798,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="30" guid="5d90c2e1-d66d-4f00-9a96-bfd80f2824d8">
+      <event id="30" guid="1735ab1b-c19b-4877-8df3-d3edd8ec8196">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -823,7 +823,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <links/>
         <attachments/>
       </event>
-      <event id="31" guid="5b87150a-2db0-4221-92ae-7bba2e48f15b">
+      <event id="31" guid="7f5300a4-f72b-4011-b596-f30febfe2caa">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -850,7 +850,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <links/>
         <attachments/>
       </event>
-      <event id="32" guid="30935c74-11dc-48a1-9301-eff48bb3a3df">
+      <event id="32" guid="95e90bc4-d39f-4d12-8b4e-191bc00d9def">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -875,7 +875,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <links/>
         <attachments/>
       </event>
-      <event id="33" guid="39d13bc1-f671-4b4c-b303-29ed3a5903e8">
+      <event id="33" guid="f4da98bb-00f6-4875-8619-bd94bbe74ff4">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -922,7 +922,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="34" guid="8a0c9694-106e-4525-8569-9caa1c4dfbe8">
+      <event id="34" guid="4b899526-865f-43cb-947a-378c007e05b4">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -947,7 +947,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="35" guid="91caa66d-e337-41d7-b3d9-90e673407ee8">
+      <event id="35" guid="8101ff55-5314-44b9-b39f-a4ccf41aaca7">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -974,7 +974,7 @@ That point in time can be continuously pushed forward by the sender. This is use
       </event>
     </room>
     <room name="Slévárna">
-      <event id="36" guid="f1deac2c-8160-4861-8e55-6740a1c42694">
+      <event id="36" guid="e3a840bf-fd8f-4bc1-a5dc-6d413fd90016">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -999,7 +999,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="37" guid="36713587-1d7e-428b-8807-0ca4710c13fc">
+      <event id="37" guid="db6d4854-130b-4ecc-bf75-c99ac0e063f5">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -1030,7 +1030,7 @@ This talk looks at the development of financial surveillance. It looks at curren
         <links/>
         <attachments/>
       </event>
-      <event id="38" guid="546688f1-0ca4-4eb8-8b25-4b87301104ff">
+      <event id="38" guid="808d5f87-bb01-4ee8-bab4-24ba1333e47b">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -1057,7 +1057,7 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
         <links/>
         <attachments/>
       </event>
-      <event id="39" guid="7a5ad9cd-d179-49fe-ac35-45523157a2ea">
+      <event id="39" guid="99570aa0-8871-4e8d-bbe0-96f74cc31800">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1086,7 +1086,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <links/>
         <attachments/>
       </event>
-      <event id="40" guid="77db9c99-97bf-4560-bb2c-d277ec314c27">
+      <event id="40" guid="31275214-4962-4837-8232-f6913210c528">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -1111,7 +1111,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <links/>
         <attachments/>
       </event>
-      <event id="41" guid="77cdecf5-f8c9-4dda-b3a2-a41e7f8dc038">
+      <event id="41" guid="d248306f-c5ce-450c-b046-7b93bdcc9f73">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -1142,7 +1142,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       </event>
     </room>
     <room name="Small Hub">
-      <event id="42" guid="b6484705-aa46-4011-aeb5-2dcbd9f00c1b">
+      <event id="42" guid="78945b9f-8090-467d-99ad-d04e049f6d92">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -1174,7 +1174,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
         <links/>
         <attachments/>
       </event>
-      <event id="43" guid="b94af6f2-667c-418d-9a3a-5d9614c70708">
+      <event id="43" guid="b676b9ed-3b74-4d9e-883c-61743822fbcf">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1214,7 +1214,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
       </event>
     </room>
     <room name="Media Hub">
-      <event id="44" guid="8ab64f09-a234-4955-90ba-c1a06bd92c7e">
+      <event id="44" guid="01f3867c-2412-4192-9cef-9b4df3613c97">
         <url></url>
         <logo/>
         <date>2019-10-05T09:00+02:00</date>
@@ -1262,7 +1262,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="45" guid="8e3979ed-de70-4247-8baa-42e137b786a1">
+      <event id="45" guid="0e06f36b-b5f2-4238-86f6-4d760f726975">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -1304,7 +1304,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       </event>
     </room>
     <room name="Bar">
-      <event id="46" guid="7f5bcdee-5a9b-40c6-a6ee-b7c7fec17afd">
+      <event id="46" guid="79c041a6-62df-4379-9dcd-ef2b4341b2ec">
         <url></url>
         <logo/>
         <date>2019-10-05T21:00+02:00</date>
@@ -1333,7 +1333,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
   </day>
   <day index="3" date="2019-10-06" start="2019-10-06T09:00:00+02:00" end="2019-10-07T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="47" guid="bf827291-e441-4c4c-b2c1-9cbf8f5c70d7">
+      <event id="47" guid="7790f947-02d2-4b80-99b9-4a39c1ec4227">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -1381,7 +1381,7 @@ Moderated by: Pavol Lupták</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="48" guid="9ad30b4a-0593-43b0-970d-2579947f1266">
+      <event id="48" guid="fd08b436-1ed2-420f-bea5-ad696332b742">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1406,7 +1406,7 @@ Moderated by: Pavol Lupták</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="49" guid="c0d3df91-83c3-4ff9-a138-9da0205535bb">
+      <event id="49" guid="0e4b6640-411a-494e-b1b9-80ef37a36294">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1433,7 +1433,7 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
         <links/>
         <attachments/>
       </event>
-      <event id="50" guid="44431550-5bc9-43ea-a99f-0783a91a319b">
+      <event id="50" guid="eedb75cf-8aa5-4298-83c1-ae5045ab11c5">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1460,7 +1460,7 @@ You will find the answer from the stories of my life.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="51" guid="1a25cca1-bab8-45f9-9573-45f6f101d135">
+      <event id="51" guid="03155378-1547-4d8a-9757-77bbd7a5674f">
         <url></url>
         <logo/>
         <date>2019-10-06T19:00+02:00</date>
@@ -1487,7 +1487,7 @@ You will find the answer from the stories of my life.</abstract>
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="52" guid="0439f156-52e5-4fd8-a49d-969707862e0b">
+      <event id="52" guid="4e0481f0-d1e7-472f-a869-35abcc264070">
         <url></url>
         <logo/>
         <date>2019-10-06T13:00+02:00</date>
@@ -1512,7 +1512,7 @@ You will find the answer from the stories of my life.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="53" guid="05011ad4-ee88-4a7e-a4fd-1674d2f19d61">
+      <event id="53" guid="af2cefe4-a3cf-48ea-b4aa-9b0202ac0420">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1537,7 +1537,7 @@ You will find the answer from the stories of my life.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="54" guid="88b8c646-4eee-42f2-81fb-41ed650caed1">
+      <event id="54" guid="b78e9462-db8f-4fdd-8788-ae73675f3a0d">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1576,7 +1576,7 @@ What is Tor? Is it merely a place for criminals to hide out on the so called &qu
         <links/>
         <attachments/>
       </event>
-      <event id="55" guid="1beaacdf-9cd9-4574-b8be-94e14e0d735a">
+      <event id="55" guid="5d8b95de-6aa9-4b42-beed-bfa313e91aa3">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1603,7 +1603,7 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
         <links/>
         <attachments/>
       </event>
-      <event id="56" guid="fe9ef7d3-0c18-4bee-9df5-1a48464d0e3b">
+      <event id="56" guid="9c1cb7b8-4cde-4dcc-960e-6848b36c23e3">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1641,7 +1641,7 @@ From theoretical concepts to real world products and how we can get this done.
       </event>
     </room>
     <room name="Slévárna">
-      <event id="57" guid="a3783d7e-d0f0-447f-9a41-4a7334248daf">
+      <event id="57" guid="bb8149de-731c-4686-ad27-9a64423b023d">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1670,7 +1670,7 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
         <links/>
         <attachments/>
       </event>
-      <event id="58" guid="48dbfc80-b3ca-41b6-beba-74c2b4ba0e4a">
+      <event id="58" guid="f84b5abb-4897-4288-a4f1-7d4d0e80aad1">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1697,7 +1697,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <links/>
         <attachments/>
       </event>
-      <event id="59" guid="10cd0f40-035f-43d0-b922-b9458fed0ac5">
+      <event id="59" guid="606a4519-f836-484b-9748-6022dee147e3">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1722,7 +1722,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <links/>
         <attachments/>
       </event>
-      <event id="60" guid="72c51d47-5549-4a80-9b08-d06307b0933d">
+      <event id="60" guid="eaa0a867-aff7-42de-8d67-2c095ed4eb91">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1751,7 +1751,7 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
       </event>
     </room>
     <room name="Small Hub">
-      <event id="61" guid="037b61be-6020-4ada-a445-3e12c3770a2d">
+      <event id="61" guid="3839099e-f1a6-451c-8c9d-e3e1a71eb51a">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1785,7 +1785,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
         <links/>
         <attachments/>
       </event>
-      <event id="62" guid="e3d7e24a-b21c-4537-b5a0-0885e02bdefa">
+      <event id="62" guid="d012834a-c10e-48ff-9c94-3a4e941dd6df">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1818,7 +1818,7 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="63" guid="cffc419b-41d1-47da-9060-56d26577805f">
+      <event id="63" guid="2dc6a0de-4c74-4f5c-a84b-50250c8098cc">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
