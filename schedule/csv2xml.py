@@ -232,7 +232,6 @@ def printXML(reader):
         url = ""
         duration = "01:00"
         slug = ""
-        track = ""
         typ = ""
         subtitle = ""
         language = "en"

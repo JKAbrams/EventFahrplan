@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">35C3 Schedule</string>
-    <string name="app_hardcoded_subtitle">December 27.-30. 2018, Leipzig, Leipziger Messe</string>
+    <string name="app_name">HPCC19 Schedule</string>
+    <string name="app_hardcoded_subtitle">October 4.-6. 2019, Prague, Parelelni Polis</string>
     <string name="conference_url">
-        <![CDATA[<a href="https://events.ccc.de/congress/2018/wiki">https://events.ccc.de/congress/2018/wiki</a>]]>
+        <![CDATA[<a href="https://opt-out.hcpp.cz/schedule">https://opt-out.hcpp.cz/schedule</a>]]>
     </string>
     <string name="source_code">
-        <![CDATA[<a href="https://github.com/EventFahrplan/EventFahrplan">Source code</a>]]>
+        <![CDATA[<a href="https://github.com/JKAbrams/EventFahrplan/">Source code</a>]]>
     </string>
-    <string name="google_play_store">
-        <![CDATA[<a href="https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule">Google PlayStore listing</a>]]>
-    </string>
-    <string name="copyright_logo">
-        <![CDATA[35C3: Refreshing Memories design by Stella Schiffczyk]]>
-    </string>
-    <string name="about_logo_content_description">
-        35C3 refreshing memories logo, gradient from blue to green
-    </string>
+    <string name="google_play_store"></string>
+    <string name="copyright_logo"></string>
+    <string name="about_logo_content_description"></string>
 </resources>

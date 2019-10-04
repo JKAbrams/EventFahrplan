@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:07</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:42</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -14,6 +14,31 @@
       <event id="1" guid="1">
         <url></url>
         <logo/>
+        <date>2019-10-04T09:00+02:00</date>
+        <start>09:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>-</title>
+        <subtitle></subtitle>
+        <track>Other</track>
+        <type></type>
+        <language>en</language>
+        <abstract></abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="0"></person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
         <date>2019-10-04T13:00+02:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
@@ -21,7 +46,7 @@
         <slug></slug>
         <title>Opening Speech</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract></abstract>
@@ -46,7 +71,7 @@
         <slug></slug>
         <title>Things which matter the most: reality, brain and consciousness</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Linking physical reality, brain activity and consciousness still stands as one of the most interesting and elusive problems of neuroscience, psychology, psychiatry and philosophy. Finding their mutual relationships represents the first step toward explanation how the brain process external information and how the picture of reality in our mind relates the world.  In this lecture, I deal with two central questions of consciousness: how and why? “How” refers to the theoretical and empirical approach to reveal the neural correlates and mechanisms that form consciousness. On the other hand, “why” refers to both the evolutionary origin and the question why is there conscious experience at all.  The extraordinary states of consciousness elicited by the psychedelics, such as DMT, psilocybin and LSD, represent one of the most powerful tools for understanding neurobiology of consciousness and answering both “why” and “how” questions. The results of brain neuroimaging studies on the effect of psychedelic drugs on structure of consciousness provide an explanation for its phenomenological features, including unconstrained cognition, meaning of concepts of reality and a sense of expanded consciousness awareness. We will discuss how psychedelics, and other modern techniques such as neurostimulation, may increase cognitive flexibility and creativity, elucidate our understanding of the structure of external physical reality and enhance human potential in general.</abstract>
@@ -71,7 +96,7 @@
         <slug></slug>
         <title>A proper path to digital immortality</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Last year my talk was devoted to uncensorable and unregulated artificial intelligence. This year I'd like to give more technical insights into the topic and describe how existing Bitcoin and Lightning Network technologies can be utilized to break the attribution between computing, messaging, storage and ownership — and physical identity of the person. Then, I will disclose why these steps are a required part of the equation that can eventually lead to digital immortality.</abstract>
@@ -96,7 +121,7 @@
         <slug></slug>
         <title>Panel - BIOHACK YOURSELF</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Panel</track>
         <type></type>
         <language>en</language>
         <abstract>What is Electrically conductive fibre, fabric and their use in clothing industry? Lead by: Oldrich Voyta  Virtual reality, Sport, Healthcare. What these three items are having in common? The answer is - smart clothing and electric conductive fabrics. Come and talk with Oldrich Voyta, who will present his study of electrically conductive fabric and why is important to think and speak of it right now!  About Oldrich Voyta During his studies at the dance conservatory, Oldrich Voyta was strongly influenced by costume design. In a range of his design work: Ballet Queen (Moravian Theatre Olomouc), contemporary dance performance: Entropy (Bohemian National Hall, New York), 3D Printed Shoes (Musée du Louvre, Paris; Berlin 3D Printing Expo; Prague 3D Printing Expo). Since joining the VO5 Fashion Design Studio Beijing - China, in July 2014, Voyta has developed and successfully presented a project which blends fashion design and art photography into one unit. Since 2015 after joining the DeFacto Design Studio in Beijing, He started to collaborate on a projects which combines design and technology: Pollution mask (RedDot Winner 2018), 3D Printed BIOdegradable shoes for brand Jiri Kalfar (London Fashion Week 2018), wearable vegan shoes made of organic bacterial cellulose with bio degradable 3D printed parts (Milano Design Week 2019) Voyta’s artistic creation is varied and encompasses a range of expression, from theatre costume to fashion design. His work is strongly influenced by the technology merging with clothing into one unit.</abstract>
@@ -125,7 +150,7 @@
         <slug></slug>
         <title>Opting-Out, To Precisely What?</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Yes, we all want to escape the pressures and abuse of the reigning systems, but things don’t become magically wonderful just because we’ve opted-out. New structures and new ways of living have to be built outside, and even though we’ve made a nice start, it has been just a small start. We have a long, long way to go.  We’re also guaranteed to face challenges on the outside, not only from bad people who may follow us there, but because none of us are fully developed, and we all carry some difficulties with us.  Being outside gives us space to build anew and to create better structures for ourselves, and then to improve ourselves. We’ll have to choose our actions well and we’ll have to work hard, but if we do, even the sky will be no limit.</abstract>
@@ -150,7 +175,7 @@
         <slug></slug>
         <title>Who Vouches For You?: A Radical Crime Law Proposal</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Most ancient societies used simple A-sues-B-for-cash legal systems to deal with most harms. But in the last few centuries, states added “crime law”, wherein the state investigates, sues, and imprisons “criminals.” These centrally-run one-size-fits-all bureaucratic systems don’t innovate well nor adapt well to individual conditions. And even though most of your “constitutional rights” are regarding such systems, they still seem badly broken.  In the ancient world, a stranger who came to town was trusted more if a local “vouched” for them. We still use vouching today in bonded contractors, in organized crime, and in requiring most everyone to get an insurer who pays on their behalf if they cause a car accident. I propose requiring everyone to get an insurer to vouch for them regarding any crimes they might commit. If you are found guilty of a crime, your “voucher” pays the state a fine, and then pays to punish you according to your contract with them. This fine in part pays the private bounty-hunter who convinced the court of your guilt. Competing bounty-hunters obey law because they can’t maintain a blue-wall-of-silence.  To lower your voucher premiums, you might agree to (1) prison, torture, or exile, if caught, (2) prior limits on your freedom like curfews, ankle bracelets, and their reading your emails, and (3) co-liability wherein you and your buddies are all punished if any one of you is found guilty. In this system, the state still decides what behaviors are crimes and if any one accusation is true, and it sets fine and bounty levels regarding how hard to discourage and detect each kind of crime. But each person chooses their own “constitutional rights”, and vouchers acquire incentives and opportunity to innovate and adapt, by searching in a large space of ways to discourage crime.</abstract>
@@ -175,7 +200,7 @@
         <slug></slug>
         <title>Project Libertas</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>An update on the first documentary film about Czech and Slovak crypto scene with exclusive content preview for HCPP19 attendees.</abstract>
@@ -202,7 +227,7 @@
         <slug></slug>
         <title>NAP for artificial agents: will AI knock before slamming the humanity's door?</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Each code of conduct is a derivative from nature of actors and nature of interaction between them. Humans have been trying to overcome (or suppress) their nature by creating moral standards, rules, by means of which they could judge each other and decide whether to build the interaction further or to refuse and disrupt the communication.  For the last decades we have been trying to apply our ethics and moral principles to other types of agents - artificial ones, in order to judge them and be capable of reacting accordingly. But do computers have the nature similar to ours that would make the application possible? Will the nature of interaction between artificial and biological agents be the same as human-to-human? Will AI have a goodwill to politely ask us to cooperate before tearing down our barbed wire fences? </abstract>
@@ -227,7 +252,7 @@
         <slug></slug>
         <title>Lightning Talks</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Speakers: exiledsurfer  exiledsurfer BIO exiledsurfer co-founded Bitcoiners Without Borders in 2013 together with no-statist Mike Gogulski and technologist / futurist Vinay Gupta. exiledsurfer is a Privacy, Transparency &amp; Decentralization Open-ReSourcerer whose clients have included The Bitcoin Foundation, The Trustlines Foundation, and status.im. He is a co-conspiritor at the Department of Decentralization, which produces the ETHberlin hackathon and does research at the intersection between art and cryptography. As a digital artist / activist, he has produced memetic media for the micronation State of Sabotage, Wikileaks, Anonymous, Lulzsec, Occupy Wallstreet, and the Arab Spring.   ABSTRACT - Stateless in the Panopticon exiledsurfer will trace his personal journey to statelessness when his passport was revoked by the US State Department in 2014, covering the challenges, trade-offs, and benefits of living in the parallel cypherpunk systems of finance and identity in his ongoing battle to maintain personal freedom and sovereignty under surveillance capitalism’s panopticon institutions.</abstract>
@@ -252,7 +277,7 @@
         <slug></slug>
         <title>“Of Course There Are Risks Involved But It Is My Body After All”: Paradoxes of Personalized Nutrition &amp; Diet Hacking</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Roman poet and philosopher Lucretius said in the 1st century BC that what is food to one, may be bitter poison to others. In 2019, hyperconnected, health-focused consumers return to this premise and claim the obsolescence of one-size-fits-all dietary guidelines in favor of personalized nutrition (PN) approaches. Drawing on the recent advances in self-quantification technologies, affordable machine learning, and genome sequencing techniques, PN practitioners experiment with food products and services tailored to their individual lifestyle preferences as well as phenotypic and genotypic traits. ​These practitioners are often motivated by their distrust in official dietary recommendations issued by food and health authorities, and prefer a knowledge derived through self-experimentation. By measuring and quantifying their everyday food intake and outtake, they aim to develop a — supposedly precise — data-driven understanding of their bodies and diets. ​PN provides opportunities for empowered human-food relationships but also risks regarding limited scientific validity, health safety, and data security.  This talk presents findings from our long-term research on emerging PN technologies, practices, and issues. I will discuss a three-year ethnographic study of the ​Complete Foods​ community of ‘diet hackers’ replacing their daily meals with personalized food powders, and share insights from our recent ​DNA Diets​ project exploring the risks and opportunities of gene-based PN. The ​Complete Foods​ (CF) study ​(2014-2017) involved interviews with 65 ​CF dieters, a content analysis of three ​CF​ ​community forums, and two autoethnographic self-experiments where I probed the opportunities and limitations of the diet on myself. The ​DNA Diets​ study initiated in 2019, involves experiments with the Promethease service enabling a DIY analysis of personal DNA test reports, and crafting of dinner menus tailored to my and collaborator’s genetic codes. ​Findings from both case studies will be discussed within the broader context of food-tech innovation and data-driven optimization of everyday food and health practices.</abstract>
@@ -277,7 +302,7 @@
         <slug></slug>
         <title>UX challenges of the Bitcoin ecosystem</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>In some ways, Bitcoin UX is already better than Internet banking. In other ways, it's much worse. This presentation will describe experiences of visitors of Paralelna Polis Bratislava as well as experience of techies, who tried to use Lightning Network. The talk will also suggest improvements to make opting-out easier and possible for more people.</abstract>
@@ -302,7 +327,7 @@
         <slug></slug>
         <title>Story of Parallel Garden: Making Environmental Change From Scratch</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>You know the feeling: There is a an issue. The big one and globally significant. You understand its urgency and you would like to solve it. And you are alone, or there is only few of you. So what can you do? Get involved in politics. Initiate the protests or get involved in the existing ones. Will you succeed? Maybe or maybe not.  There is also another way of investing your time and energy - start the change on your own. Get a couple of similar minded people and start working on practical solutions. Make the first prototype. Then, address the relevant community with it and analyze the feedback. Learn, develop and scale after then.  As a members of Paralelni Polis community, we were surrounded by several environmental clichés, mostly about the eco-unfriendly cryptocurrency mining. Actually, their substance was similar to many others environmental issues: many debates and only a few practically-based conclusions with very poor impact. So, we decided to take action. We built up our first hydroponic system, start cooperation with hackerspace in order to include automation. And start the path to automated rooftop greenhouse. We also open-sourced all of our know-how in order to make it spread as far as possible. The accurate feedback on the effect of our actions was substantial to us - so we refused state-based financial sources and emphasize the peer-to-peer relation. We will be happy to share our story with you! In the meantime, we don 't waste time and iterate!  AFTER THE TALK you are more than welcomed to join the guided tour - Parallel Garden team will show you hydroponic systems and FarmBot installed in Paralelní Polis and tell you further details.</abstract>
@@ -331,7 +356,7 @@
         <slug></slug>
         <title>Counterecologies: a select history of autonomy, sovereignty and ecology in the cryptosphere</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Science fiction has always served as a testbed for the reimagining of possible organizational structures outside of the existing state apparatus. We will present a historical analysis of previous attempts - both in SF literature and IRL - to exit existing power structures and move towards a practice of creating counter-economic and ecologically-oriented organizational structures, as well as discuss the tactics and experiments for doing so we assumed whilst working on terra0. Following this grounding, we will present our conceptualization of counter-economic ecological actions, how DLT, p2p systems and asymmetric key cryptography can help actualize them, and what we think this means for the future of tech development and social coordination.</abstract>
@@ -357,7 +382,7 @@
         <slug></slug>
         <title>Constructing parallel opt-out infrastructures: A sociological contribution</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>We are deeply entrenched in numerous socio-technological systems that structure our everyday life. They function by channelling, prohibiting, controlling, limiting, categorizing, standardizing (…) our behaviour. Just count how many of these systems you have “joined/used” to this very day.  Current ideas and attempts at finding a technological solution to help us opt out from this “first constrained realm” are not entirely novel. In light of this congress, the one most worth considering is the very notion of a decentralized and free computer network, one which should catalyse a positive societal revolution and leave behind the evils of centralised and alienating state-corporate systems.  By employing a sociological approach (namely sociology of technology), we will look at what went wrong in the socio-technical history of the free computer network project and examine how the resulting system forms new hard-to-escape dependencies.  Was A Declaration of the Independence of Cyberspace too early, just in time or too late? Is it even possible to construct a technological infrastructure to opt out of “the first realm“? Which sociological criteria would facilitate an opt-out system? And lastly, how are new dependencies formed when two parallel systems meet? </abstract>
@@ -382,7 +407,7 @@
         <slug></slug>
         <title>Bitcoin - There Can Only be One</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Dominance is back to 70%, which begs the following question: is it just getting started as it surpasses it's former status (pre-2017 bubble) or will the Alt Season come back? This presentation will thoroughly demonstrate how Altcoins like Litecoin &amp; Monero and Blockchians like Ethereum &amp; Cordana are truly shitcoins and the only path for them is towards a value of 0.</abstract>
@@ -405,12 +430,21 @@
         <duration>01:00</duration>
         <room>Slévárna</room>
         <slug></slug>
-        <title>TBA</title>
+        <title>The past, present and future of Opt-Out with Open and Libre Hardware</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>More info coming soon.</abstract>
+        <abstract>FOSH (Free and Open Source Hardware) in the past years has moved away from being a small niche and has developed to a relevant movement with significant and well-known projects. Open Science Hardware offers an opt-out potential against centralisation, as visible in the &quot;Safecast&quot;
+
+Crowd Science Geiger Counter, which offered concerned people a chance to fact-check radiation levels after the Fukushima incident in Japan.
+
+Open Hardware has a success story to tell - but what does &quot;open&quot; in this context mean? How open can hardware be, post the age of microcomputing? Verifiable hardware could even help future nuclear disarming (see 34C3, &quot;Vintage Computing for Trusted Radiation Measurements and a World Free of Nuclear Weapons&quot;). In contrast, the actual hardware landscape is neither very open, nor verifiable.
+
+Additionally, HSMs and TEEs are challenging zero-trust by introducing novel attack vectors. Mistrust in modern day processors are growing, especially after “Spectre”, “Foreshadow” and “Spoiler”. Full Opt-Out possibility is presently not possible, Free and Open Source Silicon can the first step to a Zero-Trust society - but the future remains speculative.
+
+[This talk is part of the #OHM2019 Open Hardware Month]
+[Please in this context also see the workshop “Black Crystal” on 5th of October]</abstract>
         <description/>
         <recording>
           <license/>
@@ -432,7 +466,7 @@
         <slug></slug>
         <title>Who Vouches For You?: A Radical Crime Law Proposal (Livestream)</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Most ancient societies used simple A-sues-B-for-cash legal systems to deal with most harms. But in the last few centuries, states added “crime law”, wherein the state investigates, sues, and imprisons “criminals.” These centrally-run one-size-fits-all bureaucratic systems don’t innovate well nor adapt well to individual conditions. And even though most of your “constitutional rights” are regarding such systems, they still seem badly broken.  In the ancient world, a stranger who came to town was trusted more if a local “vouched” for them. We still use vouching today in bonded contractors, in organized crime, and in requiring most everyone to get an insurer who pays on their behalf if they cause a car accident. I propose requiring everyone to get an insurer to vouch for them regarding any crimes they might commit. If you are found guilty of a crime, your “voucher” pays the state a fine, and then pays to punish you according to your contract with them. This fine in part pays the private bounty-hunter who convinced the court of your guilt. Competing bounty-hunters obey law because they can’t maintain a blue-wall-of-silence.  To lower your voucher premiums, you might agree to (1) prison, torture, or exile, if caught, (2) prior limits on your freedom like curfews, ankle bracelets, and their reading your emails, and (3) co-liability wherein you and your buddies are all punished if any one of you is found guilty. In this system, the state still decides what behaviors are crimes and if any one accusation is true, and it sets fine and bounty levels regarding how hard to discourage and detect each kind of crime. But each person chooses their own “constitutional rights”, and vouchers acquire incentives and opportunity to innovate and adapt, by searching in a large space of ways to discourage crime. </abstract>
@@ -459,7 +493,7 @@
         <slug></slug>
         <title>Workshop - What is Electrically conductive fibre, fabric and their use in clothing industry?</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>What is Electrically conductive fibre, fabric and their use in clothing industry? Lead by: Oldrich Voyta  Virtual reality, Sport, Healthcare. What these three items are having in common? The answer is - smart clothing and electric conductive fabrics. Come and talk with Oldrich Voyta, who will present his study of electrically conductive fabric and why is important to think and speak of it right now!  About Oldrich Voyta During his studies at the dance conservatory, Oldrich Voyta was strongly influenced by costume design. In a range of his design work: Ballet Queen (Moravian Theatre Olomouc), contemporary dance performance: Entropy (Bohemian National Hall, New York), 3D Printed Shoes (Musée du Louvre, Paris; Berlin 3D Printing Expo; Prague 3D Printing Expo). Since joining the VO5 Fashion Design Studio Beijing - China, in July 2014, Voyta has developed and successfully presented a project which blends fashion design and art photography into one unit. Since 2015 after joining the DeFacto Design Studio in Beijing, He started to collaborate on a projects which combines design and technology: Pollution mask (RedDot Winner 2018), 3D Printed BIOdegradable shoes for brand Jiri Kalfar (London Fashion Week 2018), wearable vegan shoes made of organic bacterial cellulose with bio degradable 3D printed parts (Milano Design Week 2019) Voyta’s artistic creation is varied and encompasses a range of expression, from theatre costume to fashion design. His work is strongly influenced by the technology merging with clothing into one unit.</abstract>
@@ -484,7 +518,7 @@
         <slug></slug>
         <title>Workshop - Double-spending: There's an app for that!</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Double-spending: There's an app for that! Lead by Charles Hill  During this workshop you will learn everything there is to know about double- spending: Various types of double-spend attacks explained, the current state of the ecosystem as it relates to double-spend attack mitigation, and finally the audience will be invited to try double-spending for themselves using a ready- made mobile application.  About Charles Hill Charles is a cryptocurrency enthusiast, programmer, and researcher. He has many years of professional experience developing mobile and web applications while working for start-ups in Europe as well as the United States. He is a long-time open-source contributor and for the past few years he has been working full-time developing cryptocurrency payment systems  Equipment needed: Android device to install an app</abstract>
@@ -511,7 +545,7 @@
         <slug></slug>
         <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic! Lead by Michael Schloh von Bennewitz  HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.  The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.  Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.  - Simply assisting with smartphone readerer devices - Tapping the EEPROM storage with a chip leg clamp - Reading and writing I2C signals with a logic analyser - Sending commands and configuring with a bus pirate - Aiding wearability by adding a magnetic badge mount  Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
@@ -538,7 +572,7 @@
         <slug></slug>
         <title>Live Music Performance and Party</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Music</track>
         <type></type>
         <language>en</language>
         <abstract></abstract>
@@ -567,7 +601,7 @@
         <slug></slug>
         <title>Opting out of the legal system: Introducing a decentralized court</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Crypto is disintermediating and commoditizing many things that used to be monopolies. Currency is an example of a monopoly that used to be owned by the nation state. But if we go to the very core of what nation states provide, they provide legal security and asset protection. They do that by implementing a court and legal system. Thanks to crypto and advancements in smart contract systems, we can now implement a fully decentralized court system. Let's explore how, and review how Aragon is implementing this system as an Internet-native jurisdiction for decentralized organizations and sovereign individuals.</abstract>
@@ -592,7 +626,7 @@
         <slug></slug>
         <title>The Oldest and Most Feared Opt-Out Strategy: Migration</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Throughout history and around the world people have been 1) intent on controlling others; 2) content to be controlled; and 3) determined to be free of control by others. The latter group is constantly seeking and preparing contingencies for their own eventual and necessary escape to freedom. This can be aided by contemplating the paths taken by more than 240 million others in recent years with varying degrees of success. And surely the numbers would be much greater except for the multitude and measure of the obstacles.
@@ -623,7 +657,7 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
         <slug></slug>
         <title>Panel - BEYOND VIRTUAL REALITY</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Panel</track>
         <type></type>
         <language>en</language>
         <abstract>Is it possible to opt-out from the real world to virtual reality? It this kind of nonsense question or are we heading to the world without physical barriers? We started to develop this technology in 60s, so many could remember Ivan Sutherland experimenting with head mounted display. Today researchers, engineers and developers are looking for new challenges in delivering this technology to public. But what does it really mean for us? What happens to virtual reality when it merges with idea of decentralization and blockchain? Within this panel discussion we would like to discuss a few topic related to virtual reality and its application.
@@ -660,7 +694,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
         <slug></slug>
         <title>Freedom shortcuts to information highways</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>echnological difficulties in connecting to the network, coupled with high prices and a control policy that attempts to censor sites where it disagrees with the government, create an atmosphere that hinders Cubans' relationship with the Internet.
@@ -689,7 +723,7 @@ A strong social demand has been generated to improve connectivity and expand the
         <slug></slug>
         <title>The Forgotten Art of Anonymous Digital Cash: Opting-out of complexity and tracking in the sharing economy and beyond</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Cypherpunks and cryptoanarchists have always dreamt of truely anonymous financial systems. This lead to Bitcoin and other blockchain cryptocurrencies. One episode of this development is widely overlooked today: Digital Cash, eCash, eCache and other Digital Bearer Certificate (DBC) systems.
@@ -718,7 +752,7 @@ In this talk we shall explore the necessary properties of government-independent
         <slug></slug>
         <title>An Atlas of Countries that Don’t Exist</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.
@@ -747,7 +781,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <slug></slug>
         <title>Paralelní Polis Golden Coin Auction</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Other</track>
         <type></type>
         <language>en</language>
         <abstract></abstract>
@@ -774,7 +808,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <slug></slug>
         <title>TBA</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>More info coming soon.</abstract>
@@ -799,7 +833,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <slug></slug>
         <title>Enhanced Privacy with Decentralized Identity</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>A brief introduction to decentralized identities and how our open-source company enables users to talk freely on the existing Internet.
@@ -826,7 +860,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <slug></slug>
         <title>Crypto-Enabled Time Travel</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Technology to skip the present times is available today, and improving fast. It is not for the faint-hearted, for sure. But for safely landing into the future, not as a poor immigrant from the past, but rather as a rich tourist, technology is not enough. The right incentives must get aligned and be put to work. This talk is about what is missing, and how Crypto could be the final ingredient to really achieve time travel.</abstract>
@@ -851,7 +885,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <slug></slug>
         <title>Lightning Talks</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Lightning Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Ketominer
@@ -898,7 +932,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <slug></slug>
         <title>OpenDEX - A Protocol for Unstoppable P2P Trading</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>The talk covers architecture design choices, the different layers involved, the p2p messaging layer and discusses scalability. The second part demos a trade of an implementation implementing the OpenDEX protocol, an atomic swap between Bitcoin and DAI, a USD stablecoin via the Lightning and Raiden Network. The last part discusses the transition to a community-driven, open &amp; token free protocol and gives a glimpse into implications for society.</abstract>
@@ -923,7 +957,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <slug></slug>
         <title>The inevitable and awful end of the grand Bitcoin experiment</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract></abstract>
@@ -950,7 +984,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <slug></slug>
         <title>The Dehumanizing Process of Immigration Systems</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Numerous immigration systems around the world are broken. Though part of the reason is due to illegal immigration, a significant amount remains fixable, but isn't, due to the fact that most citizens of countries are never exposed to the problem, and most legal immigrants, sometimes known as an expat, either prefer to not do anything about it, perhaps out of fear of being mistreated, or are not able to influence change. Because of this, many problems remain that reduce the value of an individual and their own merits to where they were born, something that they have no control over, that cause burdensome processes that stifle business growth and economic freedom, or outright rejection. This presentation will go over relevant data from immigration policies around the world as well as personal experiences from the speaker, a former digital nomad who has traveled to 31 countries and lived in 8 of them, all while holding a passport of a country with a Global Passport Ranking of 133 out of 199 countries.</abstract>
@@ -975,7 +1009,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <slug></slug>
         <title>Financial surveillance and crypto utopias</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>In a world where financial surveillance is a norm and banking secrecy is gone, what are our option? And how does the surveillance apparatus really work?
@@ -1006,7 +1040,7 @@ This talk looks at the development of financial surveillance. It looks at curren
         <slug></slug>
         <title>Hacking the North Korean Regime via the Ocean</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Mr. Park Jung Oh, a well-known North Korean defector activist based in Seoul, South Korea, is the ONLY defector who currently sends in outside/banned information to the North Korean people directly, on a regular basis (twice a month, since 2016), using the ocean, plastic water bottles, and rice as a vehicle to deliver USBs and microSD cards.
@@ -1033,7 +1067,7 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
         <slug></slug>
         <title>The Age of Decentralization: Society 3.0</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>As we draw closer to an era where we are no longer bound by centralized rules dictating how our societies should function, we are in need of tools that can support our journey forward.
@@ -1062,7 +1096,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <slug></slug>
         <title>Bitcoin's Security Budget is Adequate... for now</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Towards a theory of adequate mining rewards. While some analysts have tried to derive the appropriate security budget / mining rewards from the future Bitcoin marketcap, I offer a bottom-up approach of looking at the onchain transacted values. We find there is an interesting correlation between how much gets transacted on-chain and how much the miners earn.</abstract>
@@ -1087,7 +1121,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <slug></slug>
         <title>An Atlas of Countries that Don’t Exist (Livestream)</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.
@@ -1118,7 +1152,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <slug></slug>
         <title>Workshop - Bleskomat: The Open Lightning ATM</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Workshop</track>
         <type></type>
         <language>en</language>
         <abstract>Bleskomat: The Open Lightning ATM
@@ -1150,7 +1184,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
         <slug></slug>
         <title>Workshop - Securing transactions, communication and files by one device: RMX hardware wallet approach</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Workshop</track>
         <type></type>
         <language>en</language>
         <abstract>Securing transactions, communication and files by one device: RMX hardware wallet approach
@@ -1190,7 +1224,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
         <slug></slug>
         <title>Workshop - Black Crystal</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Workshop</track>
         <type></type>
         <language>en</language>
         <abstract>“Black Crystal”
@@ -1238,7 +1272,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
         <slug></slug>
         <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Workshop</track>
         <type></type>
         <language>en</language>
         <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
@@ -1280,7 +1314,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
         <slug></slug>
         <title>Live Music Performance and Party</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Music</track>
         <type></type>
         <language>en</language>
         <abstract></abstract>
@@ -1309,7 +1343,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
         <slug></slug>
         <title>Panel - Crypto Liberation Communities meetup</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Panel</track>
         <type></type>
         <language>en</language>
         <abstract>Let us introduce existing Crypto Liberation Communities in Catalonia, Germany, Austria, Czech Republic and Slovakia.
@@ -1355,12 +1389,12 @@ Moderated by: Pavol Lupták</abstract>
         <duration>01:00</duration>
         <room>Studio 1</room>
         <slug></slug>
-        <title>TBA</title>
+        <title>How to build our own city</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>More info coming soon.</abstract>
+        <abstract>Get an introduction and status update on the Liberstad project, which aims to establish Norway's first private city. More than 125 people from 33 different countries from all around the world have invested in properties in Liberstad. Join this talk to learn more about this exciting project!</abstract>
         <description/>
         <recording>
           <license/>
@@ -1382,7 +1416,7 @@ Moderated by: Pavol Lupták</abstract>
         <slug></slug>
         <title></title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Dishonest Devs: Defeating Insider Attacks on Decentralized Tech
@@ -1409,7 +1443,7 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
         <slug></slug>
         <title></title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Why do we need to be and should be opt-out?
@@ -1436,7 +1470,7 @@ You will find the answer from the stories of my life.</abstract>
         <slug></slug>
         <title>Closing Speech</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract></abstract>
@@ -1463,7 +1497,7 @@ You will find the answer from the stories of my life.</abstract>
         <slug></slug>
         <title>A view on Grin</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>An introduction to Grin, the first public implementation of the Mimblewimble protocol. Grin is a cryptocurrency focused on privacy, scalability, and fairness, with a bottoms-up open community that is welcoming to all kinds of contributions. This talk is going to be an overview of the project. Particularly, I will try to explore how the project fares in what I consider as its core tenets, those of privacy, scalability, and fairness.</abstract>
@@ -1488,7 +1522,7 @@ You will find the answer from the stories of my life.</abstract>
         <slug></slug>
         <title>Cryptography alone is not enough</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Cryptocurrency from an attackers perspective means one thing: you can steal data that literally *is* money. A multitude of methods to prevent theft or at least make it harder have been developed over the years – several generations of hardware wallets, paper wallets, various elaborate cold storage systems etc. pp.. 2FA tokens for remote system access and similar devices are very similar in their properties. But they all have one weakness: if an attacker gains physical possession, the security margin shrinks – often too far. Even if an attacker can not reverse engineer the secrets out of access tokens or hardware wallets, he can manipulate the computing devices you use them with, gain valuable information through surveillance or trick you into doing stupid stuff. So the necessary protection envelope is bigger than you may think. This talk will take a look at how real-world attacks against offline and online devices are carried out these days, discuss how to develop an adequate threat model for your needs, explain some basics (like the difference between &quot;tamper evident&quot; and &quot;tamper resistant&quot;) as well as typical pitfalls in this game. Finally we will show some new developments that make it easier to achieve better protection in various circumstances.</abstract>
@@ -1513,7 +1547,7 @@ You will find the answer from the stories of my life.</abstract>
         <slug></slug>
         <title>Lightning Talks</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Lightning Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Alena Vránova
@@ -1552,7 +1586,7 @@ What is Tor? Is it merely a place for criminals to hide out on the so called &qu
         <slug></slug>
         <title></title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Trustless loan backed by BTC
@@ -1579,7 +1613,7 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
         <slug></slug>
         <title></title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Bitcoin peer banking
@@ -1617,7 +1651,7 @@ From theoretical concepts to real world products and how we can get this done.
         <slug></slug>
         <title>Code is a Weapon</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>In the era of ubiquitous surveillance and globally-banked cryptocurrency projects like Facebook's Libra, how can cryptoanarchists fight back? Through cryptographic code! We'll survey the grim state of surveillance, starting with the industrialization of NSA mass surveillance via companies like Chainanalysis to the recent targeting of Assange. We'll present two new systems that are capable of resisting even global adversaries with a full view of the network: Anonymous credentials and mix-networks.
@@ -1646,7 +1680,7 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
         <slug></slug>
         <title>The revolution of decentralized journalism and its role in conflict zones</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>The media landscape is transforming as decentralized, peer-to-peer networks are emerging. In conflict zones, this can be a missing piece to expose what is really going on, and facilitate dialogue. What is the role of centralized media in conflict? How do can we deal with censorship and manipulation of information? Does objectivity exist?How do we prevent digital colonialism? How do we have a conversation with our enemy? 
@@ -1673,7 +1707,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <slug></slug>
         <title>Opt-Out of Money: for Fun &amp; Profit!</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Civilization is going through a rapid radical shift, from a pre-Internet age to the Uberification of Industry, the Decentralization of Education, and the Polarization of Government. Both Industry &amp; Government have figured out how to exploit the loopholes in the economic models of Capitalism &amp; Socialism, without any ability for citizen people to opt-out. In this talk, we'll explore the 6 problems any economic system must address and see if there are holes that humanity can escape through.</abstract>
@@ -1698,7 +1732,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <slug></slug>
         <title></title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Talks</track>
         <type></type>
         <language>en</language>
         <abstract>Dictatorship 2.0: 'powered by AI'
@@ -1727,7 +1761,7 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
         <slug></slug>
         <title>Workshop - How to Crack a Private Key</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Workshop</track>
         <type></type>
         <language>en</language>
         <abstract>How to Crack a Private Key
@@ -1761,7 +1795,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
         <slug></slug>
         <title>Workshop - Future of decentralised species conservation</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Workshop</track>
         <type></type>
         <language>en</language>
         <abstract>Future of decentralised species conservation
@@ -1794,7 +1828,7 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
         <slug></slug>
         <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
         <subtitle></subtitle>
-        <track></track>
+        <track>Workshop</track>
         <type></type>
         <language>en</language>
         <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
