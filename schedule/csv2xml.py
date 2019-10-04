@@ -118,7 +118,7 @@ def printXML(reader):
     startDate = "2019-10-04"
     timezone = "+02:00"
 
-    startTimes = ["12:00:00", "09:00:00", "09:00:00"]
+    dayStartTime = "09:00:00"
 
     StartDate = datetime.datetime.strptime(startDate, "%Y-%m-%d")
 
@@ -220,7 +220,7 @@ def printXML(reader):
             datumStrStop = dateStop.strftime('%Y-%m-%d')
             timeStrStop = dateStop.strftime('%H:%M:%S')
 
-            dayStart = datumStrStart + 'T' + startTimes[dayIndex - 1] + timezone
+            dayStart = datumStrStart + 'T' + dayStartTime + timezone
             dayEnd = datumStrStop + 'T' + timeStrStop + timezone
             print(dayOpening.format(dayIndex, datumStrStart, dayStart, dayEnd))
             

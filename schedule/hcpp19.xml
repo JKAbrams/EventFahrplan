@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 03:39</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 03:43</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -9,8 +9,7 @@
     <timeslot_duration>00:10</timeslot_duration>
     <base_url>https://opt-out.hcpp.cz/schedule</base_url>
   </conference>
-  <day index="1" date="2019-10-04" start="2019-10-04T12:00:00+02:00" end="2019-10-05T01:00:00+02:00">
-      
+  <day index="1" date="2019-10-04" start="2019-10-04T09:00:00+02:00" end="2019-10-05T01:00:00+02:00">
     <room name="Studio 1">
       <event id="1" guid="1">
         <url></url>
@@ -893,16 +892,11 @@ BIO
 ABSTRACT - Selling noodles for fun and profit
 In this talk, I present a hypothetical noodle cooking and delivery business as an example of tools that one could use to create a business accepting only bitcoin and spending (mostly) fiat.
 Challenges are many, bitcoiners always helpful.
-- Being blocked (and sometimes unblocked) by exchanges, prepaid cards, payments gateways, banks... 
-
-- Paying (less) customs 
-
-- Avoiding customers to pay customs (mostly) 
-
-- Shipping stuff around the world without giving sender address 
-
-- Using less regarding services to avoid limitations and KYC 
-
+- Being blocked (and sometimes unblocked) by exchanges, prepaid cards, payments gateways, banks...  
+- Paying (less) customs  
+- Avoiding customers to pay customs (mostly)  
+- Shipping stuff around the world without giving sender address  
+- Using less regarding services to avoid limitations and KYC  
 - List of services still working at the time of the conference to conduct an &quot;unbusiness&quot; from Europe
 
 
