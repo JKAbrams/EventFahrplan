@@ -46,8 +46,7 @@ eventOpening = '''      <event id="{}" guid="{}">
           <optout>false</optout>
         </recording>
         <persons>'''
-eventEnding = '''
-        </persons>
+eventEnding = '''        </persons>
         <links/>
         <attachments/>
       </event>'''
