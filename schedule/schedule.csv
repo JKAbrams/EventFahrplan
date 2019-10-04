@@ -28,7 +28,7 @@ Some paths to freedom are crude and unsophisticated, but nonetheless imaginative
 Ironically, much of the desperation of people in poor countries is aggravated by some, perhaps well-intentioned but calamitous, behavior by governments in prosperous countries: i.e. trade manipulations, drug wars, and assistance to foreign rulers. This assistance to rulers includes the closing of escape routes. Likewise, well-intentioned domestic government assistance and a multitude of labor and commercial laws have forcefully aggravated the adjustment and tolerance of migration into relatively prosperous and free countries.
 
 Of many models possible as a solution to these dilemmas of migration, Hong Kong provides useful historical lessons that are practical, humanitarian, and ethical from a libertarian perspective.",Studio 1,Talks
-2,15:00,01:00,,Panel - BEYOND VIRTUAL REALITY,"Is it possible to opt-out from the real world to virtual reality? It this kind of nonsense question or are we heading to the world without physical barriers? We started to develop this technology in 60s, so many could remember Ivan Sutherland experimenting with head mounted display. Today researchers, engineers and developers are looking for new challenges in delivering this technology to public. But what does it really mean for us? What happens to virtual reality when it merges with idea of decentralization and blockchain? Within this panel discussion we would like to discuss a few topic related to virtual reality and its application.
+2,15:00,01:00,Karel Hulec,Panel - BEYOND VIRTUAL REALITY,"Is it possible to opt-out from the real world to virtual reality? It this kind of nonsense question or are we heading to the world without physical barriers? We started to develop this technology in 60s, so many could remember Ivan Sutherland experimenting with head mounted display. Today researchers, engineers and developers are looking for new challenges in delivering this technology to public. But what does it really mean for us? What happens to virtual reality when it merges with idea of decentralization and blockchain? Within this panel discussion we would like to discuss a few topic related to virtual reality and its application.
 
 We will introduce three projects:
 Decentraland - a virtual reality platform supported by the Ethereum Blockchain. Users can create, experience, and monetize content and applications. The community permanently owns land in Decentraland, so they have full control over their creations. Users claim ownership of virtual land in a block-based package of packages. Landowners control what content is published in their land.
@@ -56,7 +56,7 @@ In this talk we shall explore the necessary properties of government-independent
 Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.
 
 Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.",Studio 1,Talks
-2,20:00,01:00,,Paralelní Polis Golden Coin Auction,,Studio 1,Talks
+2,20:00,01:00,,Paralelní Polis Golden Coin Auction,,Studio 1,Other
 2,13:00,01:00,Michal Postránecký,TBA,More info coming soon.,Institute of Cryptoanarchy,Talks
 2,14:00,01:00,Yisi Liu,Enhanced Privacy with Decentralized Identity,"A brief introduction to decentralized identities and how our open-source company enables users to talk freely on the existing Internet.
 
@@ -83,7 +83,7 @@ Pavel is a tech advisor and entrepreneur with the special interest for the moder
 
 ABSTRACT - It is all in your head: safekeeping in the digital era.
 Bitcannery time-locks an encrypted message on a blockchain to be auto-decrypted at a set point in time.
-That point in time can be continuously pushed forward by the sender. This is useful for data escrow, data leaks, last-resort backups, inheritance, insurance and data storage.",Institute of Cryptoanarchy,Talks
+That point in time can be continuously pushed forward by the sender. This is useful for data escrow, data leaks, last-resort backups, inheritance, insurance and data storage.",Institute of Cryptoanarchy,Lightning Talks
 2,18:00,01:00,Kilian Rausch,OpenDEX - A Protocol for Unstoppable P2P Trading,"The talk covers architecture design choices, the different layers involved, the p2p messaging layer and discusses scalability. The second part demos a trade of an implementation implementing the OpenDEX protocol, an atomic swap between Bitcoin and DAI, a USD stablecoin via the Lightning and Raiden Network. The last part discusses the transition to a community-driven, open & token free protocol and gives a glimpse into implications for society.",Institute of Cryptoanarchy,Talks
 2,19:00,01:00,Joerg Platzer,The inevitable and awful end of the grand Bitcoin experiment,,Institute of Cryptoanarchy,Talks
 2,13:00,01:00,Travin Keith,The Dehumanizing Process of Immigration Systems,"Numerous immigration systems around the world are broken. Though part of the reason is due to illegal immigration, a significant amount remains fixable, but isn't, due to the fact that most citizens of countries are never exposed to the problem, and most legal immigrants, sometimes known as an expat, either prefer to not do anything about it, perhaps out of fear of being mistreated, or are not able to influence change. Because of this, many problems remain that reduce the value of an individual and their own merits to where they were born, something that they have no control over, that cause burdensome processes that stifle business growth and economic freedom, or outright rejection. This presentation will go over relevant data from immigration policies around the world as well as personal experiences from the speaker, a former digital nomad who has traveled to 31 countries and lived in 8 of them, all while holding a passport of a country with a Global Passport Ranking of 133 out of 199 countries.",Slévárna,Talks
@@ -108,7 +108,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
 Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.
 
 Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.",Slévárna,Talks
-2,16:00,01:00,,Workshop - Bleskomat: The Open Lightning ATM,"Bleskomat: The Open Lightning ATM
+2,16:00,01:00,Carlos Garcia Ortiz,Workshop - Bleskomat: The Open Lightning ATM,"Bleskomat: The Open Lightning ATM
 Lead by Carlos Garcia Ortiz
 (with support from the rest of the Bleskomat team)
 
@@ -116,7 +116,7 @@ Come and learn how to build an open-source, open-hardware ATM for the Lightning 
 
 About Carlos Garcia Ortiz
 Carlos holds a masters degree in food engineering, and has diverse experience ranging from research in agricultural technologies to business valuation of agricultural companies. During the last two years he has been working as a software developer in different projects related to IoT and data visualization.",Small Hub,Workshop
-2,17:00,01:00,,"Workshop - Securing transactions, communication and files by one device: RMX hardware wallet approach","Securing transactions, communication and files by one device: RMX hardware wallet approach
+2,17:00,01:00,Pavel,"Workshop - Securing transactions, communication and files by one device: RMX hardware wallet approach","Securing transactions, communication and files by one device: RMX hardware wallet approach
 Lead by Pavel ""i_a"" Polach
 
 Effective digital privacy demands complex approach to all interactions in cyberspace. Anonymity of financial transactions, secure messaging and file encryption are main cornerstones and for many people, dedicated secure hardware device is essential to obtain such level of digital privacy.
@@ -130,7 +130,7 @@ Monero basics
 
 About Pavel ""i_a"" Polach:
 Pavel ""i_a"" Polach is a hardware engineer, encryption enthusiast and Monero fan. Working experience as a developer for many projects from silicon development industry to IoT sphere. Lead designer in RMX hardware project. ",Small Hub,Workshop
-2,09:00,03:00,,Workshop - Black Crystal,"“Black Crystal”
+2,09:00,03:00,RIAT and Riddle+Code,Workshop - Black Crystal,"“Black Crystal”
 Lead by RIAT and Riddle+Code
 
 The workshop follows the huge success of the previous format “decentralised ID authentication & access workshop”, which has been held in RIAT Vienna in July 2019 and covered topics such as Shamir Secret Sharing, Machine Identities, and Decentralised Identifiers.
@@ -152,7 +152,7 @@ one of the world’s earliest blockchain institutes. The “cryptography and har
 More information:
 https://riat.at/open-hardware-dialogues/
 https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/",Media Hub,Workshop
-2,15:00,01:00,,Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!,"HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
+2,15:00,01:00,Michael Schloh von Bennewitz,Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!,"HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
 Lead by Michael Schloh von Bennewitz
 
 HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.
@@ -208,7 +208,7 @@ BIO
 Jason is a training engineer with SUSE Linux in Prague. He specializes in writing training materials for container-based applications including Docker, Kubernetes, and Cloud Foundry. He is also deeply interested in keeping speech free even in places where it is illegal and so he is also interested in how Tor can help with that goal.
 
 ABSTRACT - Building Tor Onion Services Quickly and Securely Using Containers
-What is Tor? Is it merely a place for criminals to hide out on the so called ""Dark Web""? Are onion services nothing more than tools to hide illegal pornography and host drug markets? We'll answer these questions as well as learn how to make simple onion services using Linux containers in my presentation. // The Crpto-Anarchist Manifesto speaks of, ""the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner"". The goal of my presentation is to help enable individuals with the means to do this via Tor. Currently setting up an anonymous Tor onion service is not very difficult but does it take time to understand how the pieces work together. Using the Docker container method, we can minimize complexity and allow new onion services to be brought online quickly and securely. The end result I hope to accomplish is to allow people to communicate peacefully and anonymously without fear from governments and others who will not allow the free exchange of ideas.",Institute of Cryptoanarchy,Talks
+What is Tor? Is it merely a place for criminals to hide out on the so called ""Dark Web""? Are onion services nothing more than tools to hide illegal pornography and host drug markets? We'll answer these questions as well as learn how to make simple onion services using Linux containers in my presentation. // The Crpto-Anarchist Manifesto speaks of, ""the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner"". The goal of my presentation is to help enable individuals with the means to do this via Tor. Currently setting up an anonymous Tor onion service is not very difficult but does it take time to understand how the pieces work together. Using the Docker container method, we can minimize complexity and allow new onion services to be brought online quickly and securely. The end result I hope to accomplish is to allow people to communicate peacefully and anonymously without fear from governments and others who will not allow the free exchange of ideas.",Institute of Cryptoanarchy,Lightning Talks
 3,17:00,01:00,Tomáš Marada,,"Trustless loan backed by BTC
 
 How loan can be replicated using derivatives, mainly futures and swaps. And how to enter such contracts in p2p fashion. The talk examines current possibilities how to take the loan backed by hodlers BTC and how to construct loan using BTC derivatives, mainly futures and swaps. In the end simple p2p derivative construction will be described.",Institute of Cryptoanarchy,Talks
@@ -236,7 +236,7 @@ It is time to acknowledge the important role of technology to provide the utmost
 3,18:00,01:00,František Vrábel,,"Dictatorship 2.0: 'powered by AI'
 
 This analysis of hostile state sponsored disinformation will serve as an introduction to the more nuanced analysis of Facebook, which plays a key role in those campaigns. This speech will explain Facebook’s shameful business model supported by AI algorithms with no ethical and social dimensions. This way, AI is used for the nasty dehumanization of mankind – in the name of profit and even more power for Facebook’s founder.",Slévárna,Talks
-3,16:00,01:00,,Workshop - How to Crack a Private Key,"How to Crack a Private Key
+3,16:00,01:00,Robin Cussol,Workshop - How to Crack a Private Key,"How to Crack a Private Key
 Lead by Robin Cussol
 
 Most people take for granted that cryptography and maths secure billions of dollars worth of cryptocurrency assets everyday, but have you ever asked yourself, “How?”. During this workshop you will learn how – by attempting to crack a private key given its public key using only maths.
@@ -253,7 +253,7 @@ Rapid loss of biodiversity has been overshadowed by ongoing world debate about c
 
 About Tomáš Ouhel
 Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation Campaign and he has also personal experience in fighting poachers in Indonesia.",Small Hub,Workshop
-3,15:00,01:00,,Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!,"HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
+3,15:00,01:00,Michael Schloh von Bennewitz,Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!,"HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
 Lead by Michael Schloh von Bennewitz
 
 HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.

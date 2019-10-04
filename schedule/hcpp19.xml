@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:00</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:07</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -645,7 +645,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">Karel Hulec</person>
         </persons>
         <links/>
         <attachments/>
@@ -1135,7 +1135,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">Carlos Garcia Ortiz</person>
         </persons>
         <links/>
         <attachments/>
@@ -1173,7 +1173,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">Pavel</person>
         </persons>
         <links/>
         <attachments/>
@@ -1221,7 +1221,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">RIAT and Riddle+Code</person>
         </persons>
         <links/>
         <attachments/>
@@ -1263,7 +1263,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">Michael Schloh von Bennewitz</person>
         </persons>
         <links/>
         <attachments/>
@@ -1746,7 +1746,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">Robin Cussol</person>
         </persons>
         <links/>
         <attachments/>
@@ -1819,7 +1819,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">Michael Schloh von Bennewitz</person>
         </persons>
         <links/>
         <attachments/>
