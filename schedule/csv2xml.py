@@ -32,8 +32,8 @@ eventOpening = '''      <event id="{}" guid="{}">
         <track>{}</track>
         <type>{}</type>
         <language>{}</language>
-        <abstract/>
-        <description>{}</description>
+        <abstract>{}</abstract>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
@@ -141,7 +141,7 @@ def printXML(reader):
         time = r[1]
         persons = r[2]
         title = r[3]
-        description = r[4]
+        abstract = r[4][0:240]
         room = r[5]
 
         # Calculate dates:
@@ -217,7 +217,7 @@ def printXML(reader):
         typ = ""
         subtitle = ""
         language = "en"
-        print(eventOpening.format(idd, guid, url, eventDate, eventStart, duration, room, slug, title, subtitle, track, typ, language, description, persons))
+        print(eventOpening.format(idd, guid, url, eventDate, eventStart, duration, room, slug, title, subtitle, track, typ, language, abstract, persons))
 
         #for each person:
         #    print(person.format(personId, personName))
