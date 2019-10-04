@@ -151,10 +151,11 @@ def printXML(reader):
         # Read data
         day = int(r[0])
         time = r[1]
-        persons = r[2]
-        title = escape(r[3])
-        abstract = escape(r[4])
-        room = r[5]
+        duration = r[2]
+        persons = r[3]
+        title = escape(r[4])
+        abstract = escape(r[5])
+        room = r[6]
 
         # Calculate dates:
         dayNo = dayIndex

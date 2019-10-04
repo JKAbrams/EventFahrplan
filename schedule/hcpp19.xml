@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 03:13</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 03:17</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -10,21 +10,171 @@
     <base_url>https://opt-out.hcpp.cz/schedule</base_url>
   </conference>
   <day index="1" date="2019-10-04" start="2019-10-04T12:00:00+02:00" end="2019-10-05T01:00:00+02:00">
-    <room name="Hackerspace">
+    <room name="Studio 1">
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-04T13:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Opening Speech</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract></abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-04T14:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Things which matter the most: reality, brain and consciousness</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Linking physical reality, brain activity and consciousness still stands as one of the most interesting and elusive problems of neuroscience, psychology, psychiatry and philosophy. Finding their mutual relationships represents the first step toward explanation how the brain process external information and how the picture of reality in our mind relates the world.  In this lecture, I deal with two central questions of consciousness: how and why? “How” refers to the theoretical and empirical approach to reveal the neural correlates and mechanisms that form consciousness. On the other hand, “why” refers to both the evolutionary origin and the question why is there conscious experience at all.  The extraordinary states of consciousness elicited by the psychedelics, such as DMT, psilocybin and LSD, represent one of the most powerful tools for understanding neurobiology of consciousness and answering both “why” and “how” questions. The results of brain neuroimaging studies on the effect of psychedelic drugs on structure of consciousness provide an explanation for its phenomenological features, including unconstrained cognition, meaning of concepts of reality and a sense of expanded consciousness awareness. We will discuss how psychedelics, and other modern techniques such as neurostimulation, may increase cognitive flexibility and creativity, elucidate our understanding of the structure of external physical reality and enhance human potential in general.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Hackerspace</room>
+        <room>Studio 1</room>
         <slug></slug>
-        <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
+        <title>A proper path to digital immortality</title>
         <subtitle></subtitle>
         <track></track>
         <type></type>
         <language>en</language>
-        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic! Lead by Michael Schloh von Bennewitz  HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.  The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.  Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.  - Simply assisting with smartphone readerer devices - Tapping the EEPROM storage with a chip leg clamp - Reading and writing I2C signals with a logic analyser - Sending commands and configuring with a bus pirate - Aiding wearability by adding a magnetic badge mount  Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
+        <abstract>Last year my talk was devoted to uncensorable and unregulated artificial intelligence. This year I'd like to give more technical insights into the topic and describe how existing Bitcoin and Lightning Network technologies can be utilized to break the attribution between computing, messaging, storage and ownership — and physical identity of the person. Then, I will disclose why these steps are a required part of the equation that can eventually lead to digital immortality.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-04T16:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Panel - BIOHACK YOURSELF</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>What is Electrically conductive fibre, fabric and their use in clothing industry? Lead by: Oldrich Voyta  Virtual reality, Sport, Healthcare. What these three items are having in common? The answer is - smart clothing and electric conductive fabrics. Come and talk with Oldrich Voyta, who will present his study of electrically conductive fabric and why is important to think and speak of it right now!  About Oldrich Voyta During his studies at the dance conservatory, Oldrich Voyta was strongly influenced by costume design. In a range of his design work: Ballet Queen (Moravian Theatre Olomouc), contemporary dance performance: Entropy (Bohemian National Hall, New York), 3D Printed Shoes (Musée du Louvre, Paris; Berlin 3D Printing Expo; Prague 3D Printing Expo). Since joining the VO5 Fashion Design Studio Beijing - China, in July 2014, Voyta has developed and successfully presented a project which blends fashion design and art photography into one unit. Since 2015 after joining the DeFacto Design Studio in Beijing, He started to collaborate on a projects which combines design and technology: Pollution mask (RedDot Winner 2018), 3D Printed BIOdegradable shoes for brand Jiri Kalfar (London Fashion Week 2018), wearable vegan shoes made of organic bacterial cellulose with bio degradable 3D printed parts (Milano Design Week 2019) Voyta’s artistic creation is varied and encompasses a range of expression, from theatre costume to fashion design. His work is strongly influenced by the technology merging with clothing into one unit.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-04T18:00+02:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Opting-Out, To Precisely What?</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Yes, we all want to escape the pressures and abuse of the reigning systems, but things don’t become magically wonderful just because we’ve opted-out. New structures and new ways of living have to be built outside, and even though we’ve made a nice start, it has been just a small start. We have a long, long way to go.  We’re also guaranteed to face challenges on the outside, not only from bad people who may follow us there, but because none of us are fully developed, and we all carry some difficulties with us.  Being outside gives us space to build anew and to create better structures for ourselves, and then to improve ourselves. We’ll have to choose our actions well and we’ll have to work hard, but if we do, even the sky will be no limit.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-04T19:00+02:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Who Vouches For You?: A Radical Crime Law Proposal</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Most ancient societies used simple A-sues-B-for-cash legal systems to deal with most harms. But in the last few centuries, states added “crime law”, wherein the state investigates, sues, and imprisons “criminals.” These centrally-run one-size-fits-all bureaucratic systems don’t innovate well nor adapt well to individual conditions. And even though most of your “constitutional rights” are regarding such systems, they still seem badly broken.  In the ancient world, a stranger who came to town was trusted more if a local “vouched” for them. We still use vouching today in bonded contractors, in organized crime, and in requiring most everyone to get an insurer who pays on their behalf if they cause a car accident. I propose requiring everyone to get an insurer to vouch for them regarding any crimes they might commit. If you are found guilty of a crime, your “voucher” pays the state a fine, and then pays to punish you according to your contract with them. This fine in part pays the private bounty-hunter who convinced the court of your guilt. Competing bounty-hunters obey law because they can’t maintain a blue-wall-of-silence.  To lower your voucher premiums, you might agree to (1) prison, torture, or exile, if caught, (2) prior limits on your freedom like curfews, ankle bracelets, and their reading your emails, and (3) co-liability wherein you and your buddies are all punished if any one of you is found guilty. In this system, the state still decides what behaviors are crimes and if any one accusation is true, and it sets fine and bounty levels regarding how hard to discourage and detect each kind of crime. But each person chooses their own “constitutional rights”, and vouchers acquire incentives and opportunity to innovate and adapt, by searching in a large space of ways to discourage crime.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-04T20:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Project Libertas</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>An update on the first documentary film about Czech and Slovak crypto scene with exclusive content preview for HCPP19 attendees.</abstract>
         <description/>
         <recording>
           <license/>
@@ -343,171 +493,21 @@
         <attachments/>
       </event>
     </room>
-    <room name="Studio 1">
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-04T13:00+02:00</date>
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Opening Speech</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract></abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-04T14:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Things which matter the most: reality, brain and consciousness</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Linking physical reality, brain activity and consciousness still stands as one of the most interesting and elusive problems of neuroscience, psychology, psychiatry and philosophy. Finding their mutual relationships represents the first step toward explanation how the brain process external information and how the picture of reality in our mind relates the world.  In this lecture, I deal with two central questions of consciousness: how and why? “How” refers to the theoretical and empirical approach to reveal the neural correlates and mechanisms that form consciousness. On the other hand, “why” refers to both the evolutionary origin and the question why is there conscious experience at all.  The extraordinary states of consciousness elicited by the psychedelics, such as DMT, psilocybin and LSD, represent one of the most powerful tools for understanding neurobiology of consciousness and answering both “why” and “how” questions. The results of brain neuroimaging studies on the effect of psychedelic drugs on structure of consciousness provide an explanation for its phenomenological features, including unconstrained cognition, meaning of concepts of reality and a sense of expanded consciousness awareness. We will discuss how psychedelics, and other modern techniques such as neurostimulation, may increase cognitive flexibility and creativity, elucidate our understanding of the structure of external physical reality and enhance human potential in general.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
+    <room name="Hackerspace">
       <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Studio 1</room>
+        <room>Hackerspace</room>
         <slug></slug>
-        <title>A proper path to digital immortality</title>
+        <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
         <subtitle></subtitle>
         <track></track>
         <type></type>
         <language>en</language>
-        <abstract>Last year my talk was devoted to uncensorable and unregulated artificial intelligence. This year I'd like to give more technical insights into the topic and describe how existing Bitcoin and Lightning Network technologies can be utilized to break the attribution between computing, messaging, storage and ownership — and physical identity of the person. Then, I will disclose why these steps are a required part of the equation that can eventually lead to digital immortality.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-04T16:00+02:00</date>
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Panel - BIOHACK YOURSELF</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>What is Electrically conductive fibre, fabric and their use in clothing industry? Lead by: Oldrich Voyta  Virtual reality, Sport, Healthcare. What these three items are having in common? The answer is - smart clothing and electric conductive fabrics. Come and talk with Oldrich Voyta, who will present his study of electrically conductive fabric and why is important to think and speak of it right now!  About Oldrich Voyta During his studies at the dance conservatory, Oldrich Voyta was strongly influenced by costume design. In a range of his design work: Ballet Queen (Moravian Theatre Olomouc), contemporary dance performance: Entropy (Bohemian National Hall, New York), 3D Printed Shoes (Musée du Louvre, Paris; Berlin 3D Printing Expo; Prague 3D Printing Expo). Since joining the VO5 Fashion Design Studio Beijing - China, in July 2014, Voyta has developed and successfully presented a project which blends fashion design and art photography into one unit. Since 2015 after joining the DeFacto Design Studio in Beijing, He started to collaborate on a projects which combines design and technology: Pollution mask (RedDot Winner 2018), 3D Printed BIOdegradable shoes for brand Jiri Kalfar (London Fashion Week 2018), wearable vegan shoes made of organic bacterial cellulose with bio degradable 3D printed parts (Milano Design Week 2019) Voyta’s artistic creation is varied and encompasses a range of expression, from theatre costume to fashion design. His work is strongly influenced by the technology merging with clothing into one unit.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-04T18:00+02:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Opting-Out, To Precisely What?</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Yes, we all want to escape the pressures and abuse of the reigning systems, but things don’t become magically wonderful just because we’ve opted-out. New structures and new ways of living have to be built outside, and even though we’ve made a nice start, it has been just a small start. We have a long, long way to go.  We’re also guaranteed to face challenges on the outside, not only from bad people who may follow us there, but because none of us are fully developed, and we all carry some difficulties with us.  Being outside gives us space to build anew and to create better structures for ourselves, and then to improve ourselves. We’ll have to choose our actions well and we’ll have to work hard, but if we do, even the sky will be no limit.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-04T19:00+02:00</date>
-        <start>19:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Who Vouches For You?: A Radical Crime Law Proposal</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Most ancient societies used simple A-sues-B-for-cash legal systems to deal with most harms. But in the last few centuries, states added “crime law”, wherein the state investigates, sues, and imprisons “criminals.” These centrally-run one-size-fits-all bureaucratic systems don’t innovate well nor adapt well to individual conditions. And even though most of your “constitutional rights” are regarding such systems, they still seem badly broken.  In the ancient world, a stranger who came to town was trusted more if a local “vouched” for them. We still use vouching today in bonded contractors, in organized crime, and in requiring most everyone to get an insurer who pays on their behalf if they cause a car accident. I propose requiring everyone to get an insurer to vouch for them regarding any crimes they might commit. If you are found guilty of a crime, your “voucher” pays the state a fine, and then pays to punish you according to your contract with them. This fine in part pays the private bounty-hunter who convinced the court of your guilt. Competing bounty-hunters obey law because they can’t maintain a blue-wall-of-silence.  To lower your voucher premiums, you might agree to (1) prison, torture, or exile, if caught, (2) prior limits on your freedom like curfews, ankle bracelets, and their reading your emails, and (3) co-liability wherein you and your buddies are all punished if any one of you is found guilty. In this system, the state still decides what behaviors are crimes and if any one accusation is true, and it sets fine and bounty levels regarding how hard to discourage and detect each kind of crime. But each person chooses their own “constitutional rights”, and vouchers acquire incentives and opportunity to innovate and adapt, by searching in a large space of ways to discourage crime.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-04T20:00+02:00</date>
-        <start>20:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Project Libertas</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>An update on the first documentary film about Czech and Slovak crypto scene with exclusive content preview for HCPP19 attendees.</abstract>
+        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic! Lead by Michael Schloh von Bennewitz  HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.  The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.  Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.  - Simply assisting with smartphone readerer devices - Tapping the EEPROM storage with a chip leg clamp - Reading and writing I2C signals with a logic analyser - Sending commands and configuring with a bus pirate - Aiding wearability by adding a magnetic badge mount  Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
         <description/>
         <recording>
           <license/>
@@ -549,36 +549,201 @@
     </room>
   </day>
   <day index="2" date="2019-10-04" start="2019-10-04T12:00:00+02:00" end="2019-10-05T01:00:00+02:00">
-    <room name="Hackerspace">
+    <room name="Studio 1">
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-04T15:00+02:00</date>
-        <start>15:00</start>
+        <date>2019-10-04T13:00+02:00</date>
+        <start>13:00</start>
         <duration>01:00</duration>
-        <room>Hackerspace</room>
+        <room>Studio 1</room>
         <slug></slug>
-        <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
+        <title>Opting out of the legal system: Introducing a decentralized court</title>
         <subtitle></subtitle>
         <track></track>
         <type></type>
         <language>en</language>
-        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
-Lead by Michael Schloh von Bennewitz
+        <abstract>Crypto is disintermediating and commoditizing many things that used to be monopolies. Currency is an example of a monopoly that used to be owned by the nation state. But if we go to the very core of what nation states provide, they provide legal security and asset protection. They do that by implementing a court and legal system. Thanks to crypto and advancements in smart contract systems, we can now implement a fully decentralized court system. Let's explore how, and review how Aragon is implementing this system as an Internet-native jurisdiction for decentralized organizations and sovereign individuals.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
 
-HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-05T14:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>The Oldest and Most Feared Opt-Out Strategy: Migration</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Throughout history and around the world people have been 1) intent on controlling others; 2) content to be controlled; and 3) determined to be free of control by others. The latter group is constantly seeking and preparing contingencies for their own eventual and necessary escape to freedom. This can be aided by contemplating the paths taken by more than 240 million others in recent years with varying degrees of success. And surely the numbers would be much greater except for the multitude and measure of the obstacles.
 
-The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.
+Some paths to freedom are crude and unsophisticated, but nonetheless imaginative and brazen. The most apparent and direct way to avoid the clutches of tyranny is to physically move to places of relatively less tyranny. The movement of great numbers of people around the planet evokes passions of both courage and fear with all the consequent conflict and trauma for leavers &amp; remainers as well as for inviters &amp; excluders.
 
-Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.
+Ironically, much of the desperation of people in poor countries is aggravated by some, perhaps well-intentioned but calamitous, behavior by governments in prosperous countries: i.e. trade manipulations, drug wars, and assistance to foreign rulers. This assistance to rulers includes the closing of escape routes. Likewise, well-intentioned domestic government assistance and a multitude of labor and commercial laws have forcefully aggravated the adjustment and tolerance of migration into relatively prosperous and free countries.
 
-- Simply assisting with smartphone readerer devices
-- Tapping the EEPROM storage with a chip leg clamp
-- Reading and writing I2C signals with a logic analyser
-- Sending commands and configuring with a bus pirate
-- Aiding wearability by adding a magnetic badge mount
+Of many models possible as a solution to these dilemmas of migration, Hong Kong provides useful historical lessons that are practical, humanitarian, and ethical from a libertarian perspective.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
 
-Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-05T15:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Panel - BEYOND VIRTUAL REALITY</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Is it possible to opt-out from the real world to virtual reality? It this kind of nonsense question or are we heading to the world without physical barriers? We started to develop this technology in 60s, so many could remember Ivan Sutherland experimenting with head mounted display. Today researchers, engineers and developers are looking for new challenges in delivering this technology to public. But what does it really mean for us? What happens to virtual reality when it merges with idea of decentralization and blockchain? Within this panel discussion we would like to discuss a few topic related to virtual reality and its application.
+
+We will introduce three projects:
+Decentraland - a virtual reality platform supported by the Ethereum Blockchain. Users can create, experience, and monetize content and applications. The community permanently owns land in Decentraland, so they have full control over their creations. Users claim ownership of virtual land in a block-based package of packages. Landowners control what content is published in their land.
+Michal Takáč - former Decentraland employee, PhD student at Technical University in Košice, board member at Paralelná Polis Košice, entrepreneur and software engineer with passion for new technologies. Currently exploring VR/AR possibilities, interested in smart cities, smart home technologies, cryptocurrencies, smart contracts.
+
+Somnium Space - an open, social and persistent VR world built on the blockchain where everyone can buy land, build or import objects and avatars, easily monetize their experiences and immerse themselves into completely alternative reality. The long-term vision is to create a virtual environment which offers a rich addition to reality, packed with new and exciting possibilities. Built as a cross-platform world, Somnium Space allows people to experience one constantly expanding, seamless single instance shaped by players. Combined with an in-world economy, it provides a next step towards a true metaverse experience.
+Artur Sychov - he worked as an investment trader for years before becoming a serial entrepreneur. He is a Founder and CEO of Somnium Space and an angel investor. He has founded several startups and holds several patents for hardware inventions which he has implemented into the market. Artur strongly believes in the ultimate future of virtual worlds.
+
+NeosVR - an innovative metaverse engine designed to accelerate the development of social VR applications. It is built on top of a novel scripting engine that integrates engine logic, synchronization and asynchronous job and asset processing into a seamless whole.
+This gives creators, engineers, developers or scientists the ability to focus on the behavior of their creations and what makes them unique, with automatic support for a wide variety of VR devices, online collaboration/multiplayer and cloud functionality, both for the development and the project.
+
+Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, who has always had a knack for combining business and technology. He joined the cryptocurrency community and cryptocurrency mining operations early on, reinvesting earnings to fund other innovative decentralized projects and his VR endeavors. Starting with the development and manufacturing of virtual reality hardware, and joining forces with Tomáš Mariančík on advanced virtual reality software development later on.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-05T16:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Freedom shortcuts to information highways</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>echnological difficulties in connecting to the network, coupled with high prices and a control policy that attempts to censor sites where it disagrees with the government, create an atmosphere that hinders Cubans' relationship with the Internet.
+
+Young people manage to overcome obstacles by creating alternative networks and looking for a type of VPN or anonymous proxy, but the authorities do not stop generating prohibitions arguing the need to guarantee computer security.
+
+A strong social demand has been generated to improve connectivity and expand the spaces to visit. In the complicated situation of Cuba that suffers from the trade restrictions imposed by the United States and where the government applies an internal blockade, the solutions mix political audacity, technological innovation and economic entrepreneurship.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-05T18:00+02:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>The Forgotten Art of Anonymous Digital Cash: Opting-out of complexity and tracking in the sharing economy and beyond</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Cypherpunks and cryptoanarchists have always dreamt of truely anonymous financial systems. This lead to Bitcoin and other blockchain cryptocurrencies. One episode of this development is widely overlooked today: Digital Cash, eCash, eCache and other Digital Bearer Certificate (DBC) systems.
+
+DBCs enable blazing fast, anonymous and untraceable transactions that resemble cash transactions much closer than cryptocurrencies. They are conceptually simple and require much less complex infrastructures. Nevertheless they have been ignored by cryptoanarchist researchers over the last decade.
+
+In this talk we shall explore the necessary properties of government-independent value transfer systems, how to decentralize DBCs, and what a future with digital anonymous micro-transactions means for the realization of cryptoanarchist ideas.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-05T19:00+02:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>An Atlas of Countries that Don’t Exist</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.
+
+Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.
+
+Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-05T20:00+02:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Paralelní Polis Golden Coin Auction</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract></abstract>
         <description/>
         <recording>
           <license/>
@@ -689,16 +854,11 @@ BIO
 ABSTRACT - Selling noodles for fun and profit
 In this talk, I present a hypothetical noodle cooking and delivery business as an example of tools that one could use to create a business accepting only bitcoin and spending (mostly) fiat.
 Challenges are many, bitcoiners always helpful.
-- Being blocked (and sometimes unblocked) by exchanges, prepaid cards, payments gateways, banks... 
-
-- Paying (less) customs 
-
-- Avoiding customers to pay customs (mostly) 
-
-- Shipping stuff around the world without giving sender address 
-
-- Using less regarding services to avoid limitations and KYC 
-
+- Being blocked (and sometimes unblocked) by exchanges, prepaid cards, payments gateways, banks...  
+- Paying (less) customs  
+- Avoiding customers to pay customs (mostly)  
+- Shipping stuff around the world without giving sender address  
+- Using less regarding services to avoid limitations and KYC  
 - List of services still working at the time of the conference to conduct an &quot;unbusiness&quot; from Europe
 
 
@@ -759,54 +919,6 @@ That point in time can be continuously pushed forward by the sender. This is use
         <type></type>
         <language>en</language>
         <abstract></abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Media Hub">
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-05T09:00+02:00</date>
-        <start>09:00</start>
-        <duration>01:00</duration>
-        <room>Media Hub</room>
-        <slug></slug>
-        <title>Workshop - Black Crystal</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>“Black Crystal”
-Lead by RIAT and Riddle+Code
-
-The workshop follows the huge success of the previous format “decentralised ID authentication &amp; access workshop”, which has been held in RIAT Vienna in July 2019 and covered topics such as Shamir Secret Sharing, Machine Identities, and Decentralised Identifiers.
-
-The workshop at HCPP is limited to 25 people and is free of charge.
-
-Registration starts October 2 at https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017?ref=hcpp
-
-Pre-requirements for workshop participants
-- Workshop participants should have basic programming knowledge (experience with C. C++ and Arduino IDE).
-- Networking and Linux knowledge is required.
-- Basic Hardware knowledge is necessary (Raspberry Pi, HSM).
-- Basic concepts about hardware wallets, cryptography and public/private key systems should be of knowledge.
-
-About RIAT - Institute for Future Cryptoeconomics
-RIAT is an independent R+D institute focussing on Open Hardware, Blockchain and Privacy-Enabling technologies. The institute is active in Austria, Cyprus and the US and exists since 2012. The institute is
-one of the world’s earliest blockchain institutes. The “cryptography and hardware” division of RIAT works on communicating (open) hardware related topics to developers, enthusiasts and the general public.
-
-More information:
-https://riat.at/open-hardware-dialogues/
-https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
         <description/>
         <recording>
           <license/>
@@ -1059,21 +1171,42 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
         <attachments/>
       </event>
     </room>
-    <room name="Studio 1">
+    <room name="Media Hub">
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-05T13:00+02:00</date>
-        <start>13:00</start>
+        <date>2019-10-05T09:00+02:00</date>
+        <start>09:00</start>
         <duration>01:00</duration>
-        <room>Studio 1</room>
+        <room>Media Hub</room>
         <slug></slug>
-        <title>Opting out of the legal system: Introducing a decentralized court</title>
+        <title>Workshop - Black Crystal</title>
         <subtitle></subtitle>
         <track></track>
         <type></type>
         <language>en</language>
-        <abstract>Crypto is disintermediating and commoditizing many things that used to be monopolies. Currency is an example of a monopoly that used to be owned by the nation state. But if we go to the very core of what nation states provide, they provide legal security and asset protection. They do that by implementing a court and legal system. Thanks to crypto and advancements in smart contract systems, we can now implement a fully decentralized court system. Let's explore how, and review how Aragon is implementing this system as an Internet-native jurisdiction for decentralized organizations and sovereign individuals.</abstract>
+        <abstract>“Black Crystal”
+Lead by RIAT and Riddle+Code
+
+The workshop follows the huge success of the previous format “decentralised ID authentication &amp; access workshop”, which has been held in RIAT Vienna in July 2019 and covered topics such as Shamir Secret Sharing, Machine Identities, and Decentralised Identifiers.
+
+The workshop at HCPP is limited to 25 people and is free of charge.
+
+Registration starts October 2 at https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017?ref=hcpp
+
+Pre-requirements for workshop participants
+- Workshop participants should have basic programming knowledge (experience with C. C++ and Arduino IDE).
+- Networking and Linux knowledge is required.
+- Basic Hardware knowledge is necessary (Raspberry Pi, HSM).
+- Basic concepts about hardware wallets, cryptography and public/private key systems should be of knowledge.
+
+About RIAT - Institute for Future Cryptoeconomics
+RIAT is an independent R+D institute focussing on Open Hardware, Blockchain and Privacy-Enabling technologies. The institute is active in Austria, Cyprus and the US and exists since 2012. The institute is
+one of the world’s earliest blockchain institutes. The “cryptography and hardware” division of RIAT works on communicating (open) hardware related topics to developers, enthusiasts and the general public.
+
+More information:
+https://riat.at/open-hardware-dialogues/
+https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
         <description/>
         <recording>
           <license/>
@@ -1085,175 +1218,37 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
         <links/>
         <attachments/>
       </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-05T14:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>The Oldest and Most Feared Opt-Out Strategy: Migration</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Throughout history and around the world people have been 1) intent on controlling others; 2) content to be controlled; and 3) determined to be free of control by others. The latter group is constantly seeking and preparing contingencies for their own eventual and necessary escape to freedom. This can be aided by contemplating the paths taken by more than 240 million others in recent years with varying degrees of success. And surely the numbers would be much greater except for the multitude and measure of the obstacles.
-
-Some paths to freedom are crude and unsophisticated, but nonetheless imaginative and brazen. The most apparent and direct way to avoid the clutches of tyranny is to physically move to places of relatively less tyranny. The movement of great numbers of people around the planet evokes passions of both courage and fear with all the consequent conflict and trauma for leavers &amp; remainers as well as for inviters &amp; excluders.
-
-Ironically, much of the desperation of people in poor countries is aggravated by some, perhaps well-intentioned but calamitous, behavior by governments in prosperous countries: i.e. trade manipulations, drug wars, and assistance to foreign rulers. This assistance to rulers includes the closing of escape routes. Likewise, well-intentioned domestic government assistance and a multitude of labor and commercial laws have forcefully aggravated the adjustment and tolerance of migration into relatively prosperous and free countries.
-
-Of many models possible as a solution to these dilemmas of migration, Hong Kong provides useful historical lessons that are practical, humanitarian, and ethical from a libertarian perspective.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
+    </room>
+    <room name="Hackerspace">
       <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Studio 1</room>
+        <room>Hackerspace</room>
         <slug></slug>
-        <title>Panel - BEYOND VIRTUAL REALITY</title>
+        <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
         <subtitle></subtitle>
         <track></track>
         <type></type>
         <language>en</language>
-        <abstract>Is it possible to opt-out from the real world to virtual reality? It this kind of nonsense question or are we heading to the world without physical barriers? We started to develop this technology in 60s, so many could remember Ivan Sutherland experimenting with head mounted display. Today researchers, engineers and developers are looking for new challenges in delivering this technology to public. But what does it really mean for us? What happens to virtual reality when it merges with idea of decentralization and blockchain? Within this panel discussion we would like to discuss a few topic related to virtual reality and its application.
+        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
+Lead by Michael Schloh von Bennewitz
 
-We will introduce three projects:
-Decentraland - a virtual reality platform supported by the Ethereum Blockchain. Users can create, experience, and monetize content and applications. The community permanently owns land in Decentraland, so they have full control over their creations. Users claim ownership of virtual land in a block-based package of packages. Landowners control what content is published in their land.
-Michal Takáč - former Decentraland employee, PhD student at Technical University in Košice, board member at Paralelná Polis Košice, entrepreneur and software engineer with passion for new technologies. Currently exploring VR/AR possibilities, interested in smart cities, smart home technologies, cryptocurrencies, smart contracts.
+HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.
 
-Somnium Space - an open, social and persistent VR world built on the blockchain where everyone can buy land, build or import objects and avatars, easily monetize their experiences and immerse themselves into completely alternative reality. The long-term vision is to create a virtual environment which offers a rich addition to reality, packed with new and exciting possibilities. Built as a cross-platform world, Somnium Space allows people to experience one constantly expanding, seamless single instance shaped by players. Combined with an in-world economy, it provides a next step towards a true metaverse experience.
-Artur Sychov - he worked as an investment trader for years before becoming a serial entrepreneur. He is a Founder and CEO of Somnium Space and an angel investor. He has founded several startups and holds several patents for hardware inventions which he has implemented into the market. Artur strongly believes in the ultimate future of virtual worlds.
+The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.
 
-NeosVR - an innovative metaverse engine designed to accelerate the development of social VR applications. It is built on top of a novel scripting engine that integrates engine logic, synchronization and asynchronous job and asset processing into a seamless whole.
-This gives creators, engineers, developers or scientists the ability to focus on the behavior of their creations and what makes them unique, with automatic support for a wide variety of VR devices, online collaboration/multiplayer and cloud functionality, both for the development and the project.
+Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.
 
-Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, who has always had a knack for combining business and technology. He joined the cryptocurrency community and cryptocurrency mining operations early on, reinvesting earnings to fund other innovative decentralized projects and his VR endeavors. Starting with the development and manufacturing of virtual reality hardware, and joining forces with Tomáš Mariančík on advanced virtual reality software development later on.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
+- Simply assisting with smartphone readerer devices
+- Tapping the EEPROM storage with a chip leg clamp
+- Reading and writing I2C signals with a logic analyser
+- Sending commands and configuring with a bus pirate
+- Aiding wearability by adding a magnetic badge mount
 
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-05T16:00+02:00</date>
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Freedom shortcuts to information highways</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>echnological difficulties in connecting to the network, coupled with high prices and a control policy that attempts to censor sites where it disagrees with the government, create an atmosphere that hinders Cubans' relationship with the Internet.
-
-Young people manage to overcome obstacles by creating alternative networks and looking for a type of VPN or anonymous proxy, but the authorities do not stop generating prohibitions arguing the need to guarantee computer security.
-
-A strong social demand has been generated to improve connectivity and expand the spaces to visit. In the complicated situation of Cuba that suffers from the trade restrictions imposed by the United States and where the government applies an internal blockade, the solutions mix political audacity, technological innovation and economic entrepreneurship.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-05T18:00+02:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>The Forgotten Art of Anonymous Digital Cash: Opting-out of complexity and tracking in the sharing economy and beyond</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Cypherpunks and cryptoanarchists have always dreamt of truely anonymous financial systems. This lead to Bitcoin and other blockchain cryptocurrencies. One episode of this development is widely overlooked today: Digital Cash, eCash, eCache and other Digital Bearer Certificate (DBC) systems.
-
-DBCs enable blazing fast, anonymous and untraceable transactions that resemble cash transactions much closer than cryptocurrencies. They are conceptually simple and require much less complex infrastructures. Nevertheless they have been ignored by cryptoanarchist researchers over the last decade.
-
-In this talk we shall explore the necessary properties of government-independent value transfer systems, how to decentralize DBCs, and what a future with digital anonymous micro-transactions means for the realization of cryptoanarchist ideas.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-05T19:00+02:00</date>
-        <start>19:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>An Atlas of Countries that Don’t Exist</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.
-
-Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.
-
-Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-05T20:00+02:00</date>
-        <start>20:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Paralelní Polis Golden Coin Auction</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract></abstract>
+Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
         <description/>
         <recording>
           <license/>
@@ -1295,36 +1290,140 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
     </room>
   </day>
   <day index="3" date="2019-10-05" start="2019-10-05T09:00:00+02:00" end="2019-10-06T01:00:00+02:00">
-    <room name="Hackerspace">
+    <room name="Studio 1">
       <event id="1" guid="1">
         <url></url>
         <logo/>
-        <date>2019-10-05T15:00+02:00</date>
-        <start>15:00</start>
+        <date>2019-10-05T13:00+02:00</date>
+        <start>13:00</start>
         <duration>01:00</duration>
-        <room>Hackerspace</room>
+        <room>Studio 1</room>
         <slug></slug>
-        <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
+        <title>Panel - Crypto Liberation Communities meetup</title>
         <subtitle></subtitle>
         <track></track>
         <type></type>
         <language>en</language>
-        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
-Lead by Michael Schloh von Bennewitz
+        <abstract>Let us introduce existing Crypto Liberation Communities in Catalonia, Germany, Austria, Czech Republic and Slovakia.
 
-HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.
+Listen their short stories, their achievements and fails.
 
-The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.
+Be inspired and create your own community!
 
-Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.
+Panelists:
+Nelson Melina &amp; Marc Guals - Barcelona's Polis Parallela
+Joerg Platzer - Room 77
+Gideon Gallasch - Bitcoin enthusiast, Co-Founder Blockchainhotel and Bitcoin-Treff.de
+Smuggler - Anarplex.net / Berlin Container
+Martin Leskovjan - Prague's Paralelní Polis
+Juraj Bednár - Bratislava's Paralelná Polis
+Tomas Kanócz - Košice's Paralelná polis
 
-- Simply assisting with smartphone readerer devices
-- Tapping the EEPROM storage with a chip leg clamp
-- Reading and writing I2C signals with a logic analyser
-- Sending commands and configuring with a bus pirate
-- Aiding wearability by adding a magnetic badge mount
+Moderated by: Pavol Lupták</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
 
-Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-06T15:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>TBA</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>More info coming soon.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-06T17:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title></title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Dishonest Devs: Defeating Insider Attacks on Decentralized Tech
+
+Decentralized systems are meant to be trustless. But our interactions with tech is always mediated by software. This talk will cover the threat, including real and hypothetical attacks, what it takes for communities to defeat these attacks, and how we can better design decentralized systems to defeat these attacks.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-06T18:00+02:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title></title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract>Why do we need to be and should be opt-out?
+
+You will find the answer from the stories of my life.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1" guid="1">
+        <url></url>
+        <logo/>
+        <date>2019-10-06T19:00+02:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Studio 1</room>
+        <slug></slug>
+        <title>Closing Speech</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type></type>
+        <language>en</language>
+        <abstract></abstract>
         <description/>
         <recording>
           <license/>
@@ -1667,140 +1766,36 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
         <attachments/>
       </event>
     </room>
-    <room name="Studio 1">
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-06T13:00+02:00</date>
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Panel - Crypto Liberation Communities meetup</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Let us introduce existing Crypto Liberation Communities in Catalonia, Germany, Austria, Czech Republic and Slovakia.
-
-Listen their short stories, their achievements and fails.
-
-Be inspired and create your own community!
-
-Panelists:
-Nelson Melina &amp; Marc Guals - Barcelona's Polis Parallela
-Joerg Platzer - Room 77
-Gideon Gallasch - Bitcoin enthusiast, Co-Founder Blockchainhotel and Bitcoin-Treff.de
-Smuggler - Anarplex.net / Berlin Container
-Martin Leskovjan - Prague's Paralelní Polis
-Juraj Bednár - Bratislava's Paralelná Polis
-Tomas Kanócz - Košice's Paralelná polis
-
-Moderated by: Pavol Lupták</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
+    <room name="Hackerspace">
       <event id="1" guid="1">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Studio 1</room>
+        <room>Hackerspace</room>
         <slug></slug>
-        <title>TBA</title>
+        <title>Workshop - HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!</title>
         <subtitle></subtitle>
         <track></track>
         <type></type>
         <language>en</language>
-        <abstract>More info coming soon.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
+        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
+Lead by Michael Schloh von Bennewitz
 
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-06T17:00+02:00</date>
-        <start>17:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title></title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Dishonest Devs: Defeating Insider Attacks on Decentralized Tech
+HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.
 
-Decentralized systems are meant to be trustless. But our interactions with tech is always mediated by software. This talk will cover the threat, including real and hypothetical attacks, what it takes for communities to defeat these attacks, and how we can better design decentralized systems to defeat these attacks.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
+The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.
 
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-06T18:00+02:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title></title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract>Why do we need to be and should be opt-out?
+Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.
 
-You will find the answer from the stories of my life.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
+- Simply assisting with smartphone readerer devices
+- Tapping the EEPROM storage with a chip leg clamp
+- Reading and writing I2C signals with a logic analyser
+- Sending commands and configuring with a bus pirate
+- Aiding wearability by adding a magnetic badge mount
 
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="1" guid="1">
-        <url></url>
-        <logo/>
-        <date>2019-10-06T19:00+02:00</date>
-        <start>19:00</start>
-        <duration>01:00</duration>
-        <room>Studio 1</room>
-        <slug></slug>
-        <title>Closing Speech</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type></type>
-        <language>en</language>
-        <abstract></abstract>
+Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
         <description/>
         <recording>
           <license/>
