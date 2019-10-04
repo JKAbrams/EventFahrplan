@@ -117,6 +117,9 @@ def printXML(reader):
     dayIndex = 0
     startDate = "2019-10-04"
     timezone = "+02:00"
+
+    startTimes = ["12:00:00", "09:00:00", "09:00:00"]
+
     StartDate = datetime.datetime.strptime(startDate, "%Y-%m-%d")
 
     firstLine = True
@@ -128,14 +131,16 @@ def printXML(reader):
     roomChange = True
     
     # Contains the state for the first line
-    roomEnd = False
-    dayEnd = False
+    roomClosing = False
+    dayClosing = False
     dayOpen = True
     roomOpen = True
     
     lastDay = 0
     lastRoom = ''
-    
+
+    dayNo = 1
+
     for r in reader:
         
         # First line contains headings, skip it
@@ -152,17 +157,21 @@ def printXML(reader):
         room = r[5]
 
         # Calculate dates:
-        thisDate = StartDate + timedelta(days=dayIndex)
+        dayNo = dayIndex
+        if dayNo == 0:
+            dayNo = 1
+
+        thisDate = StartDate + timedelta(days=dayNo-1)
         datumStrStart = thisDate.strftime('%Y-%m-%d')
-        dateStop = thisDate + datetime.timedelta(0, 3600)
+        dateStop = thisDate + datetime.timedelta(days=1, hours=1)
         datumStrStop = dateStop.strftime('%Y-%m-%d')
         timeStrStop = dateStop.strftime('%H:%M:%S')
-                
-        dayStart = datumStrStart + 'T' + time + ":00" + timezone
-        end = datumStrStop + 'T' + timeStrStop + timezone
+
+        dayStart = datumStrStart + 'T' + startTimes[dayNo-1] + timezone
+        dayEnd = datumStrStop + 'T' + timeStrStop + timezone
 
         eventStart = time
-        eventDate = dayStart
+        eventDate = datumStrStart + 'T' + time + timezone
 
 
         if not day == lastDay:
@@ -178,39 +187,35 @@ def printXML(reader):
 
         if firstInSchedule:
             firstInSchedule = False
-            roomEnd = False
-            dayEnd = False
+            roomClosing = False
+            dayClosing = False
             dayOpen = True
             roomOpen = True
+        else:
+            if dayChange:
+                dayClosing = True
+                dayOpen = True
+            else:
+                dayClosing = False
+                dayOpen = False
 
-        elif not dayChange and roomChange:
-            roomEnd = True
-            dayEnd = False
-            dayOpen = False
-            roomOpen = True
-            
-        elif not dayChange and not roomChange:
-            roomEnd = False
-            dayEnd = False
-            dayOpen = False
-            roomOpen = False
+            if roomChange:
+                roomClosing = True
+                roomOpen = True
+            else:
+                roomClosing = False
+                roomOpen = False
 
-        elif not dayChange and not roomChange:
-            roomEnd = True
-            dayEnd = True
-            dayOpen = True
-            roomOpen = True
-            
         
-        if roomEnd:
+        if roomClosing:
             print(roomEnding)
         
-        if dayEnd:
+        if dayClosing:
             print(dayEnding)
         
         if dayOpen:
             dayIndex = dayIndex + 1
-            print(dayOpening.format(dayIndex, datumStrStart, dayStart, end))
+            print(dayOpening.format(dayIndex, datumStrStart, dayStart, dayEnd))
             
         if roomOpen:
             print(roomOpening.format(room))
