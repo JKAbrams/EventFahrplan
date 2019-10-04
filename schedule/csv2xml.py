@@ -12,6 +12,7 @@ def escape( str ):
     str = str.replace("<", "&lt;")
     str = str.replace(">", "&gt;")
     str = str.replace("\"", "&quot;")
+    str = str.replace("\n", "&#13;")
     return str
 
 # Simple parser that reads a csv file in the following format:

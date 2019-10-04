@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 06:35</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 06:38</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -11,7 +11,7 @@
   </conference>
   <day index="1" date="2019-10-04" start="2019-10-04T09:00:00+02:00" end="2019-10-05T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="1" guid="1fc8c8da-929a-429c-b72d-a1c331fae1bf">
+      <event id="1" guid="b8f3ecfb-47d2-41f7-a5d3-a1133b627b3f">
         <url></url>
         <logo/>
         <date>2019-10-04T09:00+02:00</date>
@@ -36,7 +36,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="2" guid="2793cbaa-4f45-4800-a690-0aa61ceb0f21">
+      <event id="2" guid="e624185c-b225-4881-b86d-e1bf0dccdec6">
         <url></url>
         <logo/>
         <date>2019-10-04T13:00+02:00</date>
@@ -61,7 +61,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="3" guid="59f13efb-fab2-4235-bf44-59c9181609ec">
+      <event id="3" guid="7aac3fd0-eef8-47e0-b86f-a32f7bb2110c">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -86,7 +86,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="4" guid="a603e09c-dece-4d1f-b407-330affd2a03a">
+      <event id="4" guid="7ab91bf6-d88f-4201-8415-d384bf305d02">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -111,7 +111,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="5" guid="5ae98f5f-f3ef-4c00-9461-576070a5fa42">
+      <event id="5" guid="b49f3470-58e2-4df3-b638-35121836c508">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -140,7 +140,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="6" guid="fa1d86a2-a52a-4a6d-84fa-b2ef0c2d1d72">
+      <event id="6" guid="78fa284b-51f5-4024-a39d-ff4d0b51725c">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -165,7 +165,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="7" guid="38c786e8-924d-4cc9-97f3-dcb6fe6408b1">
+      <event id="7" guid="ebc53335-a5f0-4dc0-9aca-6f53b4595b59">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -190,7 +190,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="8" guid="033d3eb6-12c3-47fe-addb-00d3b7fac55e">
+      <event id="8" guid="2de554bd-6b30-40af-b962-00269f9af65e">
         <url></url>
         <logo/>
         <date>2019-10-04T20:00+02:00</date>
@@ -217,7 +217,7 @@
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="9" guid="4f7d0500-e32a-42b9-b9f1-ed6acb58b237">
+      <event id="9" guid="85ec39e8-638a-4c8e-8915-7ca91552ff97">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -242,7 +242,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="10" guid="c1f84b8c-10c4-4c6b-8950-dab695d24024">
+      <event id="10" guid="a9a29356-7db7-4905-b711-374d026f8c73">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -267,7 +267,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="11" guid="1d706db2-536f-4e05-92a7-24aa53320923">
+      <event id="11" guid="585500cb-d536-4280-a4ca-93848d4b70f3">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -292,7 +292,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="12" guid="710661c0-fef2-4911-abbd-ae711cbba1c5">
+      <event id="12" guid="3b64a45f-f730-40ee-b935-73681573b420">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -317,7 +317,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="13" guid="2f4e1550-2c31-4dfd-a216-e2df80456068">
+      <event id="13" guid="d0a43b1d-6692-4b77-86e4-05916fb47fce">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -346,7 +346,7 @@
       </event>
     </room>
     <room name="Slévárna">
-      <event id="14" guid="3a404ac4-484e-4395-853e-fb851a08b0b5">
+      <event id="14" guid="ab1b66d2-5a16-4c93-9fb5-5ddde2f847f6">
         <url></url>
         <logo/>
         <date>2019-10-04T14:00+02:00</date>
@@ -372,7 +372,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="15" guid="f294e647-3b97-407b-9534-7eb339df40d7">
+      <event id="15" guid="4e7c88cc-2cfa-4ff1-883e-0724b17685ba">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -397,7 +397,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="16" guid="40fd0b03-da60-4f5e-8cbd-654da3ed8243">
+      <event id="16" guid="38b251a9-ca34-4c86-950c-6bfa7be635ce">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -422,7 +422,7 @@
         <links/>
         <attachments/>
       </event>
-      <event id="17" guid="ad88f15e-f049-4290-9545-4c3399d12d94">
+      <event id="17" guid="ed7945c0-0139-4f1f-a271-6ca6eeaa80ae">
         <url></url>
         <logo/>
         <date>2019-10-04T18:00+02:00</date>
@@ -435,16 +435,7 @@
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>FOSH (Free and Open Source Hardware) in the past years has moved away from being a small niche and has developed to a relevant movement with significant and well-known projects. Open Science Hardware offers an opt-out potential against centralisation, as visible in the &quot;Safecast&quot;
-
-Crowd Science Geiger Counter, which offered concerned people a chance to fact-check radiation levels after the Fukushima incident in Japan.
-
-Open Hardware has a success story to tell - but what does &quot;open&quot; in this context mean? How open can hardware be, post the age of microcomputing? Verifiable hardware could even help future nuclear disarming (see 34C3, &quot;Vintage Computing for Trusted Radiation Measurements and a World Free of Nuclear Weapons&quot;). In contrast, the actual hardware landscape is neither very open, nor verifiable.
-
-Additionally, HSMs and TEEs are challenging zero-trust by introducing novel attack vectors. Mistrust in modern day processors are growing, especially after “Spectre”, “Foreshadow” and “Spoiler”. Full Opt-Out possibility is presently not possible, Free and Open Source Silicon can the first step to a Zero-Trust society - but the future remains speculative.
-
-[This talk is part of the #OHM2019 Open Hardware Month]
-[Please in this context also see the workshop “Black Crystal” on 5th of October]</abstract>
+        <abstract>FOSH (Free and Open Source Hardware) in the past years has moved away from being a small niche and has developed to a relevant movement with significant and well-known projects. Open Science Hardware offers an opt-out potential against centralisation, as visible in the &quot;Safecast&quot;&#13;&#13;Crowd Science Geiger Counter, which offered concerned people a chance to fact-check radiation levels after the Fukushima incident in Japan.&#13;&#13;Open Hardware has a success story to tell - but what does &quot;open&quot; in this context mean? How open can hardware be, post the age of microcomputing? Verifiable hardware could even help future nuclear disarming (see 34C3, &quot;Vintage Computing for Trusted Radiation Measurements and a World Free of Nuclear Weapons&quot;). In contrast, the actual hardware landscape is neither very open, nor verifiable.&#13;&#13;Additionally, HSMs and TEEs are challenging zero-trust by introducing novel attack vectors. Mistrust in modern day processors are growing, especially after “Spectre”, “Foreshadow” and “Spoiler”. Full Opt-Out possibility is presently not possible, Free and Open Source Silicon can the first step to a Zero-Trust society - but the future remains speculative.&#13;&#13;[This talk is part of the #OHM2019 Open Hardware Month]&#13;[Please in this context also see the workshop “Black Crystal” on 5th of October]</abstract>
         <description/>
         <recording>
           <license/>
@@ -456,7 +447,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
         <links/>
         <attachments/>
       </event>
-      <event id="18" guid="a79f01c2-9fed-4915-908b-2a8f878e63ea">
+      <event id="18" guid="3d7d16fa-f87e-423e-bf9f-5c0bed3c5552">
         <url></url>
         <logo/>
         <date>2019-10-04T19:00+02:00</date>
@@ -483,7 +474,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
       </event>
     </room>
     <room name="Small Hub">
-      <event id="19" guid="32a0a1d5-e6e5-41d4-9d0f-c17aefb4f786">
+      <event id="19" guid="72e033b9-e5e3-4cc1-8069-b3a02cda6eb5">
         <url></url>
         <logo/>
         <date>2019-10-04T16:00+02:00</date>
@@ -508,7 +499,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
         <links/>
         <attachments/>
       </event>
-      <event id="20" guid="1c05cc78-762b-4035-869d-cb2cbdff5d1b">
+      <event id="20" guid="965ce321-616c-4e69-ac64-e7f92e193394">
         <url></url>
         <logo/>
         <date>2019-10-04T17:00+02:00</date>
@@ -535,7 +526,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="21" guid="69830999-9152-4ee6-8688-4e76a1781979">
+      <event id="21" guid="b50fcbab-9eab-425c-9a93-9960c4675261">
         <url></url>
         <logo/>
         <date>2019-10-04T15:00+02:00</date>
@@ -562,7 +553,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
       </event>
     </room>
     <room name="Bar">
-      <event id="22" guid="c168d3b8-6bd8-48a9-98d2-25922ac9803c">
+      <event id="22" guid="18b262da-c685-4563-b1a3-ea41aa194ec9">
         <url></url>
         <logo/>
         <date>2019-10-04T21:00+02:00</date>
@@ -591,7 +582,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
   </day>
   <day index="2" date="2019-10-05" start="2019-10-05T09:00:00+02:00" end="2019-10-06T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="23" guid="e10403f3-6433-4bc3-a87d-bb0b546acb63">
+      <event id="23" guid="941666e3-0d90-4f59-8066-038cd40d8b83">
         <url></url>
         <logo/>
         <date>2019-10-04T13:00+02:00</date>
@@ -616,7 +607,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
         <links/>
         <attachments/>
       </event>
-      <event id="24" guid="aa51f0ef-03f3-43f4-bf9f-dfe87753f8dc">
+      <event id="24" guid="d1d9e8f0-d295-4fbb-a2e1-0152971e5ed6">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -629,13 +620,7 @@ Additionally, HSMs and TEEs are challenging zero-trust by introducing novel atta
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Throughout history and around the world people have been 1) intent on controlling others; 2) content to be controlled; and 3) determined to be free of control by others. The latter group is constantly seeking and preparing contingencies for their own eventual and necessary escape to freedom. This can be aided by contemplating the paths taken by more than 240 million others in recent years with varying degrees of success. And surely the numbers would be much greater except for the multitude and measure of the obstacles.
-
-Some paths to freedom are crude and unsophisticated, but nonetheless imaginative and brazen. The most apparent and direct way to avoid the clutches of tyranny is to physically move to places of relatively less tyranny. The movement of great numbers of people around the planet evokes passions of both courage and fear with all the consequent conflict and trauma for leavers &amp; remainers as well as for inviters &amp; excluders.
-
-Ironically, much of the desperation of people in poor countries is aggravated by some, perhaps well-intentioned but calamitous, behavior by governments in prosperous countries: i.e. trade manipulations, drug wars, and assistance to foreign rulers. This assistance to rulers includes the closing of escape routes. Likewise, well-intentioned domestic government assistance and a multitude of labor and commercial laws have forcefully aggravated the adjustment and tolerance of migration into relatively prosperous and free countries.
-
-Of many models possible as a solution to these dilemmas of migration, Hong Kong provides useful historical lessons that are practical, humanitarian, and ethical from a libertarian perspective.</abstract>
+        <abstract>Throughout history and around the world people have been 1) intent on controlling others; 2) content to be controlled; and 3) determined to be free of control by others. The latter group is constantly seeking and preparing contingencies for their own eventual and necessary escape to freedom. This can be aided by contemplating the paths taken by more than 240 million others in recent years with varying degrees of success. And surely the numbers would be much greater except for the multitude and measure of the obstacles.&#13;&#13;Some paths to freedom are crude and unsophisticated, but nonetheless imaginative and brazen. The most apparent and direct way to avoid the clutches of tyranny is to physically move to places of relatively less tyranny. The movement of great numbers of people around the planet evokes passions of both courage and fear with all the consequent conflict and trauma for leavers &amp; remainers as well as for inviters &amp; excluders.&#13;&#13;Ironically, much of the desperation of people in poor countries is aggravated by some, perhaps well-intentioned but calamitous, behavior by governments in prosperous countries: i.e. trade manipulations, drug wars, and assistance to foreign rulers. This assistance to rulers includes the closing of escape routes. Likewise, well-intentioned domestic government assistance and a multitude of labor and commercial laws have forcefully aggravated the adjustment and tolerance of migration into relatively prosperous and free countries.&#13;&#13;Of many models possible as a solution to these dilemmas of migration, Hong Kong provides useful historical lessons that are practical, humanitarian, and ethical from a libertarian perspective.</abstract>
         <description/>
         <recording>
           <license/>
@@ -647,7 +632,7 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
         <links/>
         <attachments/>
       </event>
-      <event id="25" guid="ddaa073e-4f66-4108-86c8-a6cfc5fa0366">
+      <event id="25" guid="35f847c9-66fa-4bd1-9bb2-0425266e4bd2">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -660,19 +645,7 @@ Of many models possible as a solution to these dilemmas of migration, Hong Kong 
         <track>Panel</track>
         <type></type>
         <language>en</language>
-        <abstract>Is it possible to opt-out from the real world to virtual reality? It this kind of nonsense question or are we heading to the world without physical barriers? We started to develop this technology in 60s, so many could remember Ivan Sutherland experimenting with head mounted display. Today researchers, engineers and developers are looking for new challenges in delivering this technology to public. But what does it really mean for us? What happens to virtual reality when it merges with idea of decentralization and blockchain? Within this panel discussion we would like to discuss a few topic related to virtual reality and its application.
-
-We will introduce three projects:
-Decentraland - a virtual reality platform supported by the Ethereum Blockchain. Users can create, experience, and monetize content and applications. The community permanently owns land in Decentraland, so they have full control over their creations. Users claim ownership of virtual land in a block-based package of packages. Landowners control what content is published in their land.
-Michal Takáč - former Decentraland employee, PhD student at Technical University in Košice, board member at Paralelná Polis Košice, entrepreneur and software engineer with passion for new technologies. Currently exploring VR/AR possibilities, interested in smart cities, smart home technologies, cryptocurrencies, smart contracts.
-
-Somnium Space - an open, social and persistent VR world built on the blockchain where everyone can buy land, build or import objects and avatars, easily monetize their experiences and immerse themselves into completely alternative reality. The long-term vision is to create a virtual environment which offers a rich addition to reality, packed with new and exciting possibilities. Built as a cross-platform world, Somnium Space allows people to experience one constantly expanding, seamless single instance shaped by players. Combined with an in-world economy, it provides a next step towards a true metaverse experience.
-Artur Sychov - he worked as an investment trader for years before becoming a serial entrepreneur. He is a Founder and CEO of Somnium Space and an angel investor. He has founded several startups and holds several patents for hardware inventions which he has implemented into the market. Artur strongly believes in the ultimate future of virtual worlds.
-
-NeosVR - an innovative metaverse engine designed to accelerate the development of social VR applications. It is built on top of a novel scripting engine that integrates engine logic, synchronization and asynchronous job and asset processing into a seamless whole.
-This gives creators, engineers, developers or scientists the ability to focus on the behavior of their creations and what makes them unique, with automatic support for a wide variety of VR devices, online collaboration/multiplayer and cloud functionality, both for the development and the project.
-
-Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, who has always had a knack for combining business and technology. He joined the cryptocurrency community and cryptocurrency mining operations early on, reinvesting earnings to fund other innovative decentralized projects and his VR endeavors. Starting with the development and manufacturing of virtual reality hardware, and joining forces with Tomáš Mariančík on advanced virtual reality software development later on.</abstract>
+        <abstract>Is it possible to opt-out from the real world to virtual reality? It this kind of nonsense question or are we heading to the world without physical barriers? We started to develop this technology in 60s, so many could remember Ivan Sutherland experimenting with head mounted display. Today researchers, engineers and developers are looking for new challenges in delivering this technology to public. But what does it really mean for us? What happens to virtual reality when it merges with idea of decentralization and blockchain? Within this panel discussion we would like to discuss a few topic related to virtual reality and its application.&#13;&#13;We will introduce three projects:&#13;Decentraland - a virtual reality platform supported by the Ethereum Blockchain. Users can create, experience, and monetize content and applications. The community permanently owns land in Decentraland, so they have full control over their creations. Users claim ownership of virtual land in a block-based package of packages. Landowners control what content is published in their land.&#13;Michal Takáč - former Decentraland employee, PhD student at Technical University in Košice, board member at Paralelná Polis Košice, entrepreneur and software engineer with passion for new technologies. Currently exploring VR/AR possibilities, interested in smart cities, smart home technologies, cryptocurrencies, smart contracts.&#13;&#13;Somnium Space - an open, social and persistent VR world built on the blockchain where everyone can buy land, build or import objects and avatars, easily monetize their experiences and immerse themselves into completely alternative reality. The long-term vision is to create a virtual environment which offers a rich addition to reality, packed with new and exciting possibilities. Built as a cross-platform world, Somnium Space allows people to experience one constantly expanding, seamless single instance shaped by players. Combined with an in-world economy, it provides a next step towards a true metaverse experience.&#13;Artur Sychov - he worked as an investment trader for years before becoming a serial entrepreneur. He is a Founder and CEO of Somnium Space and an angel investor. He has founded several startups and holds several patents for hardware inventions which he has implemented into the market. Artur strongly believes in the ultimate future of virtual worlds.&#13;&#13;NeosVR - an innovative metaverse engine designed to accelerate the development of social VR applications. It is built on top of a novel scripting engine that integrates engine logic, synchronization and asynchronous job and asset processing into a seamless whole.&#13;This gives creators, engineers, developers or scientists the ability to focus on the behavior of their creations and what makes them unique, with automatic support for a wide variety of VR devices, online collaboration/multiplayer and cloud functionality, both for the development and the project.&#13;&#13;Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, who has always had a knack for combining business and technology. He joined the cryptocurrency community and cryptocurrency mining operations early on, reinvesting earnings to fund other innovative decentralized projects and his VR endeavors. Starting with the development and manufacturing of virtual reality hardware, and joining forces with Tomáš Mariančík on advanced virtual reality software development later on.</abstract>
         <description/>
         <recording>
           <license/>
@@ -684,7 +657,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
         <links/>
         <attachments/>
       </event>
-      <event id="26" guid="b89d82ab-81e1-4118-902b-25c6b5919552">
+      <event id="26" guid="62a40637-4e92-4913-8a38-37a813491986">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -697,11 +670,7 @@ Karel Hulec - futurist, generalist and enthusiastic tech analytic to the bone, w
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>echnological difficulties in connecting to the network, coupled with high prices and a control policy that attempts to censor sites where it disagrees with the government, create an atmosphere that hinders Cubans' relationship with the Internet.
-
-Young people manage to overcome obstacles by creating alternative networks and looking for a type of VPN or anonymous proxy, but the authorities do not stop generating prohibitions arguing the need to guarantee computer security.
-
-A strong social demand has been generated to improve connectivity and expand the spaces to visit. In the complicated situation of Cuba that suffers from the trade restrictions imposed by the United States and where the government applies an internal blockade, the solutions mix political audacity, technological innovation and economic entrepreneurship.</abstract>
+        <abstract>echnological difficulties in connecting to the network, coupled with high prices and a control policy that attempts to censor sites where it disagrees with the government, create an atmosphere that hinders Cubans' relationship with the Internet.&#13;&#13;Young people manage to overcome obstacles by creating alternative networks and looking for a type of VPN or anonymous proxy, but the authorities do not stop generating prohibitions arguing the need to guarantee computer security.&#13;&#13;A strong social demand has been generated to improve connectivity and expand the spaces to visit. In the complicated situation of Cuba that suffers from the trade restrictions imposed by the United States and where the government applies an internal blockade, the solutions mix political audacity, technological innovation and economic entrepreneurship.</abstract>
         <description/>
         <recording>
           <license/>
@@ -713,7 +682,7 @@ A strong social demand has been generated to improve connectivity and expand the
         <links/>
         <attachments/>
       </event>
-      <event id="27" guid="303f042f-c4b2-403c-ba32-5d135701b0fb">
+      <event id="27" guid="f4c457e0-7b2c-4c77-ae87-c88fe579ffc0">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -726,11 +695,7 @@ A strong social demand has been generated to improve connectivity and expand the
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Cypherpunks and cryptoanarchists have always dreamt of truely anonymous financial systems. This lead to Bitcoin and other blockchain cryptocurrencies. One episode of this development is widely overlooked today: Digital Cash, eCash, eCache and other Digital Bearer Certificate (DBC) systems.
-
-DBCs enable blazing fast, anonymous and untraceable transactions that resemble cash transactions much closer than cryptocurrencies. They are conceptually simple and require much less complex infrastructures. Nevertheless they have been ignored by cryptoanarchist researchers over the last decade.
-
-In this talk we shall explore the necessary properties of government-independent value transfer systems, how to decentralize DBCs, and what a future with digital anonymous micro-transactions means for the realization of cryptoanarchist ideas.</abstract>
+        <abstract>Cypherpunks and cryptoanarchists have always dreamt of truely anonymous financial systems. This lead to Bitcoin and other blockchain cryptocurrencies. One episode of this development is widely overlooked today: Digital Cash, eCash, eCache and other Digital Bearer Certificate (DBC) systems.&#13;&#13;DBCs enable blazing fast, anonymous and untraceable transactions that resemble cash transactions much closer than cryptocurrencies. They are conceptually simple and require much less complex infrastructures. Nevertheless they have been ignored by cryptoanarchist researchers over the last decade.&#13;&#13;In this talk we shall explore the necessary properties of government-independent value transfer systems, how to decentralize DBCs, and what a future with digital anonymous micro-transactions means for the realization of cryptoanarchist ideas.</abstract>
         <description/>
         <recording>
           <license/>
@@ -742,7 +707,7 @@ In this talk we shall explore the necessary properties of government-independent
         <links/>
         <attachments/>
       </event>
-      <event id="28" guid="ce47689b-c5a2-474d-8aad-6986fa43af1d">
+      <event id="28" guid="ddff4fcf-94de-4bd5-8095-91c103f3726b">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -755,11 +720,7 @@ In this talk we shall explore the necessary properties of government-independent
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.
-
-Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.
-
-Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.</abstract>
+        <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.&#13;&#13;Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.&#13;&#13;Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.</abstract>
         <description/>
         <recording>
           <license/>
@@ -771,7 +732,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <links/>
         <attachments/>
       </event>
-      <event id="29" guid="a7b0911f-f2a7-4355-bf34-6291796b572a">
+      <event id="29" guid="8c177607-9608-4046-be0f-fac5824c8b12">
         <url></url>
         <logo/>
         <date>2019-10-05T20:00+02:00</date>
@@ -798,7 +759,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="30" guid="e7f196c3-8f9e-4169-985e-a18528007ebd">
+      <event id="30" guid="0ea1709d-8c10-430b-80f5-dbea8c46b08b">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -823,7 +784,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <links/>
         <attachments/>
       </event>
-      <event id="31" guid="86ec3098-9c12-4653-9a5f-a4dd502b13b1">
+      <event id="31" guid="9ae2f04e-96a5-4772-bb52-3d7787d2ebb9">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -836,9 +797,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>A brief introduction to decentralized identities and how our open-source company enables users to talk freely on the existing Internet.
-
-People are under massive censorship on the current Internet. They cannot escape but stay because they never have an option: all their connections are still on the same platforms and most of them don't even know that their privacies are being violated. We will discuss this problem first and then propose our solution: maskbook.com and tessercube.com. Both of them are adopting a decentralized identity idea and enables users to protect their privacies without being violated by the companies. People finally got an alternative option that not only preserves their privacies but also letting them stay on the existing Internet. We believe this would help users move towards crypto-anarchism.</abstract>
+        <abstract>A brief introduction to decentralized identities and how our open-source company enables users to talk freely on the existing Internet.&#13;&#13;People are under massive censorship on the current Internet. They cannot escape but stay because they never have an option: all their connections are still on the same platforms and most of them don't even know that their privacies are being violated. We will discuss this problem first and then propose our solution: maskbook.com and tessercube.com. Both of them are adopting a decentralized identity idea and enables users to protect their privacies without being violated by the companies. People finally got an alternative option that not only preserves their privacies but also letting them stay on the existing Internet. We believe this would help users move towards crypto-anarchism.</abstract>
         <description/>
         <recording>
           <license/>
@@ -850,7 +809,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <links/>
         <attachments/>
       </event>
-      <event id="32" guid="939cf535-3af0-4e03-9f72-c4aae6f8c4aa">
+      <event id="32" guid="3c57f7d2-6b71-45ae-9764-10b8c4b27c92">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -875,7 +834,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <links/>
         <attachments/>
       </event>
-      <event id="33" guid="40d32e85-e9c1-4e5b-bcb8-94edd69ed7e5">
+      <event id="33" guid="388082ed-59ae-4f6d-aeeb-211c874fd99c">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -888,28 +847,7 @@ People are under massive censorship on the current Internet. They cannot escape 
         <track>Lightning Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Ketominer
-BIO
-&quot;Full stack&quot; person (electronics to code to networks). Started by electronics and programming at age 7, moved to networking when Internet became mainstream. Built several hosting companies and now applying accumulated knowledge in the Bitcoin space after discovering myself being a crypto anarchist at HCPP17.
-
-ABSTRACT - Selling noodles for fun and profit
-In this talk, I present a hypothetical noodle cooking and delivery business as an example of tools that one could use to create a business accepting only bitcoin and spending (mostly) fiat.
-Challenges are many, bitcoiners always helpful.
-- Being blocked (and sometimes unblocked) by exchanges, prepaid cards, payments gateways, banks...  
-- Paying (less) customs  
-- Avoiding customers to pay customs (mostly)  
-- Shipping stuff around the world without giving sender address  
-- Using less regarding services to avoid limitations and KYC  
-- List of services still working at the time of the conference to conduct an &quot;unbusiness&quot; from Europe
-
-
-Bitcannery
-BIO
-Pavel is a tech advisor and entrepreneur with the special interest for the modern anti-systemic movements and frameworks. He represents an informal multinational development team.
-
-ABSTRACT - It is all in your head: safekeeping in the digital era.
-Bitcannery time-locks an encrypted message on a blockchain to be auto-decrypted at a set point in time.
-That point in time can be continuously pushed forward by the sender. This is useful for data escrow, data leaks, last-resort backups, inheritance, insurance and data storage.</abstract>
+        <abstract>Ketominer&#13;BIO&#13;&quot;Full stack&quot; person (electronics to code to networks). Started by electronics and programming at age 7, moved to networking when Internet became mainstream. Built several hosting companies and now applying accumulated knowledge in the Bitcoin space after discovering myself being a crypto anarchist at HCPP17.&#13;&#13;ABSTRACT - Selling noodles for fun and profit&#13;In this talk, I present a hypothetical noodle cooking and delivery business as an example of tools that one could use to create a business accepting only bitcoin and spending (mostly) fiat.&#13;Challenges are many, bitcoiners always helpful.&#13;- Being blocked (and sometimes unblocked) by exchanges, prepaid cards, payments gateways, banks...  &#13;- Paying (less) customs  &#13;- Avoiding customers to pay customs (mostly)  &#13;- Shipping stuff around the world without giving sender address  &#13;- Using less regarding services to avoid limitations and KYC  &#13;- List of services still working at the time of the conference to conduct an &quot;unbusiness&quot; from Europe&#13;&#13;&#13;Bitcannery&#13;BIO&#13;Pavel is a tech advisor and entrepreneur with the special interest for the modern anti-systemic movements and frameworks. He represents an informal multinational development team.&#13;&#13;ABSTRACT - It is all in your head: safekeeping in the digital era.&#13;Bitcannery time-locks an encrypted message on a blockchain to be auto-decrypted at a set point in time.&#13;That point in time can be continuously pushed forward by the sender. This is useful for data escrow, data leaks, last-resort backups, inheritance, insurance and data storage.</abstract>
         <description/>
         <recording>
           <license/>
@@ -922,7 +860,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="34" guid="2f001bb7-23aa-4afa-9d52-a0d4744e73e3">
+      <event id="34" guid="c18d1495-7229-4ad9-b4a9-69dfcc6a234f">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -947,7 +885,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="35" guid="820abdf2-1588-4333-a1d6-29a0ce363a39">
+      <event id="35" guid="0155630a-6726-41aa-b55f-f88db4e87f40">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -974,7 +912,7 @@ That point in time can be continuously pushed forward by the sender. This is use
       </event>
     </room>
     <room name="Slévárna">
-      <event id="36" guid="b14a6ca8-5cb9-4575-ae04-68abb5cc840a">
+      <event id="36" guid="0c3701b5-19c5-4fca-b4cd-e3e6081657b2">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -999,7 +937,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <links/>
         <attachments/>
       </event>
-      <event id="37" guid="cb2f1c2e-ce40-4155-adf0-15cf27ebd15a">
+      <event id="37" guid="62f79692-870a-4f3e-9df5-0cace18ecade">
         <url></url>
         <logo/>
         <date>2019-10-05T14:00+02:00</date>
@@ -1012,13 +950,7 @@ That point in time can be continuously pushed forward by the sender. This is use
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>In a world where financial surveillance is a norm and banking secrecy is gone, what are our option? And how does the surveillance apparatus really work?
-
-The introduction of global regulations on financial transactions had a profound effect. As far as we know, no terrorists were caught because of them. Banking secrecy is gone. It is more difficult to conduct international business. International transactions are being examined and blocked. Commerce is slowing down. The banks are running a police station for the state, enforcing a regulation that is not clear. Conducting international business has become unpredictable.
-
-This creates the value proposition for cryptocurrencies. They bring back privacy, the speed of transactions and are regulated by code, not international agreements. They are difficult to confiscate, some of them are fast, most of them are cheap. And some of them are anonymous. Are cryptocurrencies the next step in the evolution of the financial sector? Or is it a parallel solution to a pressing issue?
-
-This talk looks at the development of financial surveillance. It looks at current financial surveillance and risk management systems. It covers the best use-cases for cryptocurrencies and their value proposition. They are not speculation for gamblers, but a solution to a new pressing issue.</abstract>
+        <abstract>In a world where financial surveillance is a norm and banking secrecy is gone, what are our option? And how does the surveillance apparatus really work?&#13;&#13;The introduction of global regulations on financial transactions had a profound effect. As far as we know, no terrorists were caught because of them. Banking secrecy is gone. It is more difficult to conduct international business. International transactions are being examined and blocked. Commerce is slowing down. The banks are running a police station for the state, enforcing a regulation that is not clear. Conducting international business has become unpredictable.&#13;&#13;This creates the value proposition for cryptocurrencies. They bring back privacy, the speed of transactions and are regulated by code, not international agreements. They are difficult to confiscate, some of them are fast, most of them are cheap. And some of them are anonymous. Are cryptocurrencies the next step in the evolution of the financial sector? Or is it a parallel solution to a pressing issue?&#13;&#13;This talk looks at the development of financial surveillance. It looks at current financial surveillance and risk management systems. It covers the best use-cases for cryptocurrencies and their value proposition. They are not speculation for gamblers, but a solution to a new pressing issue.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1030,7 +962,7 @@ This talk looks at the development of financial surveillance. It looks at curren
         <links/>
         <attachments/>
       </event>
-      <event id="38" guid="8ecf84c1-3773-482e-800c-946700fae22a">
+      <event id="38" guid="a05af275-8bf7-44f5-90a0-6ae38c1b165e">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -1043,9 +975,7 @@ This talk looks at the development of financial surveillance. It looks at curren
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Mr. Park Jung Oh, a well-known North Korean defector activist based in Seoul, South Korea, is the ONLY defector who currently sends in outside/banned information to the North Korean people directly, on a regular basis (twice a month, since 2016), using the ocean, plastic water bottles, and rice as a vehicle to deliver USBs and microSD cards.
-
-Mr. Park will talk about the genesis of this unique delivery method for information dissemination into North Korea; how and what changes these USBs cause inside North Korea when the citizens view them; how this delivery method, while very low-tech, is one way of 'hacking' the regime and bypassing the North Korean regime's control to send not only humanitarian aid, but more importantly, information directly to the people inside North Korea; and how others can get involved and participate in this project, which is the only regularly scheduled and carried out work in terms of information dissemination into North Korea.</abstract>
+        <abstract>Mr. Park Jung Oh, a well-known North Korean defector activist based in Seoul, South Korea, is the ONLY defector who currently sends in outside/banned information to the North Korean people directly, on a regular basis (twice a month, since 2016), using the ocean, plastic water bottles, and rice as a vehicle to deliver USBs and microSD cards.&#13;&#13;Mr. Park will talk about the genesis of this unique delivery method for information dissemination into North Korea; how and what changes these USBs cause inside North Korea when the citizens view them; how this delivery method, while very low-tech, is one way of 'hacking' the regime and bypassing the North Korean regime's control to send not only humanitarian aid, but more importantly, information directly to the people inside North Korea; and how others can get involved and participate in this project, which is the only regularly scheduled and carried out work in terms of information dissemination into North Korea.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1057,7 +987,7 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
         <links/>
         <attachments/>
       </event>
-      <event id="39" guid="2d2ebff9-817c-4e7b-9c5d-32be773fa4b1">
+      <event id="39" guid="66076766-249b-4e4a-9fd7-5c10805c4608">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1070,11 +1000,7 @@ Mr. Park will talk about the genesis of this unique delivery method for informat
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>As we draw closer to an era where we are no longer bound by centralized rules dictating how our societies should function, we are in need of tools that can support our journey forward.
-
-Our societies have been built from the top-down. Enforcement branching out with no care about how it would effect the people who must pay dearly for its fruits. We are all capable of assessing our needs, we are all capable of building a world shaped by those who live in it, rather than those who enjoy the privileged seats assigned to them.
-
-Regulations are pushing to create boundaries for us to play in. Like obsessive parents, we are being told to play within the limits of their vision. As though the rules they had assigned us had done us any good thus far. The failure to see and acknowledge this has been the root cause of our perish. We are no longer looking for guidance, we seek something much greater. A sign of hope not built by fortune tellers, but by those who have all of humanity in mind. What tools can we use to &quot;opt-out&quot;? Join me for yet another interactive presentation.</abstract>
+        <abstract>As we draw closer to an era where we are no longer bound by centralized rules dictating how our societies should function, we are in need of tools that can support our journey forward.&#13;&#13;Our societies have been built from the top-down. Enforcement branching out with no care about how it would effect the people who must pay dearly for its fruits. We are all capable of assessing our needs, we are all capable of building a world shaped by those who live in it, rather than those who enjoy the privileged seats assigned to them.&#13;&#13;Regulations are pushing to create boundaries for us to play in. Like obsessive parents, we are being told to play within the limits of their vision. As though the rules they had assigned us had done us any good thus far. The failure to see and acknowledge this has been the root cause of our perish. We are no longer looking for guidance, we seek something much greater. A sign of hope not built by fortune tellers, but by those who have all of humanity in mind. What tools can we use to &quot;opt-out&quot;? Join me for yet another interactive presentation.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1086,7 +1012,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <links/>
         <attachments/>
       </event>
-      <event id="40" guid="3d085b27-6a08-4bdc-97d8-ade3ad9fbcc1">
+      <event id="40" guid="d2fd3a05-d127-4e09-bcc0-d04ddc237890">
         <url></url>
         <logo/>
         <date>2019-10-05T18:00+02:00</date>
@@ -1111,7 +1037,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <links/>
         <attachments/>
       </event>
-      <event id="41" guid="a03d64ca-2044-46ad-a09c-686ddf777e07">
+      <event id="41" guid="6e363f75-9fcf-4cd3-b405-272042db3056">
         <url></url>
         <logo/>
         <date>2019-10-05T19:00+02:00</date>
@@ -1124,11 +1050,7 @@ Regulations are pushing to create boundaries for us to play in. Like obsessive p
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.
-
-Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.
-
-Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.</abstract>
+        <abstract>Most of us think we know what a country is, but in truth the concept is notoriously slippery. This talk starts with the familiar political map of the world to show what the bold colours and clear boundaries conceal rather than reveal: a multitude of unrecognised and unnoticed states whose claims to legitimacy are deliberately made invisible. This is the shadowy, surprisingly large, and literally unofficial world of countries that don’t exist.&#13;&#13;Based on his best-selling book of the same title, acclaimed travel writer and Oxford geography don, Nick Middleton, takes us on an eye-opening journey through this parallel world. These are wannabe countries that, lacking diplomatic recognition or UN membership, inhabit a realm of shifting borders, idealistic leaders and forgotten peoples. But although the places covered in this talk lie beyond the margins of legitimacy, virtually all can be visited in the real world.&#13;&#13;Filled with stories, facts and figures, this is simultaneously an insight into the power of territorial countries, an introduction to creating your own nation state, and a bucket list of destinations from an alternative dimension. Above all, it’s an assortment of yearning tales of nationhood, most led by visionary leaders: some sad, some mad, some downright bizarre.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1142,7 +1064,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
       </event>
     </room>
     <room name="Small Hub">
-      <event id="42" guid="0ec0873f-5363-4d33-9efc-0dcc71a8cce2">
+      <event id="42" guid="2b023acd-7007-4449-b5fb-670f66b64dcf">
         <url></url>
         <logo/>
         <date>2019-10-05T16:00+02:00</date>
@@ -1155,14 +1077,7 @@ Filled with stories, facts and figures, this is simultaneously an insight into t
         <track>Workshop</track>
         <type></type>
         <language>en</language>
-        <abstract>Bleskomat: The Open Lightning ATM
-Lead by Carlos Garcia Ortiz
-(with support from the rest of the Bleskomat team)
-
-Come and learn how to build an open-source, open-hardware ATM for the Lightning Network. This workshop will include a hands-on demonstration of the “Bleskomat” in action, a brief talk about how it works and the challenges that were overcome during its development, and finally a questions and answers session with the creators.
-
-About Carlos Garcia Ortiz
-Carlos holds a masters degree in food engineering, and has diverse experience ranging from research in agricultural technologies to business valuation of agricultural companies. During the last two years he has been working as a software developer in different projects related to IoT and data visualization.</abstract>
+        <abstract>Bleskomat: The Open Lightning ATM&#13;Lead by Carlos Garcia Ortiz&#13;(with support from the rest of the Bleskomat team)&#13;&#13;Come and learn how to build an open-source, open-hardware ATM for the Lightning Network. This workshop will include a hands-on demonstration of the “Bleskomat” in action, a brief talk about how it works and the challenges that were overcome during its development, and finally a questions and answers session with the creators.&#13;&#13;About Carlos Garcia Ortiz&#13;Carlos holds a masters degree in food engineering, and has diverse experience ranging from research in agricultural technologies to business valuation of agricultural companies. During the last two years he has been working as a software developer in different projects related to IoT and data visualization.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1174,7 +1089,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
         <links/>
         <attachments/>
       </event>
-      <event id="43" guid="3a885dc8-3e4f-42c7-bbd3-43fc63d8356c">
+      <event id="43" guid="70a4bc40-314a-4956-8641-cd8dca74ebbd">
         <url></url>
         <logo/>
         <date>2019-10-05T17:00+02:00</date>
@@ -1187,20 +1102,7 @@ Carlos holds a masters degree in food engineering, and has diverse experience ra
         <track>Workshop</track>
         <type></type>
         <language>en</language>
-        <abstract>Securing transactions, communication and files by one device: RMX hardware wallet approach
-Lead by Pavel &quot;i_a&quot; Polach
-
-Effective digital privacy demands complex approach to all interactions in cyberspace. Anonymity of financial transactions, secure messaging and file encryption are main cornerstones and for many people, dedicated secure hardware device is essential to obtain such level of digital privacy.
-
-RMX device aims to bring this approach to the space by including Secure end-to-end encrypted messenger, AES file encryption device and Monero hardware wallet into one device equipped with native alphanumeric keyboard. Use of hardware accelerated cryptographical primitives allows RMX to become fast multi-purpose platform. This feature also enables RMX's accelerated ed25519 elliptic curve multiplication to synchronize the Monero wallet quickly and moreover - without leaking the private key.
-
-The open-source nature of the project together with relevant community participating in iterations and debuging process ensures the possible weaknesses will be eliminated. Community is crucial from the very beginning - more testers will participate, more issues can be solved before the production scaling.Incentivizing the community to participate is the principal intention behind this talk – RMX device prototypes will be available, so come, have a look at them and share your opinion!
-
-Prerequisites Knowledge:
-Monero basics
-
-About Pavel &quot;i_a&quot; Polach:
-Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and Monero fan. Working experience as a developer for many projects from silicon development industry to IoT sphere. Lead designer in RMX hardware project. </abstract>
+        <abstract>Securing transactions, communication and files by one device: RMX hardware wallet approach&#13;Lead by Pavel &quot;i_a&quot; Polach&#13;&#13;Effective digital privacy demands complex approach to all interactions in cyberspace. Anonymity of financial transactions, secure messaging and file encryption are main cornerstones and for many people, dedicated secure hardware device is essential to obtain such level of digital privacy.&#13;&#13;RMX device aims to bring this approach to the space by including Secure end-to-end encrypted messenger, AES file encryption device and Monero hardware wallet into one device equipped with native alphanumeric keyboard. Use of hardware accelerated cryptographical primitives allows RMX to become fast multi-purpose platform. This feature also enables RMX's accelerated ed25519 elliptic curve multiplication to synchronize the Monero wallet quickly and moreover - without leaking the private key.&#13;&#13;The open-source nature of the project together with relevant community participating in iterations and debuging process ensures the possible weaknesses will be eliminated. Community is crucial from the very beginning - more testers will participate, more issues can be solved before the production scaling.Incentivizing the community to participate is the principal intention behind this talk – RMX device prototypes will be available, so come, have a look at them and share your opinion!&#13;&#13;Prerequisites Knowledge:&#13;Monero basics&#13;&#13;About Pavel &quot;i_a&quot; Polach:&#13;Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and Monero fan. Working experience as a developer for many projects from silicon development industry to IoT sphere. Lead designer in RMX hardware project. </abstract>
         <description/>
         <recording>
           <license/>
@@ -1214,7 +1116,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
       </event>
     </room>
     <room name="Media Hub">
-      <event id="44" guid="72a3c1e3-fac3-4ef2-8987-f25c733e5148">
+      <event id="44" guid="a86ef08d-7d5f-408e-989b-de2f057b8a96">
         <url></url>
         <logo/>
         <date>2019-10-05T09:00+02:00</date>
@@ -1227,28 +1129,7 @@ Pavel &quot;i_a&quot; Polach is a hardware engineer, encryption enthusiast and M
         <track>Workshop</track>
         <type></type>
         <language>en</language>
-        <abstract>“Black Crystal”
-Lead by RIAT and Riddle+Code
-
-The workshop follows the huge success of the previous format “decentralised ID authentication &amp; access workshop”, which has been held in RIAT Vienna in July 2019 and covered topics such as Shamir Secret Sharing, Machine Identities, and Decentralised Identifiers.
-
-The workshop at HCPP is limited to 25 people and is free of charge.
-
-Registration starts October 2 at https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017?ref=hcpp
-
-Pre-requirements for workshop participants
-- Workshop participants should have basic programming knowledge (experience with C. C++ and Arduino IDE).
-- Networking and Linux knowledge is required.
-- Basic Hardware knowledge is necessary (Raspberry Pi, HSM).
-- Basic concepts about hardware wallets, cryptography and public/private key systems should be of knowledge.
-
-About RIAT - Institute for Future Cryptoeconomics
-RIAT is an independent R+D institute focussing on Open Hardware, Blockchain and Privacy-Enabling technologies. The institute is active in Austria, Cyprus and the US and exists since 2012. The institute is
-one of the world’s earliest blockchain institutes. The “cryptography and hardware” division of RIAT works on communicating (open) hardware related topics to developers, enthusiasts and the general public.
-
-More information:
-https://riat.at/open-hardware-dialogues/
-https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
+        <abstract>“Black Crystal”&#13;Lead by RIAT and Riddle+Code&#13;&#13;The workshop follows the huge success of the previous format “decentralised ID authentication &amp; access workshop”, which has been held in RIAT Vienna in July 2019 and covered topics such as Shamir Secret Sharing, Machine Identities, and Decentralised Identifiers.&#13;&#13;The workshop at HCPP is limited to 25 people and is free of charge.&#13;&#13;Registration starts October 2 at https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017?ref=hcpp&#13;&#13;Pre-requirements for workshop participants&#13;- Workshop participants should have basic programming knowledge (experience with C. C++ and Arduino IDE).&#13;- Networking and Linux knowledge is required.&#13;- Basic Hardware knowledge is necessary (Raspberry Pi, HSM).&#13;- Basic concepts about hardware wallets, cryptography and public/private key systems should be of knowledge.&#13;&#13;About RIAT - Institute for Future Cryptoeconomics&#13;RIAT is an independent R+D institute focussing on Open Hardware, Blockchain and Privacy-Enabling technologies. The institute is active in Austria, Cyprus and the US and exists since 2012. The institute is&#13;one of the world’s earliest blockchain institutes. The “cryptography and hardware” division of RIAT works on communicating (open) hardware related topics to developers, enthusiasts and the general public.&#13;&#13;More information:&#13;https://riat.at/open-hardware-dialogues/&#13;https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
         <description/>
         <recording>
           <license/>
@@ -1262,7 +1143,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="45" guid="bc73f6b1-a0ad-4013-8015-508a21030fc3">
+      <event id="45" guid="62bea244-1e82-4a24-8071-7942a290ab99">
         <url></url>
         <logo/>
         <date>2019-10-05T15:00+02:00</date>
@@ -1275,22 +1156,7 @@ https://ohm.oshwa.org/event/open-hardware-dialogues-black-crystal/</abstract>
         <track>Workshop</track>
         <type></type>
         <language>en</language>
-        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
-Lead by Michael Schloh von Bennewitz
-
-HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.
-
-The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.
-
-Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.
-
-- Simply assisting with smartphone readerer devices
-- Tapping the EEPROM storage with a chip leg clamp
-- Reading and writing I2C signals with a logic analyser
-- Sending commands and configuring with a bus pirate
-- Aiding wearability by adding a magnetic badge mount
-
-Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
+        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!&#13;Lead by Michael Schloh von Bennewitz&#13;&#13;HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.&#13;&#13;The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.&#13;&#13;Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.&#13;&#13;- Simply assisting with smartphone readerer devices&#13;- Tapping the EEPROM storage with a chip leg clamp&#13;- Reading and writing I2C signals with a logic analyser&#13;- Sending commands and configuring with a bus pirate&#13;- Aiding wearability by adding a magnetic badge mount&#13;&#13;Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
         <description/>
         <recording>
           <license/>
@@ -1304,7 +1170,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
       </event>
     </room>
     <room name="Bar">
-      <event id="46" guid="651ae538-0101-4039-be8b-ef87c378a7fe">
+      <event id="46" guid="a93336bc-6b05-472c-b0d1-11c9948be057">
         <url></url>
         <logo/>
         <date>2019-10-05T21:00+02:00</date>
@@ -1333,7 +1199,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
   </day>
   <day index="3" date="2019-10-06" start="2019-10-06T09:00:00+02:00" end="2019-10-07T01:00:00+02:00">
     <room name="Studio 1">
-      <event id="47" guid="07a077af-0fc0-4519-a0d0-e78f1e4f54a0">
+      <event id="47" guid="3650c036-f166-41be-8239-a9250abef8ab">
         <url></url>
         <logo/>
         <date>2019-10-05T13:00+02:00</date>
@@ -1346,22 +1212,7 @@ Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole H
         <track>Panel</track>
         <type></type>
         <language>en</language>
-        <abstract>Let us introduce existing Crypto Liberation Communities in Catalonia, Germany, Austria, Czech Republic and Slovakia.
-
-Listen their short stories, their achievements and fails.
-
-Be inspired and create your own community!
-
-Panelists:
-Nelson Melina &amp; Marc Guals - Barcelona's Polis Parallela
-Joerg Platzer - Room 77
-Gideon Gallasch - Bitcoin enthusiast, Co-Founder Blockchainhotel and Bitcoin-Treff.de
-Smuggler - Anarplex.net / Berlin Container
-Martin Leskovjan - Prague's Paralelní Polis
-Juraj Bednár - Bratislava's Paralelná Polis
-Tomas Kanócz - Košice's Paralelná polis
-
-Moderated by: Pavol Lupták</abstract>
+        <abstract>Let us introduce existing Crypto Liberation Communities in Catalonia, Germany, Austria, Czech Republic and Slovakia.&#13;&#13;Listen their short stories, their achievements and fails.&#13;&#13;Be inspired and create your own community!&#13;&#13;Panelists:&#13;Nelson Melina &amp; Marc Guals - Barcelona's Polis Parallela&#13;Joerg Platzer - Room 77&#13;Gideon Gallasch - Bitcoin enthusiast, Co-Founder Blockchainhotel and Bitcoin-Treff.de&#13;Smuggler - Anarplex.net / Berlin Container&#13;Martin Leskovjan - Prague's Paralelní Polis&#13;Juraj Bednár - Bratislava's Paralelná Polis&#13;Tomas Kanócz - Košice's Paralelná polis&#13;&#13;Moderated by: Pavol Lupták</abstract>
         <description/>
         <recording>
           <license/>
@@ -1381,7 +1232,7 @@ Moderated by: Pavol Lupták</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="48" guid="f3b437df-51cc-498b-8f3b-cca78145adc1">
+      <event id="48" guid="6da18017-9da9-4661-8e3e-29e0ee739356">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1406,7 +1257,7 @@ Moderated by: Pavol Lupták</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="49" guid="7e283406-e01f-423e-9a56-752e4f331f75">
+      <event id="49" guid="35894bf4-2f69-4818-ad16-4fda7f94a341">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1419,9 +1270,7 @@ Moderated by: Pavol Lupták</abstract>
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Dishonest Devs: Defeating Insider Attacks on Decentralized Tech
-
-Decentralized systems are meant to be trustless. But our interactions with tech is always mediated by software. This talk will cover the threat, including real and hypothetical attacks, what it takes for communities to defeat these attacks, and how we can better design decentralized systems to defeat these attacks.</abstract>
+        <abstract>Dishonest Devs: Defeating Insider Attacks on Decentralized Tech&#13;&#13;Decentralized systems are meant to be trustless. But our interactions with tech is always mediated by software. This talk will cover the threat, including real and hypothetical attacks, what it takes for communities to defeat these attacks, and how we can better design decentralized systems to defeat these attacks.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1433,7 +1282,7 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
         <links/>
         <attachments/>
       </event>
-      <event id="50" guid="17c80b84-aed3-40b0-923e-88a25e785bb0">
+      <event id="50" guid="ff74cc21-2462-4583-bb75-caa532fe318f">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1446,9 +1295,7 @@ Decentralized systems are meant to be trustless. But our interactions with tech 
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Why do we need to be and should be opt-out?
-
-You will find the answer from the stories of my life.</abstract>
+        <abstract>Why do we need to be and should be opt-out?&#13;&#13;You will find the answer from the stories of my life.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1460,7 +1307,7 @@ You will find the answer from the stories of my life.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="51" guid="843b9317-024a-46fe-bf6f-736ac4bdc81d">
+      <event id="51" guid="cc502e10-ad84-4468-af5f-bbc2cd396550">
         <url></url>
         <logo/>
         <date>2019-10-06T19:00+02:00</date>
@@ -1487,7 +1334,7 @@ You will find the answer from the stories of my life.</abstract>
       </event>
     </room>
     <room name="Institute of Cryptoanarchy">
-      <event id="52" guid="8f7f4d52-a5d4-45b8-9163-151a6ab5071a">
+      <event id="52" guid="a1ea9d57-b97c-443c-bae9-278ced573d55">
         <url></url>
         <logo/>
         <date>2019-10-06T13:00+02:00</date>
@@ -1512,7 +1359,7 @@ You will find the answer from the stories of my life.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="53" guid="2afbb1df-a997-4375-a692-d272739166ac">
+      <event id="53" guid="91d3d7cb-83ca-42e1-9b2c-f6bcb6cd3593">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1537,7 +1384,7 @@ You will find the answer from the stories of my life.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="54" guid="71617100-2fb0-42f6-a836-771c5b61aaf7">
+      <event id="54" guid="1913c217-799b-45d6-bcd5-e3b103ab856f">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1550,20 +1397,7 @@ You will find the answer from the stories of my life.</abstract>
         <track>Lightning Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Alena Vránova
-BIO
-Alena develops early stage ideas into profitable products and services. Her track record includes several successful startups in finance and technology. Alena has over 15 years experience in leadership. She founded SatoshiLabs known for Trezor, the first bitcoin hardware wallet. Today, Alena acts as Head of Strategy for Casa.
-
-ABSTRACT
-The Little Bitcoin Book: Why Bitcoin Matters for your Freedom, Finances and Future
-
-
-Jason Evans
-BIO
-Jason is a training engineer with SUSE Linux in Prague. He specializes in writing training materials for container-based applications including Docker, Kubernetes, and Cloud Foundry. He is also deeply interested in keeping speech free even in places where it is illegal and so he is also interested in how Tor can help with that goal.
-
-ABSTRACT - Building Tor Onion Services Quickly and Securely Using Containers
-What is Tor? Is it merely a place for criminals to hide out on the so called &quot;Dark Web&quot;? Are onion services nothing more than tools to hide illegal pornography and host drug markets? We'll answer these questions as well as learn how to make simple onion services using Linux containers in my presentation. // The Crpto-Anarchist Manifesto speaks of, &quot;the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner&quot;. The goal of my presentation is to help enable individuals with the means to do this via Tor. Currently setting up an anonymous Tor onion service is not very difficult but does it take time to understand how the pieces work together. Using the Docker container method, we can minimize complexity and allow new onion services to be brought online quickly and securely. The end result I hope to accomplish is to allow people to communicate peacefully and anonymously without fear from governments and others who will not allow the free exchange of ideas.</abstract>
+        <abstract>Alena Vránova&#13;BIO&#13;Alena develops early stage ideas into profitable products and services. Her track record includes several successful startups in finance and technology. Alena has over 15 years experience in leadership. She founded SatoshiLabs known for Trezor, the first bitcoin hardware wallet. Today, Alena acts as Head of Strategy for Casa.&#13;&#13;ABSTRACT&#13;The Little Bitcoin Book: Why Bitcoin Matters for your Freedom, Finances and Future&#13;&#13;&#13;Jason Evans&#13;BIO&#13;Jason is a training engineer with SUSE Linux in Prague. He specializes in writing training materials for container-based applications including Docker, Kubernetes, and Cloud Foundry. He is also deeply interested in keeping speech free even in places where it is illegal and so he is also interested in how Tor can help with that goal.&#13;&#13;ABSTRACT - Building Tor Onion Services Quickly and Securely Using Containers&#13;What is Tor? Is it merely a place for criminals to hide out on the so called &quot;Dark Web&quot;? Are onion services nothing more than tools to hide illegal pornography and host drug markets? We'll answer these questions as well as learn how to make simple onion services using Linux containers in my presentation. // The Crpto-Anarchist Manifesto speaks of, &quot;the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner&quot;. The goal of my presentation is to help enable individuals with the means to do this via Tor. Currently setting up an anonymous Tor onion service is not very difficult but does it take time to understand how the pieces work together. Using the Docker container method, we can minimize complexity and allow new onion services to be brought online quickly and securely. The end result I hope to accomplish is to allow people to communicate peacefully and anonymously without fear from governments and others who will not allow the free exchange of ideas.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1576,7 +1410,7 @@ What is Tor? Is it merely a place for criminals to hide out on the so called &qu
         <links/>
         <attachments/>
       </event>
-      <event id="55" guid="00ee5b06-4c0b-47c6-bcd1-f913507bdbe6">
+      <event id="55" guid="78015c1d-6d3d-42bd-aeb3-3c6606833c80">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1589,9 +1423,7 @@ What is Tor? Is it merely a place for criminals to hide out on the so called &qu
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Trustless loan backed by BTC
-
-How loan can be replicated using derivatives, mainly futures and swaps. And how to enter such contracts in p2p fashion. The talk examines current possibilities how to take the loan backed by hodlers BTC and how to construct loan using BTC derivatives, mainly futures and swaps. In the end simple p2p derivative construction will be described.</abstract>
+        <abstract>Trustless loan backed by BTC&#13;&#13;How loan can be replicated using derivatives, mainly futures and swaps. And how to enter such contracts in p2p fashion. The talk examines current possibilities how to take the loan backed by hodlers BTC and how to construct loan using BTC derivatives, mainly futures and swaps. In the end simple p2p derivative construction will be described.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1603,7 +1435,7 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
         <links/>
         <attachments/>
       </event>
-      <event id="56" guid="7b784779-1a16-46a8-bd2d-9336db041b35">
+      <event id="56" guid="f8ab86b6-7378-4f14-98de-446645dea2f8">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1616,18 +1448,7 @@ How loan can be replicated using derivatives, mainly futures and swaps. And how 
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Bitcoin peer banking
-
-Bitcoin backed trustless peer banking. What?
-
-Think peers banking peers. Alice the “hodler” going long Bitcoin, Bob the “lender” providing her dollar liquidity for an interest, Charlie “the miner” hedging to dollars, Dave the “financier” balancing demand and supply liquidity and Emily the “trader” speculating on futures, options, FXs or stocks. All just above Bitcoin as the underlying and creating a parallel trustless financial system.
-
-Think DeFi built on top of Bitcoin using Bitcoin multisig tech to get simple reliable smart contracts, using Bitcoin as the only reliable store of value.
-
-Think open source third layer on top of Bitcoin, an accounting layer that can share liquidity and reconcile across on-chain and lightning settlement layers.
-
-From theoretical concepts to real world products and how we can get this done.
-</abstract>
+        <abstract>Bitcoin peer banking&#13;&#13;Bitcoin backed trustless peer banking. What?&#13;&#13;Think peers banking peers. Alice the “hodler” going long Bitcoin, Bob the “lender” providing her dollar liquidity for an interest, Charlie “the miner” hedging to dollars, Dave the “financier” balancing demand and supply liquidity and Emily the “trader” speculating on futures, options, FXs or stocks. All just above Bitcoin as the underlying and creating a parallel trustless financial system.&#13;&#13;Think DeFi built on top of Bitcoin using Bitcoin multisig tech to get simple reliable smart contracts, using Bitcoin as the only reliable store of value.&#13;&#13;Think open source third layer on top of Bitcoin, an accounting layer that can share liquidity and reconcile across on-chain and lightning settlement layers.&#13;&#13;From theoretical concepts to real world products and how we can get this done.&#13;</abstract>
         <description/>
         <recording>
           <license/>
@@ -1641,7 +1462,7 @@ From theoretical concepts to real world products and how we can get this done.
       </event>
     </room>
     <room name="Slévárna">
-      <event id="57" guid="bfbee00f-49c5-463e-8fb3-994a22101cd9">
+      <event id="57" guid="d9774cc4-5bbf-4e04-a977-4bc05d6a8279">
         <url></url>
         <logo/>
         <date>2019-10-06T14:00+02:00</date>
@@ -1654,11 +1475,7 @@ From theoretical concepts to real world products and how we can get this done.
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>In the era of ubiquitous surveillance and globally-banked cryptocurrency projects like Facebook's Libra, how can cryptoanarchists fight back? Through cryptographic code! We'll survey the grim state of surveillance, starting with the industrialization of NSA mass surveillance via companies like Chainanalysis to the recent targeting of Assange. We'll present two new systems that are capable of resisting even global adversaries with a full view of the network: Anonymous credentials and mix-networks.
-
-We'll explain how new advances in mix-networking can be integrated with anonymous access credentials to provide end-to-end privacy against even the most powerful of adversaries.
-
-We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs, and how probabilistic mix-networks such as Loopix can be extended to handle a decentralized environment. We'll also describe new advances in anonymous access credentials, so that with threshold signatures they also function in a decentralized environment. Lastly, we'll discuss how financial incentives enabled by blockchains allow these technologies to become self-sustaining.</abstract>
+        <abstract>In the era of ubiquitous surveillance and globally-banked cryptocurrency projects like Facebook's Libra, how can cryptoanarchists fight back? Through cryptographic code! We'll survey the grim state of surveillance, starting with the industrialization of NSA mass surveillance via companies like Chainanalysis to the recent targeting of Assange. We'll present two new systems that are capable of resisting even global adversaries with a full view of the network: Anonymous credentials and mix-networks.&#13;&#13;We'll explain how new advances in mix-networking can be integrated with anonymous access credentials to provide end-to-end privacy against even the most powerful of adversaries.&#13;&#13;We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs, and how probabilistic mix-networks such as Loopix can be extended to handle a decentralized environment. We'll also describe new advances in anonymous access credentials, so that with threshold signatures they also function in a decentralized environment. Lastly, we'll discuss how financial incentives enabled by blockchains allow these technologies to become self-sustaining.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1670,7 +1487,7 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
         <links/>
         <attachments/>
       </event>
-      <event id="58" guid="ac0b636b-e692-4d86-948c-be1a415e2aad">
+      <event id="58" guid="b337b6b1-ae93-44c9-a2d2-93e45eef257a">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1683,9 +1500,7 @@ We'll demonstrate how mix-nets provide better anonymity than either Tor or VPNs,
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>The media landscape is transforming as decentralized, peer-to-peer networks are emerging. In conflict zones, this can be a missing piece to expose what is really going on, and facilitate dialogue. What is the role of centralized media in conflict? How do can we deal with censorship and manipulation of information? Does objectivity exist?How do we prevent digital colonialism? How do we have a conversation with our enemy? 
-
-It is time to acknowledge the important role of technology to provide the utmost security and freedom of speech in conflict zones and highly government-controlled areas.</abstract>
+        <abstract>The media landscape is transforming as decentralized, peer-to-peer networks are emerging. In conflict zones, this can be a missing piece to expose what is really going on, and facilitate dialogue. What is the role of centralized media in conflict? How do can we deal with censorship and manipulation of information? Does objectivity exist?How do we prevent digital colonialism? How do we have a conversation with our enemy? &#13;&#13;It is time to acknowledge the important role of technology to provide the utmost security and freedom of speech in conflict zones and highly government-controlled areas.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1697,7 +1512,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <links/>
         <attachments/>
       </event>
-      <event id="59" guid="f83e3c93-fdd4-4dcc-bac3-84d663a11353">
+      <event id="59" guid="d6c44f9e-2a61-42ab-8e7e-75cd9afeed3b">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1722,7 +1537,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <links/>
         <attachments/>
       </event>
-      <event id="60" guid="2f5c1989-0608-4dde-9b95-6996cf558641">
+      <event id="60" guid="0f3e1705-359c-41d0-9e1f-540d8e8fe0a6">
         <url></url>
         <logo/>
         <date>2019-10-06T18:00+02:00</date>
@@ -1735,9 +1550,7 @@ It is time to acknowledge the important role of technology to provide the utmost
         <track>Talks</track>
         <type></type>
         <language>en</language>
-        <abstract>Dictatorship 2.0: 'powered by AI'
-
-This analysis of hostile state sponsored disinformation will serve as an introduction to the more nuanced analysis of Facebook, which plays a key role in those campaigns. This speech will explain Facebook’s shameful business model supported by AI algorithms with no ethical and social dimensions. This way, AI is used for the nasty dehumanization of mankind – in the name of profit and even more power for Facebook’s founder.</abstract>
+        <abstract>Dictatorship 2.0: 'powered by AI'&#13;&#13;This analysis of hostile state sponsored disinformation will serve as an introduction to the more nuanced analysis of Facebook, which plays a key role in those campaigns. This speech will explain Facebook’s shameful business model supported by AI algorithms with no ethical and social dimensions. This way, AI is used for the nasty dehumanization of mankind – in the name of profit and even more power for Facebook’s founder.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1751,7 +1564,7 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
       </event>
     </room>
     <room name="Small Hub">
-      <event id="61" guid="2b7fcc58-0967-42c1-a1f9-4f75cdd77363">
+      <event id="61" guid="e489ca98-5901-4009-b0bd-4024cab112d5">
         <url></url>
         <logo/>
         <date>2019-10-06T16:00+02:00</date>
@@ -1764,16 +1577,7 @@ This analysis of hostile state sponsored disinformation will serve as an introdu
         <track>Workshop</track>
         <type></type>
         <language>en</language>
-        <abstract>How to Crack a Private Key
-Lead by Robin Cussol
-
-Most people take for granted that cryptography and maths secure billions of dollars worth of cryptocurrency assets everyday, but have you ever asked yourself, “How?”. During this workshop you will learn how – by attempting to crack a private key given its public key using only maths.
-
-Prerequisites Knowledge
-Basic mathematics including algebra
-
-About Robin Cussol
-After completing a PhD in Mathematics, Robin decided to apply his logical mind to impact more people through software development. He now spends most of his time coding web and mobile applications, but still enjoys the odd occasion to do some maths and explain arcane symbols.</abstract>
+        <abstract>How to Crack a Private Key&#13;Lead by Robin Cussol&#13;&#13;Most people take for granted that cryptography and maths secure billions of dollars worth of cryptocurrency assets everyday, but have you ever asked yourself, “How?”. During this workshop you will learn how – by attempting to crack a private key given its public key using only maths.&#13;&#13;Prerequisites Knowledge&#13;Basic mathematics including algebra&#13;&#13;About Robin Cussol&#13;After completing a PhD in Mathematics, Robin decided to apply his logical mind to impact more people through software development. He now spends most of his time coding web and mobile applications, but still enjoys the odd occasion to do some maths and explain arcane symbols.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1785,7 +1589,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
         <links/>
         <attachments/>
       </event>
-      <event id="62" guid="62355b08-8868-4b73-aea2-e88359ffd0bb">
+      <event id="62" guid="9c93f120-d41e-40db-a779-7b5819b38ab2">
         <url></url>
         <logo/>
         <date>2019-10-06T17:00+02:00</date>
@@ -1798,13 +1602,7 @@ After completing a PhD in Mathematics, Robin decided to apply his logical mind t
         <track>Workshop</track>
         <type></type>
         <language>en</language>
-        <abstract>Future of decentralised species conservation
-Lead by Tomáš Ouhel
-
-Rapid loss of biodiversity has been overshadowed by ongoing world debate about climate changes with outcomes of so called “global warming”. Governments and multinational NGOs are claiming their efforts in reducing carbon emissions in order to prove their commitments and transferring money between climate funds with very small real impact. But unfortunately we are losing whole species without further notice and no one knows which of these species loose may be the fatal one. If we look precisely into the core of the problems we can identify many small actions which can be taken to have a big impact. We will demonstrate you how small changes in to the old systems using high-tech can cause big impact on species survival for example with critically endangered sea turtles. Species conservation is now opening to decentralised leadership and may become a field for successful implementation of blockchain technology, local communities may uberised the acts for wildlife and get benefits accordingly. There is a long journey of full decentralisation in biodiversity conservation, but it is time to start now.
-
-About Tomáš Ouhel
-Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation Campaign and he has also personal experience in fighting poachers in Indonesia.</abstract>
+        <abstract>Future of decentralised species conservation&#13;Lead by Tomáš Ouhel&#13;&#13;Rapid loss of biodiversity has been overshadowed by ongoing world debate about climate changes with outcomes of so called “global warming”. Governments and multinational NGOs are claiming their efforts in reducing carbon emissions in order to prove their commitments and transferring money between climate funds with very small real impact. But unfortunately we are losing whole species without further notice and no one knows which of these species loose may be the fatal one. If we look precisely into the core of the problems we can identify many small actions which can be taken to have a big impact. We will demonstrate you how small changes in to the old systems using high-tech can cause big impact on species survival for example with critically endangered sea turtles. Species conservation is now opening to decentralised leadership and may become a field for successful implementation of blockchain technology, local communities may uberised the acts for wildlife and get benefits accordingly. There is a long journey of full decentralisation in biodiversity conservation, but it is time to start now.&#13;&#13;About Tomáš Ouhel&#13;Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation Campaign and he has also personal experience in fighting poachers in Indonesia.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1818,7 +1616,7 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
       </event>
     </room>
     <room name="Hackerspace">
-      <event id="63" guid="f0603a66-56fa-44e0-935d-2af9329114a6">
+      <event id="63" guid="7fa78cb6-beec-484a-a511-078461ffcb8a">
         <url></url>
         <logo/>
         <date>2019-10-06T15:00+02:00</date>
@@ -1831,22 +1629,7 @@ Zoologist Tomáš Ouhel is the director of the Silent Forest World Conservation 
         <track>Workshop</track>
         <type></type>
         <language>en</language>
-        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!
-Lead by Michael Schloh von Bennewitz
-
-HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.
-
-The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.
-
-Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.
-
-- Simply assisting with smartphone readerer devices
-- Tapping the EEPROM storage with a chip leg clamp
-- Reading and writing I2C signals with a logic analyser
-- Sending commands and configuring with a bus pirate
-- Aiding wearability by adding a magnetic badge mount
-
-Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
+        <abstract>HCPP19 Badge Clinic: Modify and customise your electronic badge at the hands on HCPP19 Badge Clinic!&#13;Lead by Michael Schloh von Bennewitz&#13;&#13;HCPP supports your creative hacker instincts by offering the first ever Badge Clinic. Find it in the published floor map, and join us to learn and push the limits of your hardware hacking ability.&#13;&#13;The HCPP19 Electronic Badge's test points TP(num) and solderfield SF(num) labeled HACK! exist for an important reason: To foster our common hardware hacking skills.&#13;&#13;Come to the Badge Clinic to explore the features of your electronic badge(s) in depth, as well as conduct experiments and modifications. Become a creative hardware hacker as a electronics instructor guides you to satisfy curiosity and creatively explore technical customisations.&#13;&#13;- Simply assisting with smartphone readerer devices&#13;- Tapping the EEPROM storage with a chip leg clamp&#13;- Reading and writing I2C signals with a logic analyser&#13;- Sending commands and configuring with a bus pirate&#13;- Aiding wearability by adding a magnetic badge mount&#13;&#13;Badge Clinic can be found in Hackerspace/Lab under Bitcoin Coffee during whole HCPP!</abstract>
         <description/>
         <recording>
           <license/>
