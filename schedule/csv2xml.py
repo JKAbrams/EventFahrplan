@@ -155,6 +155,7 @@ def printXML(reader):
         title = escape(r[4])
         abstract = escape(r[5])
         room = r[6]
+        track = r[7]
 
         # Calculate dates:
         dayNo = dayIndex

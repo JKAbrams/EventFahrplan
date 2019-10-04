@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 03:50</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-10-04 04:00</version>
   <conference>
     <acronym>HCPP19</acronym>
     <title>Hackers Congress Paralelni Polis 2019</title>
@@ -1334,7 +1334,15 @@ Moderated by: Pavol Lupták</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="0"></person>
+          <person id="0">Nelson Melina</person>
+          <person id="0">Marc Guals</person>
+          <person id="0">Joerg Platzer</person>
+          <person id="0">Gideon Gallasch</person>
+          <person id="0">Smuggler</person>
+          <person id="0">Martin Leskovjan</person>
+          <person id="0">Juraj Bednár</person>
+          <person id="0">Tomas Kanócz</person>
+          <person id="0">Pavol Lupták</person>
         </persons>
         <links/>
         <attachments/>
