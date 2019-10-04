@@ -10,7 +10,7 @@ python csv2xml.py schedule.csv > hcpp19.xml
 # Diff here:
 https://github.com/EventFahrplan/EventFahrplan/compare/master...JKAbrams:master
 
-[![Build Status](https://travis-ci.org/EventFahrplan/EventFahrplan.svg?branch=master)](https://travis-ci.org/EventFahrplan/EventFahrplan) [![Apache License](http://img.shields.io/badge/license-Apache%20License%202.0-lightgrey.svg)](http://choosealicense.com/licenses/apache-2.0/)
+[![Apache License](http://img.shields.io/badge/license-Apache%20License%202.0-lightgrey.svg)](http://choosealicense.com/licenses/apache-2.0/)
 
 # EventFahrplan
 
