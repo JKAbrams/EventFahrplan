@@ -10,9 +10,13 @@ python csv2xml.py schedule.csv > hcpp19.xml
 # Diff here:
 https://github.com/EventFahrplan/EventFahrplan/compare/master...JKAbrams:master
 
+# APK here:
+https://github.com/JKAbrams/EventFahrplan/raw/master/Fahrplan-1.40.0-hcpp19-release.apk
+
+
 [![Apache License](http://img.shields.io/badge/license-Apache%20License%202.0-lightgrey.svg)](http://choosealicense.com/licenses/apache-2.0/)
 
-[Opt out](app/src/hcpp19/res/drawable-xxxhdpi/dialog_logo.png)
+[Opt out](https://github.com/JKAbrams/EventFahrplan/raw/master/app/src/hcpp19/res/drawable-xxxhdpi/dialog_logo.png)
 
 
 
