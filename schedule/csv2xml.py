@@ -141,7 +141,7 @@ def printXML(reader):
         time = r[1]
         persons = r[2]
         title = r[3]
-        abstract = r[4][0:240]
+        abstract = r[4][0:220]
         room = r[5]
 
         # Calculate dates:
