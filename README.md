@@ -5,8 +5,8 @@ In the schedule folder is a script that produces a valid .xml file that the Even
 Changed names and branding, otherwise nothing different from the original.
 
 # Schedule data genreation script usage:
-cd schedule
-python csv2xml.py schedule.csv > hcpp19.xml
+    cd schedule
+    python csv2xml.py schedule.csv > hcpp19.xml
 
 # Diff here:
 https://github.com/EventFahrplan/EventFahrplan/compare/master...JKAbrams:master
